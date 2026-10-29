@@ -1,0 +1,11 @@
+# Daily refresh procedure
+
+1. **Find candidates.** Use web search and fetch for pieces published in the last ~30 days from: Citadel Securities (GMI, Macro Thoughts), Bridgewater, Oaktree/Howard Marks memos, AQR, Man Group, Two Sigma, Fed FEDS Notes (federalreserve.gov/econres/notes/feds-notes/2026-index.htm), BIS Bulletins (bis.org/publications/bulletin), Goldman, JPM, or BlackRock Institute research, a16z, Net Interest, Matt Levine, and Stratechery free posts. Never log in anywhere. Reject newswire filler, listicles, stock-pick promos, and stale pieces.
+2. **Verify each one.** Fetch it and confirm HTTP 200 (a 403 bot-block is OK if the page is clearly real, e.g. Citadel). Read the publication date from the page itself and never guess it. Read time = word count / 230. Write a 2-sentence "why it matters" based on what you actually read. Set `paywall: true` for gated content.
+3. **Dedupe.** Skip any URL already in `history.json` (any status), unless it is still current and is being kept in `items.json`.
+4. **Prune.** Remove items from `items.json` whose `date` is more than ~30 days before today. `build.py` keeps them in history and marks them `expired`.
+5. **Pick today's top 3.** Set `"top": true` on exactly 3 items (the freshest, highest-insight pieces) and remove `top` from the others. Aim for 12–20 backlog items. Never pad the list.
+6. **Rebuild.** Run `python3 build.py $(date +%F)`. This regenerates `index.html` and updates `history.json`. listedOn is set only when an item first appears.
+7. **Check.** Run a headless check: `google-chrome --headless=new --no-sandbox --window-size=1200,1600 --screenshot=/workspace/morning-reads-preview.png file:///home/box/morning-reads/index.html`, and confirm there are 3 top items.
+8. **Ship.** Run `git add -A && git commit -m "refresh $(date +%F)" && git push origin main`.
+9. **Verify live.** After Netlify deploys, `curl -s <live-url> | grep -c 'list updated'` and confirm today's date is embedded (`grep "$(date +%F)"`).

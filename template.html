@@ -1,0 +1,42 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Morning Reads</title><style>
+:root{--bg:#0e1116;--card:#161b22;--line:#262d36;--tx:#e6edf3;--mut:#8b949e;--acc:#58a6ff;--pw:#d29922}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+main{max-width:860px;margin:0 auto;padding:20px 16px 60px}header h1{margin:0;font-size:1.6rem}header p{margin:4px 0 0;color:var(--mut)}
+.tabs{display:flex;gap:8px;margin:18px 0}.tabs button{background:var(--card);color:var(--tx);border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer;font-size:.95rem}
+.tabs button.on{background:var(--acc);color:#0e1116;border-color:var(--acc);font-weight:600}
+h2{font-size:1rem;text-transform:uppercase;letter-spacing:.08em;color:var(--mut);margin:26px 0 10px}
+.it{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:10px 0;display:flex;gap:12px}
+.it.top{border-left:3px solid var(--acc)}.it input{width:20px;height:20px;margin-top:3px;flex:none;accent-color:var(--acc)}
+.it a{color:var(--tx);font-weight:600;text-decoration:none;font-size:1.05rem}.it a:hover{color:var(--acc)}
+.meta{color:var(--mut);font-size:.85rem;margin:3px 0 6px}.why{margin:0;font-size:.95rem;color:#c9d1d9}
+.pw{color:var(--pw);border:1px solid var(--pw);border-radius:4px;padding:0 5px;font-size:.75rem;margin-left:6px}
+.undo{background:none;border:1px solid var(--line);color:var(--acc);border-radius:6px;padding:3px 10px;cursor:pointer;flex:none;align-self:flex-start}
+.empty{color:var(--mut)}
+</style></head><body><main>
+<header><h1>Morning Reads</h1><p id="sub"></p></header>
+<div class="tabs"><button id="tU" class="on">Unread</button><button id="tR">Read</button></div>
+<div id="U"><h2>Today's top 3</h2><div id="top"></div><h2>More to read</h2><div id="more"></div></div>
+<div id="R" hidden><h2>Read</h2><div id="read"></div></div>
+</main><script>
+const ITEMS=/*DATA*/[];const UPDATED="/*UPDATED*/";
+const K="mr-read:";const isRead=u=>localStorage.getItem(K+u)!==null;
+const M=["January","February","March","April","May","June","July","August","September","October","November","December"];
+const fd=s=>{const[y,m,d]=s.split("-").map(Number);return M[m-1].slice(0,3)+" "+d+", "+y};
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function card(it,top,readMode){const d=document.createElement("div");d.className="it"+(top?" top":"");
+d.innerHTML=(readMode?"":'<input type="checkbox" aria-label="Mark read">')+'<div style="flex:1"><a target="_blank" rel="noopener" href="'+esc(it.url)+'">'+esc(it.title)+'</a>'+(it.paywall?'<span class="pw">paywall</span>':'')+
+'<div class="meta">'+esc(it.source)+' · '+fd(it.date)+' · '+it.min+' min read · listed '+fd(it.listedOn)+'</div><p class="why">'+esc(it.why)+'</p></div>'+(readMode?'<button class="undo">Undo</button>':'');
+if(readMode)d.querySelector("button").onclick=()=>{localStorage.removeItem(K+it.url);render()};
+else d.querySelector("input").onchange=()=>{localStorage.setItem(K+it.url,new Date().toISOString());render()};return d}
+function render(){const un=ITEMS.filter(i=>!isRead(i.url));const tops=un.filter(i=>i.top),rest=un.filter(i=>!i.top);
+while(tops.length<3&&rest.length)tops.push(rest.shift());
+const T=document.getElementById("top"),Mo=document.getElementById("more"),R=document.getElementById("read");T.innerHTML=Mo.innerHTML=R.innerHTML="";
+tops.forEach(i=>T.appendChild(card(i,true)));rest.forEach(i=>Mo.appendChild(card(i,false)));
+const rd=ITEMS.filter(i=>isRead(i.url)).sort((a,b)=>localStorage.getItem(K+b.url).localeCompare(localStorage.getItem(K+a.url)));rd.forEach(i=>R.appendChild(card(i,false,true)));
+if(!tops.length)T.innerHTML='<p class="empty">All caught up.</p>';if(!rest.length)Mo.innerHTML='<p class="empty">Nothing else queued.</p>';if(!rd.length)R.innerHTML='<p class="empty">Nothing marked read yet.</p>';
+const now=new Date();document.getElementById("sub").textContent=now.toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"})+" · "+un.length+" unread · list updated "+fd(UPDATED);
+document.getElementById("tU").textContent="Unread ("+un.length+")";document.getElementById("tR").textContent="Read ("+rd.length+")"}
+function tab(r){document.getElementById("U").hidden=r;document.getElementById("R").hidden=!r;document.getElementById("tU").classList.toggle("on",!r);document.getElementById("tR").classList.toggle("on",r)}
+document.getElementById("tU").onclick=()=>tab(false);document.getElementById("tR").onclick=()=>tab(true);render();
+</script></body></html>
