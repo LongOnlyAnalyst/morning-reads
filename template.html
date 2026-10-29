@@ -25,11 +25,17 @@ h2{font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercas
 .ck:hover{border-color:var(--acc)}.ck:checked{background:var(--acc);border-color:var(--acc)}
 .undo{background:none;border:0;border-bottom:1px solid var(--mut);color:var(--sub);padding:0;cursor:pointer;font:500 .75rem/1.4 -apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;letter-spacing:.06em;text-transform:uppercase}
 .undo:hover{color:var(--acc);border-color:var(--acc)}
+.rate{font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI",Arial,sans-serif;font-size:.72rem;letter-spacing:.06em;text-transform:lowercase;margin-top:12px;display:flex;gap:16px}
+.rate button,.xp button{background:none;border:0;padding:0 0 2px;color:var(--mut);cursor:pointer;font:inherit;letter-spacing:inherit;border-bottom:1px solid transparent}
+.rate button:hover,.xp button:hover{color:var(--sub)}.rate button.on{color:var(--acc);border-bottom-color:var(--acc)}
+.xp{font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI",Arial,sans-serif;font-size:.72rem;letter-spacing:.04em;color:var(--mut);display:flex;gap:18px;justify-content:flex-end;margin-top:12px;flex-wrap:wrap}
+.xp .msg{color:var(--sub)}
 .empty{color:var(--mut);padding:28px 0;margin:0;font-style:italic}
 @media(max-width:560px){main{padding:40px 20px 72px}h1{font-size:2rem}.it.top a{font-size:1.32rem}.it a{font-size:1.16rem}.it{gap:0 18px;padding:24px 0}h2{margin-top:44px}}
 </style></head><body><main>
 <header><div><h1>Morning Reads</h1><div class="upd">Updated /*UPDATED*/</div></div>
 <nav class="tabs"><button id="tU" class="on">Unread</button><button id="tR">Read</button></nav></header>
+<div class="xp"><span class="msg" id="xm" aria-live="polite"></span><button id="xe">Export ratings</button><button id="xs">Send to Reading List</button></div>
 <div id="U"><h2>Today</h2><div id="top"></div><h2>More to read</h2><div id="more"></div></div>
 <div id="R" hidden><h2>Read</h2><div id="read"></div></div>
 </main><script>
@@ -40,10 +46,25 @@ const fd=s=>{const[y,m,d]=s.split("-").map(Number);return M[m-1]+" "+d+", "+y};
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function card(it,top,readMode){const d=document.createElement("article");d.className="it"+(top?" top":"");
 d.innerHTML='<div><a target="_blank" rel="noopener" href="'+esc(it.url)+'">'+esc(it.title)+'</a>'+
-'<div class="meta"><span class="src">'+esc(it.source)+'</span> &middot; '+fd(it.date)+' &middot; '+it.min+' min'+(it.paywall?' &middot; <span class="pw">Paywall</span>':'')+'</div><p class="why">'+esc(it.why)+'</p></div>'+
+'<div class="meta"><span class="src">'+esc(it.source)+'</span> &middot; '+fd(it.date)+' &middot; '+it.min+' min'+(it.paywall?' &middot; <span class="pw">Paywall</span>':'')+'</div><p class="why">'+esc(it.why)+'</p><div class="rate">'+["bad","neutral","good"].map(v=>'<button data-v="'+v+'"'+(getR(it.url)&&getR(it.url).rating===v?' class="on" aria-pressed="true"':' aria-pressed="false"')+'>'+v+'</button>').join("")+'</div></div>'+
 '<div class="ctl">'+(readMode?'<button class="undo">Undo</button>':'<input class="ck" type="checkbox" aria-label="Mark read" title="Mark read">')+'</div>';
-if(readMode)d.querySelector("button").onclick=()=>{localStorage.removeItem(K+it.url);render()};
+d.querySelectorAll(".rate button").forEach(b=>b.onclick=()=>{setR(it,b.dataset.v);render()});
+if(readMode)d.querySelector(".undo").onclick=()=>{localStorage.removeItem(K+it.url);render()};
 else d.querySelector("input").onchange=()=>{localStorage.setItem(K+it.url,new Date().toISOString());render()};return d}
+const RK="mr-rate:";const getR=u=>{try{return JSON.parse(localStorage.getItem(RK+u))}catch(e){return null}};
+function setR(it,v){const c=getR(it.url);if(c&&c.rating===v)localStorage.removeItem(RK+it.url);else localStorage.setItem(RK+it.url,JSON.stringify({rating:v,ratedAt:new Date().toISOString(),url:it.url,title:it.title,source:it.source,published:it.date,tags:it.tags||[]}))}
+function collect(){const seen={},out=[];const add=(u,meta)=>{if(seen[u])return;const r=getR(u),ra=localStorage.getItem(K+u);if(!r&&ra===null)return;seen[u]=1;const m=meta||r||{};out.push({url:u,title:m.title||null,source:m.source||null,published:m.date||m.published||null,read:ra!==null,readAt:ra,rating:r?r.rating:null,ratedAt:r?r.ratedAt:null,tags:m.tags||[]})};
+ITEMS.forEach(i=>add(i.url,i));for(let j=0;j<localStorage.length;j++){const k=localStorage.key(j);if(k.startsWith(RK))add(k.slice(RK.length));else if(k.startsWith(K))add(k.slice(K.length))}return out}
+function exportJSON(){return {exportedAt:new Date().toISOString(),items:collect()}}
+function msg(s){const m=document.getElementById("xm");m.textContent=s;clearTimeout(msg.t);msg.t=setTimeout(()=>m.textContent="",4000)}
+function dl(s){const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([s],{type:"application/json"}));a.download="ratings.json";a.click()}
+async function copy(s){try{await navigator.clipboard.writeText(s);return true}catch(e){return false}}
+const ISS="https://github.com/LongOnlyAnalyst/morning-reads/issues/new";const MAXURL=7000;
+function issueURL(now){const d=(now||new Date()).toISOString().slice(0,10);const p={exportedAt:(now||new Date()).toISOString(),items:collect().map(i=>({url:i.url,rating:i.rating,read:i.read,source:i.source,title:(i.title||"").slice(0,60),tags:i.tags}))};
+const title="Ratings export "+d;const json=JSON.stringify(p);const u=ISS+"?title="+encodeURIComponent(title)+"&body="+encodeURIComponent("```json\n"+json+"\n```");
+return u.length<=MAXURL?{url:u,fallback:false,json}:{url:ISS+"?title="+encodeURIComponent(title)+"&body="+encodeURIComponent("Paste the ratings JSON from your clipboard here."),fallback:true,json:"```json\n"+json+"\n```"}}
+document.getElementById("xe").onclick=async()=>{const s=JSON.stringify(exportJSON(),null,1);if(await copy(s))msg("Copied");else{dl(s);msg("Downloaded ratings.json")}};
+document.getElementById("xs").onclick=async()=>{const r=issueURL();if(r.fallback){await copy(r.json);msg("JSON copied; paste it into the issue")}window.open(r.url,"_blank","noopener")};
 function render(){const un=ITEMS.filter(i=>!isRead(i.url));const tops=un.filter(i=>i.top),rest=un.filter(i=>!i.top);
 while(tops.length<3&&rest.length)tops.push(rest.shift());
 const T=document.getElementById("top"),Mo=document.getElementById("more"),R=document.getElementById("read");T.innerHTML=Mo.innerHTML=R.innerHTML="";
