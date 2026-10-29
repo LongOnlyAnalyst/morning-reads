@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Regenerate index.html from items.json and update history.json. Usage: python3 build.py [YYYY-MM-DD]"""
 import json,sys,datetime
+from zoneinfo import ZoneInfo
+_n=datetime.datetime.now(ZoneInfo('America/Chicago'))
+UPD=_n.strftime('%b ')+str(_n.day)+_n.strftime(', %Y, ')+str(_n.hour%12 or 12)+_n.strftime(':%M %p CT')
 today=sys.argv[1] if len(sys.argv)>1 else datetime.date.today().isoformat()
 items=json.load(open('items.json'))
 try: hist=json.load(open('history.json'))
@@ -18,5 +21,5 @@ for h in hist:
 json.dump(hist,open('history.json','w'),indent=1,ensure_ascii=False)
 items.sort(key=lambda i:(not i.get('top'),i['date']),reverse=False)
 items=[i for i in items if i.get('top')]+sorted([i for i in items if not i.get('top')],key=lambda i:i['date'],reverse=True)
-html=open('template.html').read().replace('/*DATA*/[]',json.dumps(items,ensure_ascii=False).replace('</','<\\/')).replace('/*UPDATED*/',today)
+html=open('template.html').read().replace('/*DATA*/[]',json.dumps(items,ensure_ascii=False).replace('</','<\\/')).replace('/*UPDATED*/',UPD)
 open('index.html','w').write(html); print(len(items),'items;',len(hist),'in history')

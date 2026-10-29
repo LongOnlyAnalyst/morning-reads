@@ -8,4 +8,4 @@
 6. **Rebuild.** Run `python3 build.py $(date +%F)`. This regenerates `index.html` and updates `history.json`. listedOn is set only when an item first appears.
 7. **Check.** Run a headless check: `google-chrome --headless=new --no-sandbox --window-size=1200,1600 --screenshot=/workspace/morning-reads-preview.png file:///home/box/morning-reads/index.html`, and confirm there are 3 top items.
 8. **Ship.** Run `git add -A && git commit -m "refresh $(date +%F)" && git push origin main`.
-9. **Verify live.** After GitHub Pages deploys (https://longonlyanalyst.github.io/morning-reads/, takes ~1 min after push), `curl -s <live-url> | grep -c 'list updated'` and confirm today's date is embedded (`grep "$(date +%F)"`).
+9. **Verify live.** After GitHub Pages deploys (https://longonlyanalyst.github.io/morning-reads/, takes ~1 min after push), `curl -s <live-url> | grep -c 'Updated '` and confirm today's date appears in the Updated line (`grep "Updated $(date '+%b %-d, %Y')"`).
