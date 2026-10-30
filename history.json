@@ -13,7 +13,7 @@
   "source": "Citadel Securities (Scott Rubner)",
   "date": "2026-10-14",
   "listedOn": "2026-10-29",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html",
@@ -21,7 +21,7 @@
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-16",
   "listedOn": "2026-10-29",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/capital-costs/",
@@ -37,7 +37,7 @@
   "source": "Citadel Securities (Scott Rubner)",
   "date": "2026-10-01",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/ripples-in-the-reserve-pool-unveiling-liquidity-signals-from-the-federal-funds-market-20261016.html",
@@ -77,7 +77,7 @@
   "source": "Man Group",
   "date": "2026-09-30",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.man.com/insights/views-from-the-floor-2026-27-Oct",
@@ -93,7 +93,7 @@
   "source": "BIS Bulletin No 137",
   "date": "2026-10-01",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bis.org/publications/bulletin-138-chokepoint-disruptions-and-their-macroeconomic-consequences",
@@ -157,6 +157,38 @@
   "source": "City Journal / Manhattan Institute",
   "date": "2026-10-16",
   "listedOn": "2026-10-29",
+  "status": "expired"
+ },
+ {
+  "url": "https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/documents/eotm/califoreboding.pdf",
+  "title": "Califoreboding (Eye on the Market)",
+  "source": "J.P. Morgan Private Bank (Michael Cembalest)",
+  "date": "2026-10-08",
+  "listedOn": "2026-10-30",
+  "status": "top"
+ },
+ {
+  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/",
+  "title": "A Narrow Margin of Safety",
+  "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
+  "date": "2026-10-24",
+  "listedOn": "2026-10-30",
+  "status": "top"
+ },
+ {
+  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/can-ai-fixed-income/",
+  "title": "Can AI Fix(ed) Income?",
+  "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
+  "date": "2026-10-17",
+  "listedOn": "2026-10-30",
+  "status": "listed"
+ },
+ {
+  "url": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+  "title": "Why Texas Is Making Data Centers Wait",
+  "source": "a16z (Ryan McEntush)",
+  "date": "2026-10-07",
+  "listedOn": "2026-10-30",
   "status": "listed"
  }
 ]
