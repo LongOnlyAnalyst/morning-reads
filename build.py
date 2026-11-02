@@ -3,7 +3,7 @@
 import json,sys,datetime
 from zoneinfo import ZoneInfo
 _n=datetime.datetime.now(ZoneInfo('America/Chicago'))
-UPD=_n.strftime('%b ')+str(_n.day)+_n.strftime(', %Y, ')+str(_n.hour%12 or 12)+_n.strftime(':%M %p CT')
+UPD=_n.strftime('%B ')+str(_n.day)+_n.strftime(', %Y, ')+str(_n.hour%12 or 12)+_n.strftime(':%M %p CT')
 today=sys.argv[1] if len(sys.argv)>1 else datetime.date.today().isoformat()
 items=json.load(open('items.json'))
 try: hist=json.load(open('history.json'))

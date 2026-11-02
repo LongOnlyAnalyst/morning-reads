@@ -41,7 +41,7 @@ h2{font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercas
 </main><script>
 const ITEMS=/*DATA*/[];
 const K="mr-read:";const isRead=u=>localStorage.getItem(K+u)!==null;
-const M=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const M=["January","February","March","April","May","June","July","August","September","October","November","December"];
 const fd=s=>{const[y,m,d]=s.split("-").map(Number);return M[m-1]+" "+d+", "+y};
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function card(it,top,readMode){const d=document.createElement("article");d.className="it"+(top?" top":"");

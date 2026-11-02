@@ -5,7 +5,7 @@
   "source": "BIS Bulletin No 140",
   "date": "2026-10-27",
   "listedOn": "2026-10-29",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/",
@@ -29,7 +29,7 @@
   "source": "Citadel Securities Macro Thoughts",
   "date": "2026-10-10",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-the-q4-reload/",
@@ -125,7 +125,7 @@
   "source": "BlackRock Investment Institute (PDF)",
   "date": "2026-10-12",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://stratechery.com/2026/the-end-of-the-internet/",
@@ -165,7 +165,7 @@
   "source": "J.P. Morgan Private Bank (Michael Cembalest)",
   "date": "2026-10-08",
   "listedOn": "2026-10-30",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/",
@@ -173,7 +173,7 @@
   "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
   "date": "2026-10-24",
   "listedOn": "2026-10-30",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/can-ai-fixed-income/",
@@ -189,6 +189,30 @@
   "source": "a16z (Ryan McEntush)",
   "date": "2026-10-07",
   "listedOn": "2026-10-30",
-  "status": "listed"
+  "status": "expired"
+ },
+ {
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
+  "title": "Treasury Issuance and Dealer Balance Sheets",
+  "source": "Federal Reserve FEDS Notes",
+  "date": "2026-10-30",
+  "listedOn": "2026-11-01",
+  "status": "top"
+ },
+ {
+  "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
+  "title": "Tokenomics 2.0",
+  "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
+  "date": "2026-10-28",
+  "listedOn": "2026-11-01",
+  "status": "top"
+ },
+ {
+  "url": "https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning",
+  "title": "Top of Mind: Higher Bond Yields: How Concerning?",
+  "source": "Goldman Sachs Research (Top of Mind, Issue 152)",
+  "date": "2026-10-19",
+  "listedOn": "2026-11-01",
+  "status": "top"
  }
 ]
