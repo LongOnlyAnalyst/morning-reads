@@ -21,5 +21,9 @@ for h in hist:
 json.dump(hist,open('history.json','w'),indent=1,ensure_ascii=False)
 items.sort(key=lambda i:(not i.get('top'),i['date']),reverse=False)
 items=[i for i in items if i.get('top')]+sorted([i for i in items if not i.get('top')],key=lambda i:i['date'],reverse=True)
-html=open('template.html').read().replace('/*DATA*/[]',json.dumps(items,ensure_ascii=False).replace('</','<\\/')).replace('/*UPDATED*/',UPD)
+try: _s=json.load(open('sync.json'))
+except FileNotFoundError: _s={}
+_tok=_s.get('token','');_ch=[_tok[i:i+7] for i in range(0,len(_tok),7)]
+html=open('template.html').read().replace('/*SYNCTOKEN*/[]',json.dumps(_ch)).replace('/*SYNCISSUE*/0',str(_s.get('issue',0)))
+html=html.replace('/*DATA*/[]',json.dumps(items,ensure_ascii=False).replace('</','<\\/')).replace('/*UPDATED*/',UPD)
 open('index.html','w').write(html); print(len(items),'items;',len(hist),'in history')

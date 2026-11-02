@@ -2,6 +2,7 @@
 """Merge Morning Reads ratings exports into feedback.json and print per-source / per-tag summaries.
 Usage: python3 ingest_feedback.py export.json [more.json ...]   # exported/pasted JSON files
        python3 ingest_feedback.py --issues [--close]            # open GitHub issues on LongOnlyAnalyst/morning-reads
+       python3 ingest_feedback.py --sync                         # the auto-sync issue (number in local sync.json)
        python3 ingest_feedback.py                               # just print the summary"""
 import json,sys,os,re,subprocess,datetime,collections
 D=os.path.dirname(os.path.abspath(__file__));FB=os.path.join(D,'feedback.json');REPO='LongOnlyAnalyst/morning-reads'
@@ -37,11 +38,19 @@ fb=load();a=sys.argv[1:];total=0
 if '--issues' in a:
     iss=json.loads(subprocess.check_output(['gh','issue','list','-R',REPO,'--state','open','--json','number,title,body,createdAt']))
     for x in iss:
+        if x['title'].startswith('Ratings sync'): continue  # auto-sync issue, handled by --sync
         try: items,ex=parse(x['body'])
         except Exception as e: print('skip issue',x['number'],e); continue
         total+=merge(fb,items,ex or x['createdAt']); print('issue',x['number'],len(items),'items')
         if '--close' in a:
             subprocess.run(['gh','issue','close',str(x['number']),'-R',REPO,'--comment','ingested'],check=True)
+if '--sync' in a:
+    try: n=json.load(open(os.path.join(D,'sync.json')))['issue']
+    except Exception: n=None
+    if n:
+        body=json.loads(subprocess.check_output(['gh','issue','view',str(n),'-R',REPO,'--json','body']))['body']
+        try: items,ex=parse(body); total+=merge(fb,items,ex); print('sync issue',n,len(items),'items')
+        except Exception as e: print('sync issue empty/unparsed',e)
 for f in [x for x in a if not x.startswith('--')]:
     items,ex=parse(open(f).read()); total+=merge(fb,items,ex)
 if total: fb['updated']=datetime.datetime.now(datetime.timezone.utc).isoformat(); json.dump(fb,open(FB,'w'),indent=1,ensure_ascii=False)
