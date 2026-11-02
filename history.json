@@ -5,7 +5,7 @@
   "source": "BIS Bulletin No 140",
   "date": "2026-10-27",
   "listedOn": "2026-10-29",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/",
@@ -61,7 +61,7 @@
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-14",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-current-account-u-s-financial-flows-and-global-imbalances-20261009.html",
@@ -69,7 +69,7 @@
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-09",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.man.com/insights/risks-and-opportunities-in-the-fog-of-the-credit-cycle",
@@ -219,6 +219,22 @@
   "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
   "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
   "source": "Goldman Sachs Research",
+  "date": "2026-10-30",
+  "listedOn": "2026-11-02",
+  "status": "listed"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/",
+  "title": "How Do Banking Supervisors Deal with Failing Banks?",
+  "source": "NY Fed Liberty Street Economics (Correia, Luck, Verner)",
+  "date": "2026-11-02",
+  "listedOn": "2026-11-02",
+  "status": "top"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/",
+  "title": "Evaluating New LinkedIn Labor Market Tightness Indicators",
+  "source": "NY Fed Liberty Street Economics (Li, Topa, Weber)",
   "date": "2026-10-30",
   "listedOn": "2026-11-02",
   "status": "listed"

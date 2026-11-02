@@ -1,5 +1,18 @@
 [
  {
+  "title": "How Do Banking Supervisors Deal with Failing Banks?",
+  "source": "NY Fed Liberty Street Economics (Correia, Luck, Verner)",
+  "date": "2026-11-02",
+  "min": 8,
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/",
+  "why": "Using every commercial bank exam from 2000 to 2023, the authors show modern bank failures are supervisory decisions, not runs: only 28 of 557 failures since 2000 happened on a day other than Friday, and nearly 3 of the typical 8-point equity drop before failure comes from exam-driven call report revisions. A quasi-random assignment of strict examiners in 2008 shows the trade-off directly: stricter supervision cut FDIC resolution costs but tightened credit supply.",
+  "tags": [
+   "banks",
+   "regulation"
+  ],
+  "top": true
+ },
+ {
   "title": "Treasury Issuance and Dealer Balance Sheets",
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-30",
@@ -27,17 +40,17 @@
   "top": true
  },
  {
-  "title": "Building AI on credit: structures and spillovers",
-  "source": "BIS Bulletin No 140",
-  "date": "2026-10-27",
-  "min": 15,
-  "url": "https://www.bis.org/publications/bulletin-140-building-ai-credit-structures-and-spillovers.pdf",
-  "why": "BIS maps how AI capex is increasingly funded with long-term debt and off-balance-sheet vehicles whose ratings lean on commitments from a few large firms, with banks lending to both the vehicles and their investors. It measures spillovers on AI-financing news days in 2026, the clearest official look yet at where AI credit risk sits.",
+  "title": "Evaluating New LinkedIn Labor Market Tightness Indicators",
+  "source": "NY Fed Liberty Street Economics (Li, Topa, Weber)",
+  "date": "2026-10-30",
+  "min": 7,
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/",
+  "why": "The NY Fed tests three new LinkedIn tightness gauges against JOLTS V/U and finds the Jobs per Jobseeker Index tracks V/U closely (0.73 correlation) and beats it at nowcasting and forecasting both CPI and ECI inflation. Because it arrives about a month before JOLTS, it is a timely labor-to-inflation signal worth watching while rates are this sensitive to wage data.",
   "tags": [
-   "AI credit",
-   "financial stability"
-  ],
-  "top": true
+   "labor",
+   "inflation",
+   "macro"
+  ]
  },
  {
   "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
@@ -50,6 +63,18 @@
    "housing",
    "rates",
    "macro"
+  ]
+ },
+ {
+  "title": "Building AI on credit: structures and spillovers",
+  "source": "BIS Bulletin No 140",
+  "date": "2026-10-27",
+  "min": 15,
+  "url": "https://www.bis.org/publications/bulletin-140-building-ai-credit-structures-and-spillovers.pdf",
+  "why": "BIS maps how AI capex is increasingly funded with long-term debt and off-balance-sheet vehicles whose ratings lean on commitments from a few large firms, with banks lending to both the vehicles and their investors. It measures spillovers on AI-financing news days in 2026, the clearest official look yet at where AI credit risk sits.",
+  "tags": [
+   "AI credit",
+   "financial stability"
   ]
  },
  {
@@ -225,30 +250,6 @@
    "positioning",
    "flows",
    "earnings"
-  ]
- },
- {
-  "title": "The Rise of Semiliquid Funds for Retail Investors",
-  "source": "Federal Reserve FEDS Notes",
-  "date": "2026-10-14",
-  "min": 17,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html",
-  "why": "Interval and tender-offer funds are expanding as managers turn to retail money for private markets while some institutions hit their allocation caps. The note looks at the liquidity mismatch behind redemption gates.",
-  "tags": [
-   "private markets",
-   "retail investors"
-  ]
- },
- {
-  "title": "Beyond the Current Account: U.S. Financial Flows and Global Imbalances",
-  "source": "Federal Reserve FEDS Notes",
-  "date": "2026-10-09",
-  "min": 16,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-current-account-u-s-financial-flows-and-global-imbalances-20261009.html",
-  "why": "Fed staff look at U.S. imbalances through capital flows and investment positions rather than trade balances, showing how the deficit is financed and where adjustment risk sits. It is useful background for the debate over dollar and Treasury demand.",
-  "tags": [
-   "macro",
-   "global imbalances"
   ]
  }
 ]
