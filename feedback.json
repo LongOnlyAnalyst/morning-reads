@@ -1,1 +1,113 @@
-{"ratings":{}, "updated":null}
+{
+ "ratings": {
+  "https://www.bis.org/publications/bulletin-140-building-ai-credit-structures-and-spillovers.pdf": {
+   "url": "https://www.bis.org/publications/bulletin-140-building-ai-credit-structures-and-spillovers.pdf",
+   "title": "Building AI on credit: structures and spillovers",
+   "source": "BIS Bulletin No 140",
+   "published": "2026-10-27",
+   "read": true,
+   "rating": "good",
+   "ratedAt": "2026-10-29T14:22:31.242Z",
+   "tags": [
+    "AI credit",
+    "financial stability"
+   ]
+  },
+  "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/": {
+   "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
+   "title": "Tokenomics 2.0",
+   "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
+   "published": "2026-10-28",
+   "read": true,
+   "rating": null,
+   "tags": [
+    "AI",
+    "compute economics"
+   ],
+   "ratedAt": "2026-11-02T14:31:28.113Z"
+  },
+  "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html": {
+   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
+   "title": "Treasury Issuance and Dealer Balance Sheets",
+   "source": "Federal Reserve FEDS Notes",
+   "published": "2026-10-30",
+   "read": true,
+   "rating": null,
+   "tags": [
+    "market structure",
+    "Treasuries",
+    "repo"
+   ],
+   "ratedAt": "2026-11-02T14:31:28.113Z"
+  },
+  "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates": {
+   "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
+   "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
+   "source": "Goldman Sachs Research",
+   "published": "2026-10-30",
+   "read": true,
+   "rating": "neutral",
+   "ratedAt": "2026-11-02T14:21:13.833Z",
+   "tags": [
+    "housing",
+    "rates",
+    "macro"
+   ]
+  },
+  "https://www.bis.org/publications/bulletin-139-chokepoints-global-supply-chains-lessons-rare-earths-and-hard-disk-drives": {
+   "url": "https://www.bis.org/publications/bulletin-139-chokepoints-global-supply-chains-lessons-rare-earths-and-hard-disk-drives",
+   "title": "Chokepoints in global supply chains",
+   "source": "BIS Bulletin No 139",
+   "published": "2026-10-26",
+   "read": true,
+   "rating": "good",
+   "ratedAt": "2026-10-29T15:01:33.514Z",
+   "tags": [
+    "supply chains",
+    "commodities"
+   ]
+  },
+  "https://www.blackrock.com/us/individual/literature/market-commentary/weekly-investment-commentary-en-us-20261026-the-mideast-energy-shocks-next-phase.pdf": {
+   "url": "https://www.blackrock.com/us/individual/literature/market-commentary/weekly-investment-commentary-en-us-20261026-the-mideast-energy-shocks-next-phase.pdf",
+   "title": "The Mideast energy shock's next phase",
+   "source": "BlackRock Investment Institute (PDF)",
+   "published": "2026-10-26",
+   "read": true,
+   "rating": "neutral",
+   "ratedAt": "2026-10-29T15:07:29.861Z",
+   "tags": [
+    "energy",
+    "macro",
+    "geopolitics"
+   ]
+  },
+  "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/": {
+   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/",
+   "title": "A Narrow Margin of Safety",
+   "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
+   "published": "2026-10-24",
+   "read": true,
+   "rating": null,
+   "tags": [
+    "AI credit",
+    "macro"
+   ],
+   "ratedAt": "2026-11-02T14:31:28.113Z"
+  },
+  "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/": {
+   "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/",
+   "title": "October Update: Fundamentals in Focus",
+   "source": "Citadel Securities (Scott Rubner)",
+   "published": "2026-10-14",
+   "read": true,
+   "rating": "good",
+   "ratedAt": "2026-10-29T14:22:32.727Z",
+   "tags": [
+    "positioning",
+    "flows",
+    "earnings"
+   ]
+  }
+ },
+ "updated": "2026-11-02T14:32:53.403963+00:00"
+}
