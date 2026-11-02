@@ -5,7 +5,7 @@
   "source": "BIS Bulletin No 140",
   "date": "2026-10-27",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "top"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/",
@@ -165,7 +165,7 @@
   "source": "J.P. Morgan Private Bank (Michael Cembalest)",
   "date": "2026-10-08",
   "listedOn": "2026-10-30",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/",
@@ -213,6 +213,14 @@
   "source": "Goldman Sachs Research (Top of Mind, Issue 152)",
   "date": "2026-10-19",
   "listedOn": "2026-11-01",
-  "status": "top"
+  "status": "listed"
+ },
+ {
+  "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
+  "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
+  "source": "Goldman Sachs Research",
+  "date": "2026-10-30",
+  "listedOn": "2026-11-02",
+  "status": "listed"
  }
 ]

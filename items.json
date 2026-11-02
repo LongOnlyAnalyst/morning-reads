@@ -27,45 +27,6 @@
   "top": true
  },
  {
-  "title": "Top of Mind: Higher Bond Yields: How Concerning?",
-  "source": "Goldman Sachs Research (Top of Mind, Issue 152)",
-  "date": "2026-10-19",
-  "min": 50,
-  "url": "https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning",
-  "why": "A 31-page issue pairing interviews with the IMF's Tobias Adrian (fairly sanguine) and Moody's Mark Zandi (one-in-three odds the US economy goes off the rails) with GS rates, credit, equity, fiscal and bank analysts on what multi-decade-high yields break first. Includes a Q&A on Treasury buybacks and rules of thumb for the growth drag if yields stay here; the free version is a redacted copy of the October 13 client report.",
-  "tags": [
-   "rates",
-   "fiscal",
-   "macro"
-  ],
-  "top": true
- },
- {
-  "title": "Califoreboding (Eye on the Market)",
-  "source": "J.P. Morgan Private Bank (Michael Cembalest)",
-  "date": "2026-10-08",
-  "min": 18,
-  "url": "https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/documents/eotm/califoreboding.pdf",
-  "why": "Cembalest works through the questions clients are worried about: 42 AI stocks driving 60-80% of returns, earnings growth and capex since 2024, federal interest plus entitlements overtaking revenue around 2030, and private credit stress roughly doubling under a broader definition. Dense with charts and numbers, light on hype.",
-  "tags": [
-   "AI",
-   "private credit",
-   "fiscal"
-  ]
- },
- {
-  "title": "A Narrow Margin of Safety",
-  "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
-  "date": "2026-10-24",
-  "min": 5,
-  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/",
-  "why": "Meta's Q3 capex ($34.9bn) outran its operating cash flow, enterprise token spend went flat in September, and voters in both parties now back limits on datacenters, all with Brent above $117. Shah argues risk-free yields can fall while the cost of financing risk rises, leaving an AI-levered economy little margin for error.",
-  "tags": [
-   "AI credit",
-   "macro"
-  ]
- },
- {
   "title": "Building AI on credit: structures and spillovers",
   "source": "BIS Bulletin No 140",
   "date": "2026-10-27",
@@ -75,6 +36,20 @@
   "tags": [
    "AI credit",
    "financial stability"
+  ],
+  "top": true
+ },
+ {
+  "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
+  "source": "Goldman Sachs Research",
+  "date": "2026-10-30",
+  "min": 5,
+  "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
+  "why": "With 30-year mortgages at 7.32% and 95% of borrowers locked in below market, Walker and Mericle forecast 3.9 million existing home sales in 2027 (26% below 2019), 0.8% home price growth, and residential investment contracting for three straight quarters before a second-half rebound. They argue rising vacancy has made homebuilders more rate-sensitive than in 2023-25, so the housing drag depends on mortgage rates easing toward their 6.4% forecast.",
+  "tags": [
+   "housing",
+   "rates",
+   "macro"
   ]
  },
  {
@@ -140,6 +115,18 @@
   ]
  },
  {
+  "title": "A Narrow Margin of Safety",
+  "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
+  "date": "2026-10-24",
+  "min": 5,
+  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/",
+  "why": "Meta's Q3 capex ($34.9bn) outran its operating cash flow, enterprise token spend went flat in September, and voters in both parties now back limits on datacenters, all with Brent above $117. Shah argues risk-free yields can fall while the cost of financing risk rises, leaving an AI-levered economy little margin for error.",
+  "tags": [
+   "AI credit",
+   "macro"
+  ]
+ },
+ {
   "title": "Capital Wars",
   "source": "Net Interest (Marc Rubinstein)",
   "date": "2026-10-23",
@@ -150,6 +137,19 @@
   "tags": [
    "banks",
    "capital markets"
+  ]
+ },
+ {
+  "title": "Top of Mind: Higher Bond Yields: How Concerning?",
+  "source": "Goldman Sachs Research (Top of Mind, Issue 152)",
+  "date": "2026-10-19",
+  "min": 50,
+  "url": "https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning",
+  "why": "A 31-page issue pairing interviews with the IMF's Tobias Adrian (fairly sanguine) and Moody's Mark Zandi (one-in-three odds the US economy goes off the rails) with GS rates, credit, equity, fiscal and bank analysts on what multi-decade-high yields break first. Includes a Q&A on Treasury buybacks and rules of thumb for the growth drag if yields stay here; the free version is a redacted copy of the October 13 client report.",
+  "tags": [
+   "rates",
+   "fiscal",
+   "macro"
   ]
  },
  {
