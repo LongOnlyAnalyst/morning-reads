@@ -109,7 +109,7 @@
   "source": "BIS Bulletin No 139",
   "date": "2026-10-26",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.blackrock.com/us/individual/literature/market-commentary/weekly-investment-commentary-en-us-20261026-the-mideast-energy-shocks-next-phase.pdf",
@@ -117,7 +117,7 @@
   "source": "BlackRock Investment Institute (PDF)",
   "date": "2026-10-26",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.blackrock.com/us/individual/literature/market-commentary/weekly-investment-commentary-en-us-20261012-upgrading-us-treasuries-to-lock-in-income.pdf",
@@ -149,7 +149,7 @@
   "source": "Net Interest (Marc Rubinstein)",
   "date": "2026-10-23",
   "listedOn": "2026-10-29",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.city-journal.org/article/allison-schrager-worth-the-risk-cliff-asness",
@@ -173,7 +173,7 @@
   "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
   "date": "2026-10-24",
   "listedOn": "2026-10-30",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/can-ai-fixed-income/",
@@ -245,6 +245,30 @@
   "source": "BIS Working Paper No 1388 (Doerr, Gelos, Pursiainen)",
   "date": "2026-10-20",
   "listedOn": "2026-11-03",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/funding-markets-getting-tighter.html",
+  "title": "Funding markets getting tighter",
+  "source": "BNY iFlow Short Thoughts (John Velis)",
+  "date": "2026-11-03",
+  "listedOn": "2026-11-03",
   "status": "top"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=KMrvunHdpvQ",
+  "title": "The $300 Billion Structured Notes Market Is Booming",
+  "source": "Bloomberg Odd Lots (podcast episode, Nomura's Alex Micalizzi)",
+  "date": "2026-11-02",
+  "listedOn": "2026-11-03",
+  "status": "top"
+ },
+ {
+  "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
+  "title": "Catching the repricing wave: insights from daily online supermarket prices",
+  "source": "ECB Blog (Osbat, Höynck, Maglione, Wieland)",
+  "date": "2026-11-02",
+  "listedOn": "2026-11-03",
+  "status": "listed"
  }
 ]

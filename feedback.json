@@ -11,7 +11,8 @@
    "tags": [
     "AI credit",
     "financial stability"
-   ]
+   ],
+   "readAt": "2026-10-29T14:22:20.534Z"
   },
   "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/": {
    "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
@@ -24,7 +25,8 @@
     "AI",
     "compute economics"
    ],
-   "ratedAt": "2026-11-02T14:31:28.113Z"
+   "ratedAt": "2026-11-03T14:19:25.445Z",
+   "readAt": "2026-11-02T14:10:21.647Z"
   },
   "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html": {
    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
@@ -38,11 +40,12 @@
     "Treasuries",
     "repo"
    ],
-   "ratedAt": "2026-11-02T14:31:28.113Z"
+   "ratedAt": "2026-11-03T14:19:25.445Z",
+   "readAt": "2026-11-02T14:10:21.653Z"
   },
   "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates": {
    "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
-   "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
+   "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rate",
    "source": "Goldman Sachs Research",
    "published": "2026-10-30",
    "read": true,
@@ -52,11 +55,12 @@
     "housing",
     "rates",
     "macro"
-   ]
+   ],
+   "readAt": "2026-11-02T14:31:12.804Z"
   },
   "https://www.bis.org/publications/bulletin-139-chokepoints-global-supply-chains-lessons-rare-earths-and-hard-disk-drives": {
    "url": "https://www.bis.org/publications/bulletin-139-chokepoints-global-supply-chains-lessons-rare-earths-and-hard-disk-drives",
-   "title": "Chokepoints in global supply chains",
+   "title": "Chokepoints in global supply chains: lessons from rare earth",
    "source": "BIS Bulletin No 139",
    "published": "2026-10-26",
    "read": true,
@@ -65,7 +69,8 @@
    "tags": [
     "supply chains",
     "commodities"
-   ]
+   ],
+   "readAt": "2026-10-29T15:01:35.352Z"
   },
   "https://www.blackrock.com/us/individual/literature/market-commentary/weekly-investment-commentary-en-us-20261026-the-mideast-energy-shocks-next-phase.pdf": {
    "url": "https://www.blackrock.com/us/individual/literature/market-commentary/weekly-investment-commentary-en-us-20261026-the-mideast-energy-shocks-next-phase.pdf",
@@ -79,7 +84,8 @@
     "energy",
     "macro",
     "geopolitics"
-   ]
+   ],
+   "readAt": "2026-10-29T15:07:30.853Z"
   },
   "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/": {
    "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/",
@@ -92,7 +98,8 @@
     "AI credit",
     "macro"
    ],
-   "ratedAt": "2026-11-02T14:31:28.113Z"
+   "ratedAt": "2026-11-03T14:19:25.445Z",
+   "readAt": "2026-10-30T16:23:00.602Z"
   },
   "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/": {
    "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/",
@@ -106,8 +113,9 @@
     "positioning",
     "flows",
     "earnings"
-   ]
+   ],
+   "readAt": "2026-10-29T13:52:35.226Z"
   }
  },
- "updated": "2026-11-02T14:32:53.403963+00:00"
+ "updated": "2026-11-03T14:20:38.279578+00:00"
 }
