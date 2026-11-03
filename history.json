@@ -13,7 +13,7 @@
   "source": "Citadel Securities (Scott Rubner)",
   "date": "2026-10-14",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html",
@@ -149,7 +149,7 @@
   "source": "Net Interest (Marc Rubinstein)",
   "date": "2026-10-23",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "top"
  },
  {
   "url": "https://www.city-journal.org/article/allison-schrager-worth-the-risk-cliff-asness",
@@ -197,7 +197,7 @@
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-30",
   "listedOn": "2026-11-01",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
@@ -205,7 +205,7 @@
   "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
   "date": "2026-10-28",
   "listedOn": "2026-11-01",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning",
@@ -238,5 +238,13 @@
   "date": "2026-10-30",
   "listedOn": "2026-11-02",
   "status": "listed"
+ },
+ {
+  "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
+  "title": "Bank liquidity regulation and the growth of private credit",
+  "source": "BIS Working Paper No 1388 (Doerr, Gelos, Pursiainen)",
+  "date": "2026-10-20",
+  "listedOn": "2026-11-03",
+  "status": "top"
  }
 ]

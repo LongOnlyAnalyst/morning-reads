@@ -1,5 +1,33 @@
 [
  {
+  "title": "Bank liquidity regulation and the growth of private credit",
+  "source": "BIS Working Paper No 1388 (Doerr, Gelos, Pursiainen)",
+  "date": "2026-10-20",
+  "min": 54,
+  "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
+  "why": "After the Liquidity Coverage Ratio took effect, private credit grew far faster in US counties where LCR banks had a bigger footprint or larger liquidity shortfalls: a one standard deviation higher footprint means nearly 50% more private credit, an effect as large as the 2012 CCAR capital hike. It is hard evidence that post-crisis bank rules pushed lending into private credit funds, which matters for where the next credit stress shows up (the landing page summary takes 2 minutes; the full paper is long).",
+  "tags": [
+   "private credit",
+   "financial stability",
+   "regulation"
+  ],
+  "top": true
+ },
+ {
+  "title": "Capital Wars",
+  "source": "Net Interest (Marc Rubinstein)",
+  "date": "2026-10-23",
+  "min": 10,
+  "url": "https://www.netinterest.co/p/capital-wars",
+  "paywall": true,
+  "why": "Rubinstein contrasts how SpaceX's $85.7bn IPO locked in funding with CoreWeave's rising cost of debt as AI capex outruns operating cash flow. Only the opening is free, so it is labeled paywall.",
+  "tags": [
+   "banks",
+   "capital markets"
+  ],
+  "top": true
+ },
+ {
   "title": "How Do Banking Supervisors Deal with Failing Banks?",
   "source": "NY Fed Liberty Street Economics (Correia, Luck, Verner)",
   "date": "2026-11-02",
@@ -23,21 +51,7 @@
    "market structure",
    "Treasuries",
    "repo"
-  ],
-  "top": true
- },
- {
-  "title": "Tokenomics 2.0",
-  "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
-  "date": "2026-10-28",
-  "min": 6,
-  "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
-  "why": "Token prices are down about 50% in six months and open-weight models are now 65-70% of routed volume, while B200 rental rates are up 27.5%, so frontier labs need roughly 2.55x more throughput just to hold gross margin. Uses Ramp, Vercel and Silicon Data to argue that scarce-compute owners and hyperscalers, not frontier labs or leveraged neoclouds, capture the rents.",
-  "tags": [
-   "AI",
-   "compute economics"
-  ],
-  "top": true
+  ]
  },
  {
   "title": "Evaluating New LinkedIn Labor Market Tightness Indicators",
@@ -63,6 +77,18 @@
    "housing",
    "rates",
    "macro"
+  ]
+ },
+ {
+  "title": "Tokenomics 2.0",
+  "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
+  "date": "2026-10-28",
+  "min": 6,
+  "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
+  "why": "Token prices are down about 50% in six months and open-weight models are now 65-70% of routed volume, while B200 rental rates are up 27.5%, so frontier labs need roughly 2.55x more throughput just to hold gross margin. Uses Ramp, Vercel and Silicon Data to argue that scarce-compute owners and hyperscalers, not frontier labs or leveraged neoclouds, capture the rents.",
+  "tags": [
+   "AI",
+   "compute economics"
   ]
  },
  {
@@ -152,19 +178,6 @@
   ]
  },
  {
-  "title": "Capital Wars",
-  "source": "Net Interest (Marc Rubinstein)",
-  "date": "2026-10-23",
-  "min": 10,
-  "url": "https://www.netinterest.co/p/capital-wars",
-  "paywall": true,
-  "why": "Rubinstein contrasts how SpaceX's $85.7bn IPO locked in funding with CoreWeave's rising cost of debt as AI capex outruns operating cash flow. Only the opening is free, so it is labeled paywall.",
-  "tags": [
-   "banks",
-   "capital markets"
-  ]
- },
- {
   "title": "Top of Mind: Higher Bond Yields: How Concerning?",
   "source": "Goldman Sachs Research (Top of Mind, Issue 152)",
   "date": "2026-10-19",
@@ -237,19 +250,6 @@
   "tags": [
    "supply chains",
    "macro"
-  ]
- },
- {
-  "title": "October Update: Fundamentals in Focus",
-  "source": "Citadel Securities (Scott Rubner)",
-  "date": "2026-10-14",
-  "min": 10,
-  "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/",
-  "why": "MU and NVDA alone account for 36% of expected S&P 500 Q3 EPS growth, retail bond-ETF buying is at a record pace, and single-stock vs. index implied vol sits at 3.1x with 1-month implied correlation in the 1st percentile since 2006. It is the best flow and positioning read for this week's concentrated earnings window.",
-  "tags": [
-   "positioning",
-   "flows",
-   "earnings"
   ]
  }
 ]
