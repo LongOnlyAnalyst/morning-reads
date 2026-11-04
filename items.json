@@ -1,5 +1,20 @@
 [
  {
+  "title": "How Much Should Anthropic Pop?",
+  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+  "date": "2026-11-03",
+  "min": 15,
+  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-03/how-much-should-anthropic-pop",
+  "why": "Levine asks whether offshore pre-IPO perpetual futures on Anthropic, which have no claim on the shares and no arbitrage link to them, can still say something real about the IPO price. His answer leans on how well-calibrated prediction markets have turned out to be, a useful lens on a new corner of equity capital markets plumbing.",
+  "tags": [
+   "market structure",
+   "IPOs",
+   "prediction markets"
+  ],
+  "paywall": true,
+  "top": true
+ },
+ {
   "title": "Funding markets getting tighter",
   "source": "BNY iFlow Short Thoughts (John Velis)",
   "date": "2026-11-03",
@@ -10,20 +25,6 @@
    "repo",
    "flows",
    "market structure"
-  ],
-  "top": true
- },
- {
-  "title": "The $300 Billion Structured Notes Market Is Booming",
-  "source": "Bloomberg Odd Lots (podcast episode, Nomura's Alex Micalizzi)",
-  "date": "2026-11-02",
-  "min": 45,
-  "url": "https://www.youtube.com/watch?v=KMrvunHdpvQ",
-  "why": "US structured note issuance is nearing $300bn a year, and the episode walks through how autocallables and worst-of notes bundle bank debt with short-vol derivatives. The useful part is the dealer side: how hedging those notes leaves banks long or short vega and gamma and can feed back into index volatility.",
-  "tags": [
-   "positioning",
-   "derivatives",
-   "flows"
   ],
   "top": true
  },
@@ -41,6 +42,19 @@
   "top": true
  },
  {
+  "title": "The $300 Billion Structured Notes Market Is Booming",
+  "source": "Bloomberg Odd Lots (podcast episode, Nomura's Alex Micalizzi)",
+  "date": "2026-11-02",
+  "min": 45,
+  "url": "https://www.youtube.com/watch?v=KMrvunHdpvQ",
+  "why": "US structured note issuance is nearing $300bn a year, and the episode walks through how autocallables and worst-of notes bundle bank debt with short-vol derivatives. The useful part is the dealer side: how hedging those notes leaves banks long or short vega and gamma and can feed back into index volatility.",
+  "tags": [
+   "positioning",
+   "derivatives",
+   "flows"
+  ]
+ },
+ {
   "title": "Catching the repricing wave: insights from daily online supermarket prices",
   "source": "ECB Blog (Osbat, Höynck, Maglione, Wieland)",
   "date": "2026-11-02",
@@ -50,32 +64,6 @@
   "tags": [
    "inflation",
    "energy"
-  ]
- },
- {
-  "title": "Bank liquidity regulation and the growth of private credit",
-  "source": "BIS Working Paper No 1388 (Doerr, Gelos, Pursiainen)",
-  "date": "2026-10-20",
-  "min": 54,
-  "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
-  "why": "After the Liquidity Coverage Ratio took effect, private credit grew far faster in US counties where LCR banks had a bigger footprint or larger liquidity shortfalls: a one standard deviation higher footprint means nearly 50% more private credit, an effect as large as the 2012 CCAR capital hike. It is hard evidence that post-crisis bank rules pushed lending into private credit funds, which matters for where the next credit stress shows up (the landing page summary takes 2 minutes; the full paper is long).",
-  "tags": [
-   "private credit",
-   "financial stability",
-   "regulation"
-  ]
- },
- {
-  "title": "Capital Wars",
-  "source": "Net Interest (Marc Rubinstein)",
-  "date": "2026-10-23",
-  "min": 10,
-  "url": "https://www.netinterest.co/p/capital-wars",
-  "paywall": true,
-  "why": "Rubinstein contrasts how SpaceX's $85.7bn IPO locked in funding with CoreWeave's rising cost of debt as AI capex outruns operating cash flow. Only the opening is free, so it is labeled paywall.",
-  "tags": [
-   "banks",
-   "capital markets"
   ]
  },
  {
@@ -179,16 +167,29 @@
   ]
  },
  {
-  "title": "Top of Mind: Higher Bond Yields: How Concerning?",
-  "source": "Goldman Sachs Research (Top of Mind, Issue 152)",
-  "date": "2026-10-19",
-  "min": 50,
-  "url": "https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning",
-  "why": "A 31-page issue pairing interviews with the IMF's Tobias Adrian (fairly sanguine) and Moody's Mark Zandi (one-in-three odds the US economy goes off the rails) with GS rates, credit, equity, fiscal and bank analysts on what multi-decade-high yields break first. Includes a Q&A on Treasury buybacks and rules of thumb for the growth drag if yields stay here; the free version is a redacted copy of the October 13 client report.",
+  "title": "Capital Wars",
+  "source": "Net Interest (Marc Rubinstein)",
+  "date": "2026-10-23",
+  "min": 10,
+  "url": "https://www.netinterest.co/p/capital-wars",
+  "paywall": true,
+  "why": "Rubinstein contrasts how SpaceX's $85.7bn IPO locked in funding with CoreWeave's rising cost of debt as AI capex outruns operating cash flow. Only the opening is free, so it is labeled paywall.",
   "tags": [
-   "rates",
-   "fiscal",
-   "macro"
+   "banks",
+   "capital markets"
+  ]
+ },
+ {
+  "title": "Bank liquidity regulation and the growth of private credit",
+  "source": "BIS Working Paper No 1388 (Doerr, Gelos, Pursiainen)",
+  "date": "2026-10-20",
+  "min": 54,
+  "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
+  "why": "After the Liquidity Coverage Ratio took effect, private credit grew far faster in US counties where LCR banks had a bigger footprint or larger liquidity shortfalls: a one standard deviation higher footprint means nearly 50% more private credit, an effect as large as the 2012 CCAR capital hike. It is hard evidence that post-crisis bank rules pushed lending into private credit funds, which matters for where the next credit stress shows up (the landing page summary takes 2 minutes; the full paper is long).",
+  "tags": [
+   "private credit",
+   "financial stability",
+   "regulation"
   ]
  },
  {

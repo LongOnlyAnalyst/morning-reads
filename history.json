@@ -213,7 +213,7 @@
   "source": "Goldman Sachs Research (Top of Mind, Issue 152)",
   "date": "2026-10-19",
   "listedOn": "2026-11-01",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
@@ -261,7 +261,7 @@
   "source": "Bloomberg Odd Lots (podcast episode, Nomura's Alex Micalizzi)",
   "date": "2026-11-02",
   "listedOn": "2026-11-03",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
@@ -270,5 +270,13 @@
   "date": "2026-11-02",
   "listedOn": "2026-11-03",
   "status": "listed"
+ },
+ {
+  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-03/how-much-should-anthropic-pop",
+  "title": "How Much Should Anthropic Pop?",
+  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+  "date": "2026-11-03",
+  "listedOn": "2026-11-04",
+  "status": "top"
  }
 ]

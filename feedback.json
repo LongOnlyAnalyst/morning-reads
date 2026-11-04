@@ -25,7 +25,7 @@
     "AI",
     "compute economics"
    ],
-   "ratedAt": "2026-11-03T14:19:25.445Z",
+   "ratedAt": "2026-11-03T14:27:16.423Z",
    "readAt": "2026-11-02T14:10:21.647Z"
   },
   "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html": {
@@ -40,7 +40,7 @@
     "Treasuries",
     "repo"
    ],
-   "ratedAt": "2026-11-03T14:19:25.445Z",
+   "ratedAt": "2026-11-03T14:27:16.423Z",
    "readAt": "2026-11-02T14:10:21.653Z"
   },
   "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates": {
@@ -89,7 +89,7 @@
   },
   "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/": {
    "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/a-narrow-margin-of-safety/",
-   "title": "A Narrow Margin of Safety",
+   "title": "",
    "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
    "published": "2026-10-24",
    "read": true,
@@ -98,7 +98,7 @@
     "AI credit",
     "macro"
    ],
-   "ratedAt": "2026-11-03T14:19:25.445Z",
+   "ratedAt": "2026-11-03T14:27:16.423Z",
    "readAt": "2026-10-30T16:23:00.602Z"
   },
   "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/": {
@@ -117,5 +117,5 @@
    "readAt": "2026-10-29T13:52:35.226Z"
   }
  },
- "updated": "2026-11-03T14:20:38.279578+00:00"
+ "updated": "2026-11-04T11:38:38.561889+00:00"
 }
