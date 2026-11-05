@@ -21,7 +21,7 @@
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-16",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/capital-costs/",
@@ -101,7 +101,7 @@
   "source": "BIS Bulletin No 138",
   "date": "2026-10-15",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bis.org/publications/bulletin-139-chokepoints-global-supply-chains-lessons-rare-earths-and-hard-disk-drives",
@@ -221,7 +221,7 @@
   "source": "Goldman Sachs Research",
   "date": "2026-10-30",
   "listedOn": "2026-11-02",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/",
@@ -229,7 +229,7 @@
   "source": "NY Fed Liberty Street Economics (Correia, Luck, Verner)",
   "date": "2026-11-02",
   "listedOn": "2026-11-02",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/",
@@ -277,6 +277,30 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-03",
   "listedOn": "2026-11-04",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/",
+  "title": "November: The Setup Improves",
+  "source": "Citadel Securities Global Market Intelligence (Scott Rubner)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-05",
   "status": "top"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/",
+  "title": "How Market Position Shapes Credit Card Interest Rates",
+  "source": "NY Fed Liberty Street Economics (Herkenhoff, Morelli)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-05",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-04/the-midterm-predictions-were-good",
+  "title": "The Midterm Predictions Were Good",
+  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-05",
+  "status": "listed"
  }
 ]

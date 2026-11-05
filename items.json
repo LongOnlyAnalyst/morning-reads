@@ -1,257 +1,260 @@
 [
- {
-  "title": "How Much Should Anthropic Pop?",
-  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
-  "date": "2026-11-03",
-  "min": 15,
-  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-03/how-much-should-anthropic-pop",
-  "why": "Levine asks whether offshore pre-IPO perpetual futures on Anthropic, which have no claim on the shares and no arbitrage link to them, can still say something real about the IPO price. His answer leans on how well-calibrated prediction markets have turned out to be, a useful lens on a new corner of equity capital markets plumbing.",
-  "tags": [
-   "market structure",
-   "IPOs",
-   "prediction markets"
-  ],
-  "paywall": true,
-  "top": true
- },
- {
-  "title": "Funding markets getting tighter",
-  "source": "BNY iFlow Short Thoughts (John Velis)",
-  "date": "2026-11-03",
-  "min": 4,
-  "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/funding-markets-getting-tighter.html",
-  "why": "TGCR and SOFR traded above IORB at October month-end, the tightest of the year, as net bill issuance jumped about $260bn, the TGA topped $1tn and reserves fell under $2.9tn. BNY expects the NY Fed to resume reserve management purchases within about a week and flags a repeat squeeze in Q1 2027 if Treasury's $800bn borrowing comes mostly via bills.",
-  "tags": [
-   "repo",
-   "flows",
-   "market structure"
-  ],
-  "top": true
- },
- {
-  "title": "How Do Banking Supervisors Deal with Failing Banks?",
-  "source": "NY Fed Liberty Street Economics (Correia, Luck, Verner)",
-  "date": "2026-11-02",
-  "min": 8,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/",
-  "why": "Using every commercial bank exam from 2000 to 2023, the authors show modern bank failures are supervisory decisions, not runs: only 28 of 557 failures since 2000 happened on a day other than Friday, and nearly 3 of the typical 8-point equity drop before failure comes from exam-driven call report revisions. A quasi-random assignment of strict examiners in 2008 shows the trade-off directly: stricter supervision cut FDIC resolution costs but tightened credit supply.",
-  "tags": [
-   "banks",
-   "regulation"
-  ],
-  "top": true
- },
- {
-  "title": "The $300 Billion Structured Notes Market Is Booming",
-  "source": "Bloomberg Odd Lots (podcast episode, Nomura's Alex Micalizzi)",
-  "date": "2026-11-02",
-  "min": 45,
-  "url": "https://www.youtube.com/watch?v=KMrvunHdpvQ",
-  "why": "US structured note issuance is nearing $300bn a year, and the episode walks through how autocallables and worst-of notes bundle bank debt with short-vol derivatives. The useful part is the dealer side: how hedging those notes leaves banks long or short vega and gamma and can feed back into index volatility.",
-  "tags": [
-   "positioning",
-   "derivatives",
-   "flows"
-  ]
- },
- {
-  "title": "Catching the repricing wave: insights from daily online supermarket prices",
-  "source": "ECB Blog (Osbat, Höynck, Maglione, Wieland)",
-  "date": "2026-11-02",
-  "min": 7,
-  "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
-  "why": "Using the ECB's Daily Price Dataset, scraped supermarket prices classified by AI into HICP categories, the authors show the frequency of food price increases rose in March 2026 after the energy shock but then stabilised, unlike the broadening wave of 2022. That points to less state-dependent, nonlinear repricing this time, which matters for how aggressive central banks need to be.",
-  "tags": [
-   "inflation",
-   "energy"
-  ]
- },
- {
-  "title": "Treasury Issuance and Dealer Balance Sheets",
-  "source": "Federal Reserve FEDS Notes",
-  "date": "2026-10-30",
-  "min": 14,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
-  "why": "Using daily FR 2052a data on the eight largest GSIB dealers, the authors find dealer balance sheets grow about 21 cents per dollar of coupon issuance, with two-thirds coming from client repo financing that lingers well after the inventory bump fades. Issuance pushes Treasury desks closer to their VaR limits while buybacks pull them back, which is a direct read on how much more supply the market-making system can absorb.",
-  "tags": [
-   "market structure",
-   "Treasuries",
-   "repo"
-  ]
- },
- {
-  "title": "Evaluating New LinkedIn Labor Market Tightness Indicators",
-  "source": "NY Fed Liberty Street Economics (Li, Topa, Weber)",
-  "date": "2026-10-30",
-  "min": 7,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/",
-  "why": "The NY Fed tests three new LinkedIn tightness gauges against JOLTS V/U and finds the Jobs per Jobseeker Index tracks V/U closely (0.73 correlation) and beats it at nowcasting and forecasting both CPI and ECI inflation. Because it arrives about a month before JOLTS, it is a timely labor-to-inflation signal worth watching while rates are this sensitive to wage data.",
-  "tags": [
-   "labor",
-   "inflation",
-   "macro"
-  ]
- },
- {
-  "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
-  "source": "Goldman Sachs Research",
-  "date": "2026-10-30",
-  "min": 5,
-  "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
-  "why": "With 30-year mortgages at 7.32% and 95% of borrowers locked in below market, Walker and Mericle forecast 3.9 million existing home sales in 2027 (26% below 2019), 0.8% home price growth, and residential investment contracting for three straight quarters before a second-half rebound. They argue rising vacancy has made homebuilders more rate-sensitive than in 2023-25, so the housing drag depends on mortgage rates easing toward their 6.4% forecast.",
-  "tags": [
-   "housing",
-   "rates",
-   "macro"
-  ]
- },
- {
-  "title": "Tokenomics 2.0",
-  "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
-  "date": "2026-10-28",
-  "min": 6,
-  "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
-  "why": "Token prices are down about 50% in six months and open-weight models are now 65-70% of routed volume, while B200 rental rates are up 27.5%, so frontier labs need roughly 2.55x more throughput just to hold gross margin. Uses Ramp, Vercel and Silicon Data to argue that scarce-compute owners and hyperscalers, not frontier labs or leveraged neoclouds, capture the rents.",
-  "tags": [
-   "AI",
-   "compute economics"
-  ]
- },
- {
-  "title": "Building AI on credit: structures and spillovers",
-  "source": "BIS Bulletin No 140",
-  "date": "2026-10-27",
-  "min": 15,
-  "url": "https://www.bis.org/publications/bulletin-140-building-ai-credit-structures-and-spillovers.pdf",
-  "why": "BIS maps how AI capex is increasingly funded with long-term debt and off-balance-sheet vehicles whose ratings lean on commitments from a few large firms, with banks lending to both the vehicles and their investors. It measures spillovers on AI-financing news days in 2026, the clearest official look yet at where AI credit risk sits.",
-  "tags": [
-   "AI credit",
-   "financial stability"
-  ]
- },
- {
-  "title": "Do Markets Have the Bandwidth for the Midterms?",
-  "source": "Man Group – Views from the Floor",
-  "date": "2026-10-27",
-  "min": 5,
-  "url": "https://www.man.com/insights/views-from-the-floor-2026-27-Oct",
-  "why": "S&P options price November 4 at about 1.2x a normal day's volatility, which assumes a quick result. Man argues a long count or unrest is unpriced, and that election baskets carry no semiconductor bets this cycle.",
-  "tags": [
-   "politics",
-   "macro"
-  ]
- },
- {
-  "title": "The End of the Internet",
-  "source": "Stratechery (free weekly article; paywall site)",
-  "date": "2026-10-26",
-  "min": 13,
-  "url": "https://stratechery.com/2026/the-end-of-the-internet/",
-  "paywall": true,
-  "why": "Thompson starts from the PHP remote-code-execution bug and asks what AI agents and security pressure mean for the open web. This week's free article is the full piece, not a teaser.",
-  "tags": [
-   "AI",
-   "tech strategy"
-  ]
- },
- {
-  "title": "The \"let-it-rip\" camp is wrong on AI (The Economist, by Bar Dea & Jensen)",
-  "source": "Bridgewater",
-  "date": "2026-10-26",
-  "min": 9,
-  "url": "https://www.bridgewater.com/_document/the-economist-the-let-it-rip-camp-is-wrong-on-ai?id=000001a1-8267-ddc1-aba3-bef710120000",
-  "why": "Bridgewater's CEO and co-CIO argue for government-led AI regulation and estimate AI could displace almost a fifth of U.S. jobs. It is an opinion piece rather than data-heavy research, but it shows how a major macro allocator is framing AI policy risk.",
-  "tags": [
-   "AI",
-   "macro"
-  ]
- },
- {
-  "title": "Capital Wars",
-  "source": "Net Interest (Marc Rubinstein)",
-  "date": "2026-10-23",
-  "min": 10,
-  "url": "https://www.netinterest.co/p/capital-wars",
-  "paywall": true,
-  "why": "Rubinstein contrasts how SpaceX's $85.7bn IPO locked in funding with CoreWeave's rising cost of debt as AI capex outruns operating cash flow. Only the opening is free, so it is labeled paywall.",
-  "tags": [
-   "banks",
-   "capital markets"
-  ]
- },
- {
-  "title": "Bank liquidity regulation and the growth of private credit",
-  "source": "BIS Working Paper No 1388 (Doerr, Gelos, Pursiainen)",
-  "date": "2026-10-20",
-  "min": 54,
-  "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
-  "why": "After the Liquidity Coverage Ratio took effect, private credit grew far faster in US counties where LCR banks had a bigger footprint or larger liquidity shortfalls: a one standard deviation higher footprint means nearly 50% more private credit, an effect as large as the 2012 CCAR capital hike. It is hard evidence that post-crisis bank rules pushed lending into private credit funds, which matters for where the next credit stress shows up (the landing page summary takes 2 minutes; the full paper is long).",
-  "tags": [
-   "private credit",
-   "financial stability",
-   "regulation"
-  ]
- },
- {
-  "title": "Can AI Fix(ed) Income?",
-  "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
-  "date": "2026-10-17",
-  "min": 5,
-  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/can-ai-fixed-income/",
-  "why": "Walks through why CoreWeave's 2032 bonds trade near 15% while AA hyperscalers sit around 100bp, and how a 59% EBITDA margin shrinks to about 5% before interest. Also flags that the Nasdaq/10-year correlation has flipped positive, so bonds may again hedge the AI trade.",
-  "tags": [
-   "AI credit",
-   "rates"
-  ]
- },
- {
-  "title": "Government Bonds' Safe-Haven Property and Inflationary Pressures",
-  "source": "Federal Reserve FEDS Notes",
-  "date": "2026-10-16",
-  "min": 11,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html",
-  "why": "When the Middle East shock hit, long-dated sovereign bonds fell alongside equities. Fed staff argue that whether bonds hedge depends on the type of shock and on inflation dynamics, which matters directly for stock-bond correlation and 60/40 hedging assumptions.",
-  "tags": [
-   "rates",
-   "inflation",
-   "macro"
-  ]
- },
- {
-  "title": "Ripples in the Reserve Pool: Liquidity Signals from the Fed Funds Market",
-  "source": "Federal Reserve FEDS Notes",
-  "date": "2026-10-16",
-  "min": 9,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/ripples-in-the-reserve-pool-unveiling-liquidity-signals-from-the-federal-funds-market-20261016.html",
-  "why": "Fed funds trades between banks, separated from non-bank arbitrage flow, still give real-time signals about how reserves are distributed under an ample-reserves regime. This is relevant to balance-sheet runoff and to spotting funding stress early.",
-  "tags": [
-   "rates",
-   "money markets",
-   "Fed"
-  ]
- },
- {
-  "title": "Introducing Private Credit into the Financial Accounts of the United States",
-  "source": "Federal Reserve FEDS Notes",
-  "date": "2026-10-16",
-  "min": 21,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/introducing-private-credit-into-the-financial-accounts-of-the-united-states-20261016.html",
-  "why": "For the first time, the Fed breaks out private credit loans and the vehicles that originate them in the Z.1 Financial Accounts. That gives an official baseline for the size of private credit and for who funds it.",
-  "tags": [
-   "private credit",
-   "financial stability"
-  ]
- },
- {
-  "title": "Chokepoint disruptions and their macroeconomic consequences",
-  "source": "BIS Bulletin No 138",
-  "date": "2026-10-15",
-  "min": 13,
-  "url": "https://www.bis.org/publications/bulletin-138-chokepoint-disruptions-and-their-macroeconomic-consequences",
-  "why": "BIS finds substitution and inventories have mostly cushioned output after supply-chain chokepoint shocks, but at the cost of higher input prices. That framing is relevant to energy-shock inflation persistence.",
-  "tags": [
-   "supply chains",
-   "macro"
-  ]
- }
+  {
+    "title": "November: The Setup Improves",
+    "source": "Citadel Securities Global Market Intelligence (Scott Rubner)",
+    "date": "2026-11-04",
+    "min": 9,
+    "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/",
+    "why": "Rubner's post-election flows update: retail has bought US equities for 22 straight sessions (a record $251B year to date), buyback blackouts are lifting against $1.5T of authorizations, and CTA positioning has fallen to -3.3 standard deviations. He pairs that with semis trading at their widest discount to the S&P since 2018 despite rising estimates, making a concrete demand-side case for a year-end rebuild.",
+    "tags": [
+      "flows",
+      "positioning",
+      "market structure"
+    ],
+    "paywall": false,
+    "top": true
+  },
+  {
+    "title": "How Market Position Shapes Credit Card Interest Rates",
+    "source": "NY Fed Liberty Street Economics (Herkenhoff, Morelli)",
+    "date": "2026-11-04",
+    "min": 7,
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/",
+    "why": "Using OCC data on 14 million newly issued cards across 960 segmented markets, the authors show lenders pass through less of a funding-cost decline where they hold a large market share. It is a clean look at how monetary policy transmission to consumer credit depends on lender market power, not just borrower risk.",
+    "tags": [
+      "banks",
+      "consumer credit",
+      "rates"
+    ],
+    "paywall": false,
+    "top": true
+  },
+  {
+    "title": "Funding markets getting tighter",
+    "source": "BNY iFlow Short Thoughts (John Velis)",
+    "date": "2026-11-03",
+    "min": 4,
+    "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/funding-markets-getting-tighter.html",
+    "why": "TGCR and SOFR traded above IORB at October month-end, the tightest of the year, as net bill issuance jumped about $260bn, the TGA topped $1tn and reserves fell under $2.9tn. BNY expects the NY Fed to resume reserve management purchases within about a week and flags a repeat squeeze in Q1 2027 if Treasury's $800bn borrowing comes mostly via bills.",
+    "tags": [
+      "repo",
+      "flows",
+      "market structure"
+    ],
+    "top": true
+  },
+  {
+    "title": "The Midterm Predictions Were Good",
+    "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+    "date": "2026-11-04",
+    "min": 18,
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-04/the-midterm-predictions-were-good",
+    "why": "Levine argues election-night prediction markets (about $2.5 billion of midterm volume on Kalshi) are a genuinely good consumer product, big enough to reward accuracy but not big enough to swamp the elections, and that their core problem is capturing value from large, infrequent positive externalities. Also covers quant code theft and buying stock in college athletes.",
+    "tags": [
+      "prediction markets",
+      "market structure"
+    ],
+    "paywall": true
+  },
+  {
+    "title": "How Much Should Anthropic Pop?",
+    "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+    "date": "2026-11-03",
+    "min": 15,
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-03/how-much-should-anthropic-pop",
+    "why": "Levine asks whether offshore pre-IPO perpetual futures on Anthropic, which have no claim on the shares and no arbitrage link to them, can still say something real about the IPO price. His answer leans on how well-calibrated prediction markets have turned out to be, a useful lens on a new corner of equity capital markets plumbing.",
+    "tags": [
+      "market structure",
+      "IPOs",
+      "prediction markets"
+    ],
+    "paywall": true
+  },
+  {
+    "title": "How Do Banking Supervisors Deal with Failing Banks?",
+    "source": "NY Fed Liberty Street Economics (Correia, Luck, Verner)",
+    "date": "2026-11-02",
+    "min": 8,
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/",
+    "why": "Using every commercial bank exam from 2000 to 2023, the authors show modern bank failures are supervisory decisions, not runs: only 28 of 557 failures since 2000 happened on a day other than Friday, and nearly 3 of the typical 8-point equity drop before failure comes from exam-driven call report revisions. A quasi-random assignment of strict examiners in 2008 shows the trade-off directly: stricter supervision cut FDIC resolution costs but tightened credit supply.",
+    "tags": [
+      "banks",
+      "regulation"
+    ]
+  },
+  {
+    "title": "The $300 Billion Structured Notes Market Is Booming",
+    "source": "Bloomberg Odd Lots (podcast episode, Nomura's Alex Micalizzi)",
+    "date": "2026-11-02",
+    "min": 45,
+    "url": "https://www.youtube.com/watch?v=KMrvunHdpvQ",
+    "why": "US structured note issuance is nearing $300bn a year, and the episode walks through how autocallables and worst-of notes bundle bank debt with short-vol derivatives. The useful part is the dealer side: how hedging those notes leaves banks long or short vega and gamma and can feed back into index volatility.",
+    "tags": [
+      "positioning",
+      "derivatives",
+      "flows"
+    ]
+  },
+  {
+    "title": "Catching the repricing wave: insights from daily online supermarket prices",
+    "source": "ECB Blog (Osbat, Höynck, Maglione, Wieland)",
+    "date": "2026-11-02",
+    "min": 7,
+    "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
+    "why": "Using the ECB's Daily Price Dataset, scraped supermarket prices classified by AI into HICP categories, the authors show the frequency of food price increases rose in March 2026 after the energy shock but then stabilised, unlike the broadening wave of 2022. That points to less state-dependent, nonlinear repricing this time, which matters for how aggressive central banks need to be.",
+    "tags": [
+      "inflation",
+      "energy"
+    ]
+  },
+  {
+    "title": "Treasury Issuance and Dealer Balance Sheets",
+    "source": "Federal Reserve FEDS Notes",
+    "date": "2026-10-30",
+    "min": 14,
+    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
+    "why": "Using daily FR 2052a data on the eight largest GSIB dealers, the authors find dealer balance sheets grow about 21 cents per dollar of coupon issuance, with two-thirds coming from client repo financing that lingers well after the inventory bump fades. Issuance pushes Treasury desks closer to their VaR limits while buybacks pull them back, which is a direct read on how much more supply the market-making system can absorb.",
+    "tags": [
+      "market structure",
+      "Treasuries",
+      "repo"
+    ]
+  },
+  {
+    "title": "Evaluating New LinkedIn Labor Market Tightness Indicators",
+    "source": "NY Fed Liberty Street Economics (Li, Topa, Weber)",
+    "date": "2026-10-30",
+    "min": 7,
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/",
+    "why": "The NY Fed tests three new LinkedIn tightness gauges against JOLTS V/U and finds the Jobs per Jobseeker Index tracks V/U closely (0.73 correlation) and beats it at nowcasting and forecasting both CPI and ECI inflation. Because it arrives about a month before JOLTS, it is a timely labor-to-inflation signal worth watching while rates are this sensitive to wage data.",
+    "tags": [
+      "labor",
+      "inflation",
+      "macro"
+    ]
+  },
+  {
+    "title": "Tokenomics 2.0",
+    "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
+    "date": "2026-10-28",
+    "min": 6,
+    "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
+    "why": "Token prices are down about 50% in six months and open-weight models are now 65-70% of routed volume, while B200 rental rates are up 27.5%, so frontier labs need roughly 2.55x more throughput just to hold gross margin. Uses Ramp, Vercel and Silicon Data to argue that scarce-compute owners and hyperscalers, not frontier labs or leveraged neoclouds, capture the rents.",
+    "tags": [
+      "AI",
+      "compute economics"
+    ]
+  },
+  {
+    "title": "Building AI on credit: structures and spillovers",
+    "source": "BIS Bulletin No 140",
+    "date": "2026-10-27",
+    "min": 15,
+    "url": "https://www.bis.org/publications/bulletin-140-building-ai-credit-structures-and-spillovers.pdf",
+    "why": "BIS maps how AI capex is increasingly funded with long-term debt and off-balance-sheet vehicles whose ratings lean on commitments from a few large firms, with banks lending to both the vehicles and their investors. It measures spillovers on AI-financing news days in 2026, the clearest official look yet at where AI credit risk sits.",
+    "tags": [
+      "AI credit",
+      "financial stability"
+    ]
+  },
+  {
+    "title": "Do Markets Have the Bandwidth for the Midterms?",
+    "source": "Man Group – Views from the Floor",
+    "date": "2026-10-27",
+    "min": 5,
+    "url": "https://www.man.com/insights/views-from-the-floor-2026-27-Oct",
+    "why": "S&P options price November 4 at about 1.2x a normal day's volatility, which assumes a quick result. Man argues a long count or unrest is unpriced, and that election baskets carry no semiconductor bets this cycle.",
+    "tags": [
+      "politics",
+      "macro"
+    ]
+  },
+  {
+    "title": "The End of the Internet",
+    "source": "Stratechery (free weekly article; paywall site)",
+    "date": "2026-10-26",
+    "min": 13,
+    "url": "https://stratechery.com/2026/the-end-of-the-internet/",
+    "paywall": true,
+    "why": "Thompson starts from the PHP remote-code-execution bug and asks what AI agents and security pressure mean for the open web. This week's free article is the full piece, not a teaser.",
+    "tags": [
+      "AI",
+      "tech strategy"
+    ]
+  },
+  {
+    "title": "The \"let-it-rip\" camp is wrong on AI (The Economist, by Bar Dea & Jensen)",
+    "source": "Bridgewater",
+    "date": "2026-10-26",
+    "min": 9,
+    "url": "https://www.bridgewater.com/_document/the-economist-the-let-it-rip-camp-is-wrong-on-ai?id=000001a1-8267-ddc1-aba3-bef710120000",
+    "why": "Bridgewater's CEO and co-CIO argue for government-led AI regulation and estimate AI could displace almost a fifth of U.S. jobs. It is an opinion piece rather than data-heavy research, but it shows how a major macro allocator is framing AI policy risk.",
+    "tags": [
+      "AI",
+      "macro"
+    ]
+  },
+  {
+    "title": "Capital Wars",
+    "source": "Net Interest (Marc Rubinstein)",
+    "date": "2026-10-23",
+    "min": 10,
+    "url": "https://www.netinterest.co/p/capital-wars",
+    "paywall": true,
+    "why": "Rubinstein contrasts how SpaceX's $85.7bn IPO locked in funding with CoreWeave's rising cost of debt as AI capex outruns operating cash flow. Only the opening is free, so it is labeled paywall.",
+    "tags": [
+      "banks",
+      "capital markets"
+    ]
+  },
+  {
+    "title": "Bank liquidity regulation and the growth of private credit",
+    "source": "BIS Working Paper No 1388 (Doerr, Gelos, Pursiainen)",
+    "date": "2026-10-20",
+    "min": 54,
+    "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
+    "why": "After the Liquidity Coverage Ratio took effect, private credit grew far faster in US counties where LCR banks had a bigger footprint or larger liquidity shortfalls: a one standard deviation higher footprint means nearly 50% more private credit, an effect as large as the 2012 CCAR capital hike. It is hard evidence that post-crisis bank rules pushed lending into private credit funds, which matters for where the next credit stress shows up (the landing page summary takes 2 minutes; the full paper is long).",
+    "tags": [
+      "private credit",
+      "financial stability",
+      "regulation"
+    ]
+  },
+  {
+    "title": "Can AI Fix(ed) Income?",
+    "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
+    "date": "2026-10-17",
+    "min": 5,
+    "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/can-ai-fixed-income/",
+    "why": "Walks through why CoreWeave's 2032 bonds trade near 15% while AA hyperscalers sit around 100bp, and how a 59% EBITDA margin shrinks to about 5% before interest. Also flags that the Nasdaq/10-year correlation has flipped positive, so bonds may again hedge the AI trade.",
+    "tags": [
+      "AI credit",
+      "rates"
+    ]
+  },
+  {
+    "title": "Ripples in the Reserve Pool: Liquidity Signals from the Fed Funds Market",
+    "source": "Federal Reserve FEDS Notes",
+    "date": "2026-10-16",
+    "min": 9,
+    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/ripples-in-the-reserve-pool-unveiling-liquidity-signals-from-the-federal-funds-market-20261016.html",
+    "why": "Fed funds trades between banks, separated from non-bank arbitrage flow, still give real-time signals about how reserves are distributed under an ample-reserves regime. This is relevant to balance-sheet runoff and to spotting funding stress early.",
+    "tags": [
+      "rates",
+      "money markets",
+      "Fed"
+    ]
+  },
+  {
+    "title": "Introducing Private Credit into the Financial Accounts of the United States",
+    "source": "Federal Reserve FEDS Notes",
+    "date": "2026-10-16",
+    "min": 21,
+    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/introducing-private-credit-into-the-financial-accounts-of-the-united-states-20261016.html",
+    "why": "For the first time, the Fed breaks out private credit loans and the vehicles that originate them in the Z.1 Financial Accounts. That gives an official baseline for the size of private credit and for who funds it.",
+    "tags": [
+      "private credit",
+      "financial stability"
+    ]
+  }
 ]
