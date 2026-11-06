@@ -45,7 +45,7 @@
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-16",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/introducing-private-credit-into-the-financial-accounts-of-the-united-states-20261016.html",
@@ -85,7 +85,7 @@
   "source": "Man Group – Views from the Floor",
   "date": "2026-10-27",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms",
@@ -141,7 +141,7 @@
   "source": "Bridgewater",
   "date": "2026-10-26",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.netinterest.co/p/capital-wars",
@@ -149,7 +149,7 @@
   "source": "Net Interest (Marc Rubinstein)",
   "date": "2026-10-23",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.city-journal.org/article/allison-schrager-worth-the-risk-cliff-asness",
@@ -253,7 +253,7 @@
   "source": "BNY iFlow Short Thoughts (John Velis)",
   "date": "2026-11-03",
   "listedOn": "2026-11-03",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.youtube.com/watch?v=KMrvunHdpvQ",
@@ -293,7 +293,7 @@
   "source": "NY Fed Liberty Street Economics (Herkenhoff, Morelli)",
   "date": "2026-11-04",
   "listedOn": "2026-11-05",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-04/the-midterm-predictions-were-good",
@@ -301,6 +301,38 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-04",
   "listedOn": "2026-11-05",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/houston-do-we-have-a-problem/",
+  "title": "Houston, Do We Have A Problem?",
+  "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
+  "date": "2026-11-05",
+  "listedOn": "2026-11-06",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
+  "title": "Scenarios for future banking: implications for profitability, liquidity and solvency",
+  "source": "BIS Working Paper No 1391 (Schmieder, Corrias, Wünsch)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-06",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-05/financial-predictionization",
+  "title": "Financial Predictionization",
+  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+  "date": "2026-11-05",
+  "listedOn": "2026-11-06",
+  "status": "listed"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/",
+  "title": "The U.S. Oil Sector's Role in Restraining Prices",
+  "source": "NY Fed Liberty Street Economics (Thomas Klitgaard)",
+  "date": "2026-11-05",
+  "listedOn": "2026-11-06",
   "status": "listed"
  }
 ]

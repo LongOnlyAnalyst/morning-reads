@@ -1,5 +1,34 @@
 [
   {
+    "title": "Houston, Do We Have A Problem?",
+    "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
+    "date": "2026-11-05",
+    "min": 10,
+    "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/houston-do-we-have-a-problem/",
+    "why": "Flight reads the midterm backlash against data centres (opposed in at least 39 of 45 local ballot initiatives, with ~45 GW of projects at risk in Texas, Ohio, Pennsylvania and Georgia) as a near-term constraint on AI infrastructure, not a collapse in aggregate investment given capital's mobility. He maps a Peak Capex rotation out of memory, neoclouds and energy into hyperscalers with energised compute, argues rates get a cleaner lower-yield impulse from slower financing demand, and flags that three-month option-implied odds of Brent above $120 have more than halved since late October as midterms may catalyse an Iran settlement.",
+    "tags": [
+      "AI credit",
+      "positioning",
+      "rates"
+    ],
+    "paywall": false,
+    "top": true
+  },
+  {
+    "title": "Scenarios for future banking: implications for profitability, liquidity and solvency",
+    "source": "BIS Working Paper No 1391 (Schmieder, Corrias, W\u00fcnsch)",
+    "date": "2026-11-04",
+    "min": 111,
+    "url": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
+    "why": "Using 9,000 banks across 150+ jurisdictions, the authors run four ten-year scenarios and find traditional banks still hold about three-quarters of system assets while tech-based models may contest roughly 40% of the revenue pool, raising earnings volatility as fees replace NII and digital channels shorten the path from deposit outflow to capital pressure. Supervisory priorities that hold in every scenario: reassess deposit-outflow assumptions, harden third-party operational resilience, treat weak earnings as a solvency risk, and improve data on emerging models (landing-page summary is short; full PDF is 57 pages).",
+    "tags": [
+      "financial stability",
+      "banks",
+      "regulation"
+    ],
+    "top": true
+  },
+  {
     "title": "November: The Setup Improves",
     "source": "Citadel Securities Global Market Intelligence (Scott Rubner)",
     "date": "2026-11-04",
@@ -15,6 +44,32 @@
     "top": true
   },
   {
+    "title": "Financial Predictionization",
+    "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+    "date": "2026-11-05",
+    "min": 16,
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-05/financial-predictionization",
+    "why": "Levine argues the interesting part of 'tokenized real estate' was never the blockchain wrapper\u2014REITs already fractionalize buildings\u2014but the broader push to turn illiquid claims into continuously priced forecast markets. Also covers black-swan funds, data-centre delays and how law firms price billable hours, continuing his recent run on prediction-market plumbing.",
+    "tags": [
+      "market structure",
+      "prediction markets"
+    ],
+    "paywall": true
+  },
+  {
+    "title": "The U.S. Oil Sector's Role in Restraining Prices",
+    "source": "NY Fed Liberty Street Economics (Thomas Klitgaard)",
+    "date": "2026-11-05",
+    "min": 9,
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/",
+    "why": "Klitgaard shows the Middle East supply shock was buffered first by a pre-conflict global oversupply built largely by the U.S. fracking boom (U.S. output 8 to 21 mb/d from 2010\u201325, 70% of the global gain) and then by U.S. SPR and commercial inventory draws that filled about half the Q2 global gap. U.S. stockpiles stopped falling in July, so the ongoing shortfall is now being absorbed by inventory draws elsewhere, notably China, which frames the two paths for prices depending on whether Middle East output returns.",
+    "tags": [
+      "energy",
+      "commodities",
+      "macro"
+    ]
+  },
+  {
     "title": "How Market Position Shapes Credit Card Interest Rates",
     "source": "NY Fed Liberty Street Economics (Herkenhoff, Morelli)",
     "date": "2026-11-04",
@@ -26,22 +81,7 @@
       "consumer credit",
       "rates"
     ],
-    "paywall": false,
-    "top": true
-  },
-  {
-    "title": "Funding markets getting tighter",
-    "source": "BNY iFlow Short Thoughts (John Velis)",
-    "date": "2026-11-03",
-    "min": 4,
-    "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/funding-markets-getting-tighter.html",
-    "why": "TGCR and SOFR traded above IORB at October month-end, the tightest of the year, as net bill issuance jumped about $260bn, the TGA topped $1tn and reserves fell under $2.9tn. BNY expects the NY Fed to resume reserve management purchases within about a week and flags a repeat squeeze in Q1 2027 if Treasury's $800bn borrowing comes mostly via bills.",
-    "tags": [
-      "repo",
-      "flows",
-      "market structure"
-    ],
-    "top": true
+    "paywall": false
   },
   {
     "title": "The Midterm Predictions Were Good",
@@ -55,6 +95,19 @@
       "market structure"
     ],
     "paywall": true
+  },
+  {
+    "title": "Funding markets getting tighter",
+    "source": "BNY iFlow Short Thoughts (John Velis)",
+    "date": "2026-11-03",
+    "min": 4,
+    "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/funding-markets-getting-tighter.html",
+    "why": "TGCR and SOFR traded above IORB at October month-end, the tightest of the year, as net bill issuance jumped about $260bn, the TGA topped $1tn and reserves fell under $2.9tn. BNY expects the NY Fed to resume reserve management purchases within about a week and flags a repeat squeeze in Q1 2027 if Treasury's $800bn borrowing comes mostly via bills.",
+    "tags": [
+      "repo",
+      "flows",
+      "market structure"
+    ]
   },
   {
     "title": "How Much Should Anthropic Pop?",
@@ -97,7 +150,7 @@
   },
   {
     "title": "Catching the repricing wave: insights from daily online supermarket prices",
-    "source": "ECB Blog (Osbat, Höynck, Maglione, Wieland)",
+    "source": "ECB Blog (Osbat, H\u00f6ynck, Maglione, Wieland)",
     "date": "2026-11-02",
     "min": 7,
     "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
@@ -158,18 +211,6 @@
     ]
   },
   {
-    "title": "Do Markets Have the Bandwidth for the Midterms?",
-    "source": "Man Group – Views from the Floor",
-    "date": "2026-10-27",
-    "min": 5,
-    "url": "https://www.man.com/insights/views-from-the-floor-2026-27-Oct",
-    "why": "S&P options price November 4 at about 1.2x a normal day's volatility, which assumes a quick result. Man argues a long count or unrest is unpriced, and that election baskets carry no semiconductor bets this cycle.",
-    "tags": [
-      "politics",
-      "macro"
-    ]
-  },
-  {
     "title": "The End of the Internet",
     "source": "Stratechery (free weekly article; paywall site)",
     "date": "2026-10-26",
@@ -180,31 +221,6 @@
     "tags": [
       "AI",
       "tech strategy"
-    ]
-  },
-  {
-    "title": "The \"let-it-rip\" camp is wrong on AI (The Economist, by Bar Dea & Jensen)",
-    "source": "Bridgewater",
-    "date": "2026-10-26",
-    "min": 9,
-    "url": "https://www.bridgewater.com/_document/the-economist-the-let-it-rip-camp-is-wrong-on-ai?id=000001a1-8267-ddc1-aba3-bef710120000",
-    "why": "Bridgewater's CEO and co-CIO argue for government-led AI regulation and estimate AI could displace almost a fifth of U.S. jobs. It is an opinion piece rather than data-heavy research, but it shows how a major macro allocator is framing AI policy risk.",
-    "tags": [
-      "AI",
-      "macro"
-    ]
-  },
-  {
-    "title": "Capital Wars",
-    "source": "Net Interest (Marc Rubinstein)",
-    "date": "2026-10-23",
-    "min": 10,
-    "url": "https://www.netinterest.co/p/capital-wars",
-    "paywall": true,
-    "why": "Rubinstein contrasts how SpaceX's $85.7bn IPO locked in funding with CoreWeave's rising cost of debt as AI capex outruns operating cash flow. Only the opening is free, so it is labeled paywall.",
-    "tags": [
-      "banks",
-      "capital markets"
     ]
   },
   {
@@ -230,19 +246,6 @@
     "tags": [
       "AI credit",
       "rates"
-    ]
-  },
-  {
-    "title": "Ripples in the Reserve Pool: Liquidity Signals from the Fed Funds Market",
-    "source": "Federal Reserve FEDS Notes",
-    "date": "2026-10-16",
-    "min": 9,
-    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/ripples-in-the-reserve-pool-unveiling-liquidity-signals-from-the-federal-funds-market-20261016.html",
-    "why": "Fed funds trades between banks, separated from non-bank arbitrage flow, still give real-time signals about how reserves are distributed under an ample-reserves regime. This is relevant to balance-sheet runoff and to spotting funding stress early.",
-    "tags": [
-      "rates",
-      "money markets",
-      "Fed"
     ]
   },
   {
