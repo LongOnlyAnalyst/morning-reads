@@ -229,31 +229,6 @@
   ]
  },
  {
-  "title": "Evaluating New LinkedIn Labor Market Tightness Indicators",
-  "source": "NY Fed Liberty Street Economics (Li, Topa, Weber)",
-  "date": "2026-10-30",
-  "min": 7,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/",
-  "why": "The NY Fed tests three new LinkedIn tightness gauges against JOLTS V/U and finds the Jobs per Jobseeker Index tracks V/U closely (0.73 correlation) and beats it at nowcasting and forecasting both CPI and ECI inflation. Because it arrives about a month before JOLTS, it is a timely labor-to-inflation signal worth watching while rates are this sensitive to wage data.",
-  "tags": [
-   "labor",
-   "inflation",
-   "macro"
-  ]
- },
- {
-  "title": "Tokenomics 2.0",
-  "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
-  "date": "2026-10-28",
-  "min": 6,
-  "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
-  "why": "Token prices are down about 50% in six months and open-weight models are now 65-70% of routed volume, while B200 rental rates are up 27.5%, so frontier labs need roughly 2.55x more throughput just to hold gross margin. Uses Ramp, Vercel and Silicon Data to argue that scarce-compute owners and hyperscalers, not frontier labs or leveraged neoclouds, capture the rents.",
-  "tags": [
-   "AI",
-   "compute economics"
-  ]
- },
- {
   "title": "Building AI on credit: structures and spillovers",
   "source": "BIS Bulletin No 140",
   "date": "2026-10-27",
@@ -264,5 +239,33 @@
    "AI credit",
    "financial stability"
   ]
+ },
+ {
+  "title": "Now You Can See Everything",
+  "source": "J.P. Morgan Eye on the Market (Michael Cembalest)",
+  "date": "2026-11-04",
+  "min": 36,
+  "url": "https://cdn.jpmorganfunds.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/now-you-can-see-everything-amv.pdf",
+  "why": "Cembalest argues the midterms matter for markets mainly through governors: of the 96 GW of data-center capacity expected in 2028, about 37.5 GW may face a pause and another 15 GW new conditions, while 2027 deliveries are mostly already under construction. He also shows only about 15% of the big seven AI firms' $4 trillion in debt and lease commitments sit on balance sheet, links that to fast-widening AI credit spreads, and flags an 8% drop in long-short hedge fund gross exposure, the largest drawdown since 2016.",
+  "tags": [
+   "AI credit",
+   "positioning",
+   "data centers"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Is Private Equity Cooked?",
+  "source": "a16z (Jen Kha)",
+  "date": "2026-11-04",
+  "min": 10,
+  "url": "https://a16z.com/is-private-equity-cooked/",
+  "why": "A venture LP case (so read it as talking the book) but packed with data on stress in levered tech buyouts: 70% of 2025-26 foreclosed debt came from 2021-22 deals, continuation vehicles reached 14% of PE exit value in the first half of 2026, and about $300 billion of risky PE-backed loans mature in 2028-29, a third of it software and a quarter rated CCC+ or below. It ties PIK interest, NAV loans and private credit exposure to SaaS into one picture of where losses have not yet been taken.",
+  "tags": [
+   "private credit",
+   "financial stability",
+   "private equity"
+  ],
+  "paywall": false
  }
 ]

@@ -205,7 +205,7 @@
   "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
   "date": "2026-10-28",
   "listedOn": "2026-11-01",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning",
@@ -237,7 +237,7 @@
   "source": "NY Fed Liberty Street Economics (Li, Topa, Weber)",
   "date": "2026-10-30",
   "listedOn": "2026-11-02",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
@@ -365,6 +365,22 @@
   "source": "Stratechery (free weekly article; paywall site)",
   "date": "2026-11-04",
   "listedOn": "2026-11-08",
+  "status": "listed"
+ },
+ {
+  "url": "https://cdn.jpmorganfunds.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/now-you-can-see-everything-amv.pdf",
+  "title": "Now You Can See Everything",
+  "source": "J.P. Morgan Eye on the Market (Michael Cembalest)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-09",
+  "status": "listed"
+ },
+ {
+  "url": "https://a16z.com/is-private-equity-cooked/",
+  "title": "Is Private Equity Cooked?",
+  "source": "a16z (Jen Kha)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-09",
   "status": "listed"
  }
 ]
