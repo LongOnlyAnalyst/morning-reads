@@ -20,7 +20,7 @@ for h in hist:
     if h['url'] not in cur and h['status'] in ('top','listed'): h['status']='expired'
 json.dump(hist,open('history.json','w'),indent=1,ensure_ascii=False)
 items.sort(key=lambda i:(not i.get('top'),i['date']),reverse=False)
-items=[i for i in items if i.get('top')]+sorted([i for i in items if not i.get('top')],key=lambda i:i['date'],reverse=True)
+items=sorted([i for i in items if i.get('top')],key=lambda i:i['date'],reverse=True)+sorted([i for i in items if not i.get('top')],key=lambda i:i['date'],reverse=True)
 try: _s=json.load(open('sync.json'))
 except FileNotFoundError: _s={}
 _tok=_s.get('token','');_ch=[_tok[i:i+7] for i in range(0,len(_tok),7)]

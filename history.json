@@ -53,7 +53,7 @@
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-16",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html",
@@ -133,7 +133,7 @@
   "source": "Stratechery (free weekly article; paywall site)",
   "date": "2026-10-26",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bridgewater.com/_document/the-economist-the-let-it-rip-camp-is-wrong-on-ai?id=000001a1-8267-ddc1-aba3-bef710120000",
@@ -181,7 +181,7 @@
   "source": "Citadel Securities Macro Thoughts (Nohshad Shah)",
   "date": "2026-10-17",
   "listedOn": "2026-10-30",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://a16z.com/why-texas-is-making-data-centers-wait/",
@@ -245,7 +245,7 @@
   "source": "BIS Working Paper No 1388 (Doerr, Gelos, Pursiainen)",
   "date": "2026-10-20",
   "listedOn": "2026-11-03",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/funding-markets-getting-tighter.html",
@@ -317,7 +317,7 @@
   "source": "BIS Working Paper No 1391 (Schmieder, Corrias, Wünsch)",
   "date": "2026-11-04",
   "listedOn": "2026-11-06",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-05/financial-predictionization",
@@ -333,6 +333,38 @@
   "source": "NY Fed Liberty Street Economics (Thomas Klitgaard)",
   "date": "2026-11-05",
   "listedOn": "2026-11-06",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/special-reports/tmt-credit-breaks-from-the-pack.html",
+  "title": "TMT credit breaks from the pack",
+  "source": "BNY iFlow Special Report (David Tam)",
+  "date": "2026-11-06",
+  "listedOn": "2026-11-08",
+  "status": "top"
+ },
+ {
+  "url": "https://www.netinterest.co/p/the-insatiable-demand-for-alpha",
+  "title": "The Insatiable Demand for Alpha",
+  "source": "Net Interest (Marc Rubinstein)",
+  "date": "2026-11-06",
+  "listedOn": "2026-11-08",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026",
+  "title": "Gaining (and losing) currency: a global database of currencies, 1850-2026",
+  "source": "BIS Working Paper No 1392 (Aldasoro, Frost, Kansal, Schenk)",
+  "date": "2026-11-06",
+  "listedOn": "2026-11-08",
+  "status": "listed"
+ },
+ {
+  "url": "https://stratechery.com/2026/ai-on-the-ballot/",
+  "title": "AI on the Ballot",
+  "source": "Stratechery (free weekly article; paywall site)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-08",
   "status": "listed"
  }
 ]
