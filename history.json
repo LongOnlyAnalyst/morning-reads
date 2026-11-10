@@ -5,7 +5,7 @@
   "source": "BIS Bulletin No 140",
   "date": "2026-10-27",
   "listedOn": "2026-10-29",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/",
@@ -197,7 +197,7 @@
   "source": "Federal Reserve FEDS Notes",
   "date": "2026-10-30",
   "listedOn": "2026-11-01",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
@@ -229,7 +229,7 @@
   "source": "NY Fed Liberty Street Economics (Correia, Luck, Verner)",
   "date": "2026-11-02",
   "listedOn": "2026-11-02",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/",
@@ -269,7 +269,7 @@
   "source": "ECB Blog (Osbat, Höynck, Maglione, Wieland)",
   "date": "2026-11-02",
   "listedOn": "2026-11-03",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-03/how-much-should-anthropic-pop",
@@ -285,7 +285,7 @@
   "source": "Citadel Securities Global Market Intelligence (Scott Rubner)",
   "date": "2026-11-04",
   "listedOn": "2026-11-05",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/",
@@ -381,6 +381,38 @@
   "source": "a16z (Jen Kha)",
   "date": "2026-11-04",
   "listedOn": "2026-11-09",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html",
+  "title": "U.S. Private Credit Vehicles: Institutional Structure and Aggregate Balance Sheets",
+  "source": "Federal Reserve FEDS Notes (Brinkman, Dobridge, Dore, Glossner, Holmquist, Nguyen, Perozek, Stefanescu)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-10",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-09/is-the-nvidia-affair-securities-fraud",
+  "title": "Is the Nvidia Affair Securities Fraud?",
+  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-10",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html",
+  "title": "Gold Reserve Relocations: Are They Always Bad News for U.S. Dollar Reserves?",
+  "source": "Federal Reserve FEDS Notes (Colin Weiss)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-10",
+  "status": "listed"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/has-u-s-monetary-policy-really-improved-a-150-year-perspective/",
+  "title": "Has U.S. Monetary Policy Really Improved? A 150-Year Perspective",
+  "source": "NY Fed Liberty Street Economics (Barnichon, Mesters)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-10",
   "status": "listed"
  }
 ]

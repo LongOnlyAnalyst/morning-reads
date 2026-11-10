@@ -1,5 +1,59 @@
 [
  {
+  "title": "U.S. Private Credit Vehicles: Institutional Structure and Aggregate Balance Sheets",
+  "source": "Federal Reserve FEDS Notes (Brinkman, Dobridge, Dore, Glossner, Holmquist, Nguyen, Perozek, Stefanescu)",
+  "date": "2026-11-09",
+  "min": 12,
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html",
+  "why": "Using new Financial Accounts data, Fed staff size U.S. private credit vehicles at about $1.9 trillion at end-2025 (up from $240 billion in 2012, and 21% in 2025 alone), split across private debt funds, BDCs, interval and tender offer funds and middle-market CLOs, with banks supplying most of their roughly $500 billion of debt. The useful part is the vehicle-by-vehicle view of leverage (BDCs near 1x, PD funds about 0.25x) and redemption terms, which shows where liquidity stress from retail-facing structures would actually show up.",
+  "tags": [
+   "private credit",
+   "financial stability"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Is the Nvidia Affair Securities Fraud?",
+  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+  "date": "2026-11-09",
+  "min": 16,
+  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-09/is-the-nvidia-affair-securities-fraud",
+  "why": "Levine opens by framing AI as a roughly $4 trillion-a-year spending stream about five years out, then turns to how that money gets financed and to whether the news around Nvidia's Jensen Huang raises a securities-fraud question. Also covers hedge-fund mistakes, securities fraud and insider trading; only the opening is readable without a subscription.",
+  "tags": [
+   "AI credit",
+   "market structure"
+  ],
+  "paywall": true
+ },
+ {
+  "title": "Gold Reserve Relocations: Are They Always Bad News for U.S. Dollar Reserves?",
+  "source": "Federal Reserve FEDS Notes (Colin Weiss)",
+  "date": "2026-11-09",
+  "min": 5,
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html",
+  "why": "Weiss checks whether the German, Dutch and French moves of gold out of U.S. custody came with dollar reserve diversification, and finds they mostly did not: dollar shares stayed around 60 to 90 percent, unlike Russia and Turkey, which cut dollars alongside repatriating gold. It is a short, data-based counter to the reading of gold repatriation headlines as a de-dollarization signal.",
+  "tags": [
+   "reserves",
+   "dollar",
+   "flows"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Has U.S. Monetary Policy Really Improved? A 150-Year Perspective",
+  "source": "NY Fed Liberty Street Economics (Barnichon, Mesters)",
+  "date": "2026-11-09",
+  "min": 7,
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/has-u-s-monetary-policy-really-improved-a-150-year-perspective/",
+  "why": "The authors score Fed policy against the best feasible response to the shocks each era faced and find meaningful improvement only after Volcker, with the gains concentrated in responses to banking panics and supply shocks. The Great Inflation result, a weak response to energy and inflation-expectations shocks, is directly relevant to how the current oil shock should be handled.",
+  "tags": [
+   "monetary policy",
+   "financial stability"
+  ],
+  "paywall": false
+ },
+ {
   "title": "TMT credit breaks from the pack",
   "source": "BNY iFlow Special Report (David Tam)",
   "date": "2026-11-06",
@@ -41,8 +95,7 @@
    "positioning",
    "market structure"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "The Insatiable Demand for Alpha",
@@ -179,18 +232,6 @@
   "paywall": true
  },
  {
-  "title": "How Do Banking Supervisors Deal with Failing Banks?",
-  "source": "NY Fed Liberty Street Economics (Correia, Luck, Verner)",
-  "date": "2026-11-02",
-  "min": 8,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/",
-  "why": "Using every commercial bank exam from 2000 to 2023, the authors show modern bank failures are supervisory decisions, not runs: only 28 of 557 failures since 2000 happened on a day other than Friday, and nearly 3 of the typical 8-point equity drop before failure comes from exam-driven call report revisions. A quasi-random assignment of strict examiners in 2008 shows the trade-off directly: stricter supervision cut FDIC resolution costs but tightened credit supply.",
-  "tags": [
-   "banks",
-   "regulation"
-  ]
- },
- {
   "title": "The $300 Billion Structured Notes Market Is Booming",
   "source": "Bloomberg Odd Lots (podcast episode, Nomura's Alex Micalizzi)",
   "date": "2026-11-02",
@@ -201,43 +242,6 @@
    "positioning",
    "derivatives",
    "flows"
-  ]
- },
- {
-  "title": "Catching the repricing wave: insights from daily online supermarket prices",
-  "source": "ECB Blog (Osbat, Höynck, Maglione, Wieland)",
-  "date": "2026-11-02",
-  "min": 7,
-  "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
-  "why": "Using the ECB's Daily Price Dataset, scraped supermarket prices classified by AI into HICP categories, the authors show the frequency of food price increases rose in March 2026 after the energy shock but then stabilised, unlike the broadening wave of 2022. That points to less state-dependent, nonlinear repricing this time, which matters for how aggressive central banks need to be.",
-  "tags": [
-   "inflation",
-   "energy"
-  ]
- },
- {
-  "title": "Treasury Issuance and Dealer Balance Sheets",
-  "source": "Federal Reserve FEDS Notes",
-  "date": "2026-10-30",
-  "min": 14,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
-  "why": "Using daily FR 2052a data on the eight largest GSIB dealers, the authors find dealer balance sheets grow about 21 cents per dollar of coupon issuance, with two-thirds coming from client repo financing that lingers well after the inventory bump fades. Issuance pushes Treasury desks closer to their VaR limits while buybacks pull them back, which is a direct read on how much more supply the market-making system can absorb.",
-  "tags": [
-   "market structure",
-   "Treasuries",
-   "repo"
-  ]
- },
- {
-  "title": "Building AI on credit: structures and spillovers",
-  "source": "BIS Bulletin No 140",
-  "date": "2026-10-27",
-  "min": 15,
-  "url": "https://www.bis.org/publications/bulletin-140-building-ai-credit-structures-and-spillovers.pdf",
-  "why": "BIS maps how AI capex is increasingly funded with long-term debt and off-balance-sheet vehicles whose ratings lean on commitments from a few large firms, with banks lending to both the vehicles and their investors. It measures spillovers on AI-financing news days in 2026, the clearest official look yet at where AI credit risk sits.",
-  "tags": [
-   "AI credit",
-   "financial stability"
   ]
  },
  {
