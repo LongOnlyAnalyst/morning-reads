@@ -317,7 +317,7 @@
   "source": "BIS Working Paper No 1391 (Schmieder, Corrias, Wünsch)",
   "date": "2026-11-04",
   "listedOn": "2026-11-06",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-05/financial-predictionization",
@@ -325,7 +325,7 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-05",
   "listedOn": "2026-11-06",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/",
@@ -333,7 +333,7 @@
   "source": "NY Fed Liberty Street Economics (Thomas Klitgaard)",
   "date": "2026-11-05",
   "listedOn": "2026-11-06",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/special-reports/tmt-credit-breaks-from-the-pack.html",
@@ -357,7 +357,7 @@
   "source": "BIS Working Paper No 1392 (Aldasoro, Frost, Kansal, Schenk)",
   "date": "2026-11-06",
   "listedOn": "2026-11-08",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://stratechery.com/2026/ai-on-the-ballot/",
@@ -381,7 +381,7 @@
   "source": "a16z (Jen Kha)",
   "date": "2026-11-04",
   "listedOn": "2026-11-09",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html",
@@ -405,7 +405,7 @@
   "source": "Federal Reserve FEDS Notes (Colin Weiss)",
   "date": "2026-11-09",
   "listedOn": "2026-11-10",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/has-u-s-monetary-policy-really-improved-a-150-year-perspective/",
@@ -413,7 +413,7 @@
   "source": "NY Fed Liberty Street Economics (Barnichon, Mesters)",
   "date": "2026-11-09",
   "listedOn": "2026-11-10",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://omny.fm/shows/odd-lots/the-perfect-storm-that-clobbered-hedge-funds",
@@ -421,7 +421,7 @@
   "source": "Bloomberg Odd Lots (podcast episode, Nishant Kumar and Michael Ball)",
   "date": "2026-11-11",
   "listedOn": "2026-11-11",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bis.org/publications/working-paper-1393-us-monetary-policy-macroeconomic-news-and-global-secular-decline-interest-rates",
@@ -429,7 +429,7 @@
   "source": "BIS Working Paper No 1393 (Hofmann, Li, Wu)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/quarterly-refunding-and-the-debt-ceiling.html",
@@ -437,7 +437,7 @@
   "source": "BNY iFlow Short Thoughts (John Velis)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-10/anthropic-has-some-anchor-investors",
@@ -461,13 +461,77 @@
   "source": "Federal Reserve FEDS Notes (Avalos, Orak, Pradhan)",
   "date": "2026-11-09",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/we-the-people/",
   "title": "We the People…",
   "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
   "date": "2026-11-07",
+  "listedOn": "2026-11-11",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.dallasfed.org/research/economics/2026/1110",
+  "title": "Is the U.S. 'exorbitant privilege' of favorable rates fading?",
+  "source": "Dallas Fed Economics (Scott Davis, Abigail MacLean)",
+  "date": "2026-11-10",
+  "listedOn": "2026-11-11",
+  "status": "top"
+ },
+ {
+  "url": "https://www.piie.com/blogs/realtime-economics/2026/ai-booms-two-engines",
+  "title": "The AI Boom's Two Engines",
+  "source": "PIIE RealTime Economics (Jason Furman)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-11",
+  "status": "top"
+ },
+ {
+  "url": "https://www.thediff.co/archive/irr-dollars-of-alpha-or-dollars-of-fees/",
+  "title": "IRR, Dollars of Alpha, or Dollars of Fees",
+  "source": "The Diff (Byrne Hobart)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-11",
+  "status": "top"
+ },
+ {
+  "url": "https://www.chicagofed.org/-/media/publications/chicago-fed-letter/2026/cfl531.pdf?sc_lang=en",
+  "title": "The Federal Reserve's Balance Sheet Size and \"Other Deposits\": Some Financial Stability Considerations",
+  "source": "Chicago Fed Letter No. 531 (Cindy Hull, Brett Solimine)",
+  "date": "2026-11-10",
+  "listedOn": "2026-11-11",
+  "status": "listed"
+ },
+ {
+  "url": "https://epoch.ai/publications/huawei-horinger-china-compute-gap",
+  "title": "What Huawei's Horinger data center reveals about China's compute gap",
+  "source": "Epoch AI (Ben Cottier)",
+  "date": "2026-11-06",
+  "listedOn": "2026-11-11",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.kansascityfed.org/research/economic-bulletin/downstream-bottlenecks-in-the-oil-supply-chain-are-contributing-to-historically-high-refinery-margins-and-fuel-prices/",
+  "title": "Downstream Bottlenecks in the Oil Supply Chain Are Contributing to Historically High Refinery Margins and Fuel Prices",
+  "source": "Kansas City Fed Economic Bulletin (David Rodziewicz)",
+  "date": "2026-11-05",
+  "listedOn": "2026-11-11",
+  "status": "listed"
+ },
+ {
+  "url": "https://rhg.com/research/global-impacts-of-chinas-chemicals-buildout/",
+  "title": "Global Impacts of China's Chemicals Buildout",
+  "source": "Rhodium Group (Jeremy Smith)",
+  "date": "2026-11-02",
+  "listedOn": "2026-11-11",
+  "status": "listed"
+ },
+ {
+  "url": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+  "title": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout",
+  "source": "SemiAnalysis (Barkin, Ma, Knuhtsen, Ontiveros, Patel)",
+  "date": "2026-11-01",
   "listedOn": "2026-11-11",
   "status": "listed"
  }

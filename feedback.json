@@ -16,7 +16,7 @@
   },
   "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/": {
    "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/tokenomics-2-0/",
-   "title": "Tokenomics 2.0",
+   "title": "",
    "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
    "published": "2026-10-28",
    "read": true,
@@ -25,12 +25,12 @@
     "AI",
     "compute economics"
    ],
-   "ratedAt": "2026-11-05T16:28:39.542Z",
+   "ratedAt": "2026-11-11T15:27:43.501Z",
    "readAt": "2026-11-02T14:10:21.647Z"
   },
   "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html": {
    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
-   "title": "Treasury Issuance and Dealer Balance Sheets",
+   "title": "",
    "source": "Federal Reserve FEDS Notes",
    "published": "2026-10-30",
    "read": true,
@@ -40,7 +40,7 @@
     "Treasuries",
     "repo"
    ],
-   "ratedAt": "2026-11-05T16:28:39.542Z",
+   "ratedAt": "2026-11-11T15:27:43.501Z",
    "readAt": "2026-11-02T14:10:21.653Z"
   },
   "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates": {
@@ -98,7 +98,7 @@
     "AI credit",
     "macro"
    ],
-   "ratedAt": "2026-11-05T16:28:39.542Z",
+   "ratedAt": "2026-11-11T15:27:43.501Z",
    "readAt": "2026-10-30T16:23:00.602Z"
   },
   "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/october-update/": {
@@ -117,5 +117,5 @@
    "readAt": "2026-10-29T13:52:35.226Z"
   }
  },
- "updated": "2026-11-11T11:22:15.756385+00:00"
+ "updated": "2026-11-11T15:41:52.766790+00:00"
 }

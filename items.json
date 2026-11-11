@@ -11,8 +11,7 @@
    "hedge funds",
    "AI"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "US monetary policy, macroeconomic news and the global secular decline of interest rates",
@@ -26,8 +25,7 @@
    "monetary policy",
    "global spillovers"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Quarterly refunding and the debt ceiling",
@@ -41,8 +39,7 @@
    "funding markets",
    "fiscal"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Anthropic Has Some Anchor Investors",
@@ -68,20 +65,6 @@
   "tags": [
    "consumer credit",
    "financial stability"
-  ],
-  "paywall": false
- },
- {
-  "title": "A Common Pattern behind Diverging Fortunes: U.S. Tariffs and Exports from Canada and Mexico",
-  "source": "Federal Reserve FEDS Notes (Avalos, Orak, Pradhan)",
-  "date": "2026-11-09",
-  "min": 22,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/a-common-pattern-behind-diverging-fortunes-u-s-tariffs-and-exports-from-canada-and-mexico-20261109.html",
-  "why": "Canadian goods exports to the US fell about 10% while Mexico's rose about 16% despite Mexico facing higher tariff exposure, and the note asks whether that means tariffs bit only in Canada. Looking sector by sector, it finds the same pattern in both: more-exposed sectors lost ground in the US market relative to elsewhere, so the aggregate gap reflects composition rather than tariffs failing in Mexico.",
-  "tags": [
-   "supply chains",
-   "trade",
-   "tariffs"
   ],
   "paywall": false
  },
@@ -124,33 +107,6 @@
    "market structure"
   ],
   "paywall": true
- },
- {
-  "title": "Gold Reserve Relocations: Are They Always Bad News for U.S. Dollar Reserves?",
-  "source": "Federal Reserve FEDS Notes (Colin Weiss)",
-  "date": "2026-11-09",
-  "min": 5,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html",
-  "why": "Weiss checks whether the German, Dutch and French moves of gold out of U.S. custody came with dollar reserve diversification, and finds they mostly did not: dollar shares stayed around 60 to 90 percent, unlike Russia and Turkey, which cut dollars alongside repatriating gold. It is a short, data-based counter to the reading of gold repatriation headlines as a de-dollarization signal.",
-  "tags": [
-   "reserves",
-   "dollar",
-   "flows"
-  ],
-  "paywall": false
- },
- {
-  "title": "Has U.S. Monetary Policy Really Improved? A 150-Year Perspective",
-  "source": "NY Fed Liberty Street Economics (Barnichon, Mesters)",
-  "date": "2026-11-09",
-  "min": 7,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/has-u-s-monetary-policy-really-improved-a-150-year-perspective/",
-  "why": "The authors score Fed policy against the best feasible response to the shocks each era faced and find meaningful improvement only after Volcker, with the gains concentrated in responses to banking panics and supply shocks. The Great Inflation result, a weak response to energy and inflation-expectations shocks, is directly relevant to how the current oil shock should be handled.",
-  "tags": [
-   "monetary policy",
-   "financial stability"
-  ],
-  "paywall": false
  },
  {
   "title": "TMT credit breaks from the pack",
@@ -209,69 +165,118 @@
   "paywall": true
  },
  {
-  "title": "Gaining (and losing) currency: a global database of currencies, 1850-2026",
-  "source": "BIS Working Paper No 1392 (Aldasoro, Frost, Kansal, Schenk)",
-  "date": "2026-11-06",
-  "min": 55,
-  "url": "https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026",
-  "why": "A new database of 568 government currencies since 1850 finds about 70% have been discontinued, the median lasts 33 years and nearly a quarter lasted under a decade; currencies are usually born for political reasons (independence, 28%) but die for economic ones (redenominations and inflation, 55%). It is useful base-rate context for the stablecoin and 'nature of money' debate (landing-page summary takes 3 minutes; full paper is 42 pages).",
+  "title": "Is the U.S. 'exorbitant privilege' of favorable rates fading?",
+  "source": "Dallas Fed Economics (Scott Davis, Abigail MacLean)",
+  "date": "2026-11-10",
+  "min": 7,
+  "url": "https://www.dallasfed.org/research/economics/2026/1110",
+  "why": "U.S. net income on foreign investments, which paid for about 40 percent of the trade deficit in the decade before the pandemic, turned negative in 2024 for the first time since at least 1960. The authors break the drop into a shrinking net equity position after years of U.S. stock outperformance and higher yields on a large net debt position, which is why foreign borrowing is now near 4 percent of GDP, the most since 2008.",
   "tags": [
-   "money",
-   "stablecoins",
-   "history"
-  ]
+   "flows",
+   "dollar",
+   "external balance"
+  ],
+  "paywall": false,
+  "top": true
  },
  {
-  "title": "Financial Predictionization",
-  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
-  "date": "2026-11-05",
-  "min": 16,
-  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-05/financial-predictionization",
-  "why": "Levine argues the interesting part of 'tokenized real estate' was never the blockchain wrapper—REITs already fractionalize buildings—but the broader push to turn illiquid claims into continuously priced forecast markets. Also covers black-swan funds, data-centre delays and how law firms price billable hours, continuing his recent run on prediction-market plumbing.",
+  "title": "The AI Boom's Two Engines",
+  "source": "PIIE RealTime Economics (Jason Furman)",
+  "date": "2026-11-09",
+  "min": 13,
+  "url": "https://www.piie.com/blogs/realtime-economics/2026/ai-booms-two-engines",
+  "why": "Furman runs the Fed's own FRB/US model and finds the data-center buildout has added only about 0.3 percent to GDP because roughly three-quarters of the spending is imported, while the wealth effect from about $11 trillion of excess gains in seven AI stocks matters more. The upshot is that a smaller buildout would be easy to absorb, but a stock market fall is the real risk, and forward-looking rate expectations could wipe out the gains.",
+  "tags": [
+   "AI capex",
+   "macro",
+   "equity wealth effect"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "IRR, Dollars of Alpha, or Dollars of Fees",
+  "source": "The Diff (Byrne Hobart)",
+  "date": "2026-11-09",
+  "min": 8,
+  "url": "https://www.thediff.co/archive/irr-dollars-of-alpha-or-dollars-of-fees/",
+  "why": "Written after a week of hedge funds shutting long/short books and Sequoia pulling back, this lays out why asset managers keep expanding into adjacent strategies and why it often fails for quant shops moving into discretionary equity. It is a clear framework for how multi-manager pods and multi-stage VC grow until available alpha, not capital, becomes the limit; the lead essay is free, with some later sections behind the paywall.",
+  "tags": [
+   "positioning",
+   "hedge funds",
+   "asset management"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "The Federal Reserve's Balance Sheet Size and \"Other Deposits\": Some Financial Stability Considerations",
+  "source": "Chicago Fed Letter No. 531 (Cindy Hull, Brett Solimine)",
+  "date": "2026-11-10",
+  "min": 14,
+  "url": "https://www.chicagofed.org/-/media/publications/chicago-fed-letter/2026/cfl531.pdf?sc_lang=en",
+  "why": "Clearinghouse cash at the Fed has climbed to a record of about $250 billion, and every dollar of it drains a dollar of bank reserves, so it matters for any plan to shrink the balance sheet. The letter weighs cutting the interest rate paid, capping balances, or giving clearinghouses standing repo access, and flags the wrong-way risk of pushing that cash into commercial banks, with the Treasury clearing mandate set to add more margin.",
   "tags": [
    "market structure",
-   "prediction markets"
-  ],
-  "paywall": true
- },
- {
-  "title": "The U.S. Oil Sector's Role in Restraining Prices",
-  "source": "NY Fed Liberty Street Economics (Thomas Klitgaard)",
-  "date": "2026-11-05",
-  "min": 9,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/",
-  "why": "Klitgaard shows the Middle East supply shock was buffered first by a pre-conflict global oversupply built largely by the U.S. fracking boom (U.S. output 8 to 21 mb/d from 2010–25, 70% of the global gain) and then by U.S. SPR and commercial inventory draws that filled about half the Q2 global gap. U.S. stockpiles stopped falling in July, so the ongoing shortfall is now being absorbed by inventory draws elsewhere, notably China, which frames the two paths for prices depending on whether Middle East output returns.",
-  "tags": [
-   "energy",
-   "commodities",
-   "macro"
-  ]
- },
- {
-  "title": "Scenarios for future banking: implications for profitability, liquidity and solvency",
-  "source": "BIS Working Paper No 1391 (Schmieder, Corrias, Wünsch)",
-  "date": "2026-11-04",
-  "min": 111,
-  "url": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
-  "why": "Using 9,000 banks across 150+ jurisdictions, the authors run four ten-year scenarios and find traditional banks still hold about three-quarters of system assets while tech-based models may contest roughly 40% of the revenue pool, raising earnings volatility as fees replace NII and digital channels shorten the path from deposit outflow to capital pressure. Supervisory priorities that hold in every scenario: reassess deposit-outflow assumptions, harden third-party operational resilience, treat weak earnings as a solvency risk, and improve data on emerging models (landing-page summary is short; full PDF is 57 pages).",
-  "tags": [
    "financial stability",
-   "banks",
-   "regulation"
-  ]
- },
- {
-  "title": "Is Private Equity Cooked?",
-  "source": "a16z (Jen Kha)",
-  "date": "2026-11-04",
-  "min": 10,
-  "url": "https://a16z.com/is-private-equity-cooked/",
-  "why": "A venture LP case (so read it as talking the book) but packed with data on stress in levered tech buyouts: 70% of 2025-26 foreclosed debt came from 2021-22 deals, continuation vehicles reached 14% of PE exit value in the first half of 2026, and about $300 billion of risky PE-backed loans mature in 2028-29, a third of it software and a quarter rated CCC+ or below. It ties PIK interest, NAV loans and private credit exposure to SaaS into one picture of where losses have not yet been taken.",
-  "tags": [
-   "private credit",
-   "financial stability",
-   "private equity"
+   "Fed balance sheet"
   ],
   "paywall": false
+ },
+ {
+  "title": "What Huawei's Horinger data center reveals about China's compute gap",
+  "source": "Epoch AI (Ben Cottier)",
+  "date": "2026-11-06",
+  "min": 15,
+  "url": "https://epoch.ai/publications/huawei-horinger-china-compute-gap",
+  "why": "Using satellite images of cooling equipment, Epoch estimates Huawei's Inner Mongolia campus at about 286 MW and roughly 81,000 H100-equivalents, about 7 percent of SpaceX's Colossus 2. The constraint is chips, not power: Ascend chips give about 40 percent of the compute per megawatt of top Nvidia parts, and the next-generation Ascend 950 looks less efficient, so the gap is unlikely to close in the next two years.",
+  "tags": [
+   "AI compute",
+   "supply chains",
+   "China"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Downstream Bottlenecks in the Oil Supply Chain Are Contributing to Historically High Refinery Margins and Fuel Prices",
+  "source": "Kansas City Fed Economic Bulletin (David Rodziewicz)",
+  "date": "2026-11-05",
+  "min": 6,
+  "url": "https://www.kansascityfed.org/research/economic-bulletin/downstream-bottlenecks-in-the-oil-supply-chain-are-contributing-to-historically-high-refinery-margins-and-fuel-prices/",
+  "why": "Since the Iran conflict began, Gulf Coast diesel is up about 93 percent against about 63 percent for crude, and crack spreads now make up over 40 percent of the price of a gallon of diesel. With U.S. inventories at decade lows after SPR releases and about 18 percent of world refining capacity sitting in conflict zones, the note argues fuel prices and refining margins stay high even if crude falls.",
+  "tags": [
+   "supply chains",
+   "energy",
+   "refining"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Global Impacts of China's Chemicals Buildout",
+  "source": "Rhodium Group (Jeremy Smith)",
+  "date": "2026-11-02",
+  "min": 6,
+  "url": "https://rhg.com/research/global-impacts-of-chinas-chemicals-buildout/",
+  "why": "China now holds over 45 percent of global capacity in basic chemicals and plastic resins, and supply has run well ahead of demand since the property slump, crushing prices and margins. Rhodium argues Beijing's anti-involution push will not force real capacity cuts, so the pressure lands on high-cost producers in Europe and Northeast Asia and spreads into specialty chemicals and downstream industries.",
+  "tags": [
+   "supply chains",
+   "China",
+   "industrial overcapacity"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout",
+  "source": "SemiAnalysis (Barkin, Ma, Knuhtsen, Ontiveros, Patel)",
+  "date": "2026-11-01",
+  "min": 9,
+  "url": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+  "why": "SemiAnalysis says 2027 data-center capacity is largely locked in, but its 62.2 GW of U.S. additions for 2028 mostly has not started construction and sits in states that just elected governors campaigning on pauses or tighter conditions. The biggest single risk it flags is the Texas TCEQ permit freeze, since Texas supplies close to 30 percent of 2028 U.S. capacity; the free section runs about 2,000 words before the paywall.",
+  "tags": [
+   "AI capex",
+   "power",
+   "Texas"
+  ],
+  "paywall": true
  }
 ]
