@@ -253,7 +253,7 @@
   "source": "BNY iFlow Short Thoughts (John Velis)",
   "date": "2026-11-03",
   "listedOn": "2026-11-03",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.youtube.com/watch?v=KMrvunHdpvQ",
@@ -261,7 +261,7 @@
   "source": "Bloomberg Odd Lots (podcast episode, Nomura's Alex Micalizzi)",
   "date": "2026-11-02",
   "listedOn": "2026-11-03",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
@@ -277,7 +277,7 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-03",
   "listedOn": "2026-11-04",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/",
@@ -293,7 +293,7 @@
   "source": "NY Fed Liberty Street Economics (Herkenhoff, Morelli)",
   "date": "2026-11-04",
   "listedOn": "2026-11-05",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-04/the-midterm-predictions-were-good",
@@ -301,7 +301,7 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-04",
   "listedOn": "2026-11-05",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/global-macro-strategy/houston-do-we-have-a-problem/",
@@ -309,7 +309,7 @@
   "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
   "date": "2026-11-05",
   "listedOn": "2026-11-06",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
@@ -341,7 +341,7 @@
   "source": "BNY iFlow Special Report (David Tam)",
   "date": "2026-11-06",
   "listedOn": "2026-11-08",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.netinterest.co/p/the-insatiable-demand-for-alpha",
@@ -365,7 +365,7 @@
   "source": "Stratechery (free weekly article; paywall site)",
   "date": "2026-11-04",
   "listedOn": "2026-11-08",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://cdn.jpmorganfunds.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/now-you-can-see-everything-amv.pdf",
@@ -373,7 +373,7 @@
   "source": "J.P. Morgan Eye on the Market (Michael Cembalest)",
   "date": "2026-11-04",
   "listedOn": "2026-11-09",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://a16z.com/is-private-equity-cooked/",
@@ -389,7 +389,7 @@
   "source": "Federal Reserve FEDS Notes (Brinkman, Dobridge, Dore, Glossner, Holmquist, Nguyen, Perozek, Stefanescu)",
   "date": "2026-11-09",
   "listedOn": "2026-11-10",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-09/is-the-nvidia-affair-securities-fraud",
@@ -413,6 +413,62 @@
   "source": "NY Fed Liberty Street Economics (Barnichon, Mesters)",
   "date": "2026-11-09",
   "listedOn": "2026-11-10",
+  "status": "listed"
+ },
+ {
+  "url": "https://omny.fm/shows/odd-lots/the-perfect-storm-that-clobbered-hedge-funds",
+  "title": "The Perfect Storm That Clobbered Hedge Funds",
+  "source": "Bloomberg Odd Lots (podcast episode, Nishant Kumar and Michael Ball)",
+  "date": "2026-11-11",
+  "listedOn": "2026-11-11",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bis.org/publications/working-paper-1393-us-monetary-policy-macroeconomic-news-and-global-secular-decline-interest-rates",
+  "title": "US monetary policy, macroeconomic news and the global secular decline of interest rates",
+  "source": "BIS Working Paper No 1393 (Hofmann, Li, Wu)",
+  "date": "2026-11-10",
+  "listedOn": "2026-11-11",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/quarterly-refunding-and-the-debt-ceiling.html",
+  "title": "Quarterly refunding and the debt ceiling",
+  "source": "BNY iFlow Short Thoughts (John Velis)",
+  "date": "2026-11-10",
+  "listedOn": "2026-11-11",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-10/anthropic-has-some-anchor-investors",
+  "title": "Anthropic Has Some Anchor Investors",
+  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+  "date": "2026-11-10",
+  "listedOn": "2026-11-11",
+  "status": "listed"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/a-look-at-the-wider-divide-in-credit-card-delinquency-by-income/",
+  "title": "A Look at the Wider Divide in Credit Card Delinquency by Income",
+  "source": "NY Fed Liberty Street Economics (Lee, Mangrum, Scally, Sinha, van der Klaauw)",
+  "date": "2026-11-10",
+  "listedOn": "2026-11-11",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/a-common-pattern-behind-diverging-fortunes-u-s-tariffs-and-exports-from-canada-and-mexico-20261109.html",
+  "title": "A Common Pattern behind Diverging Fortunes: U.S. Tariffs and Exports from Canada and Mexico",
+  "source": "Federal Reserve FEDS Notes (Avalos, Orak, Pradhan)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-11",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/we-the-people/",
+  "title": "We the People…",
+  "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
+  "date": "2026-11-07",
+  "listedOn": "2026-11-11",
   "status": "listed"
  }
 ]
