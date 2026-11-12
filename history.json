@@ -285,7 +285,7 @@
   "source": "Citadel Securities Global Market Intelligence (Scott Rubner)",
   "date": "2026-11-04",
   "listedOn": "2026-11-05",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/",
@@ -341,7 +341,7 @@
   "source": "BNY iFlow Special Report (David Tam)",
   "date": "2026-11-06",
   "listedOn": "2026-11-08",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.netinterest.co/p/the-insatiable-demand-for-alpha",
@@ -397,7 +397,7 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-09",
   "listedOn": "2026-11-10",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html",
@@ -477,7 +477,7 @@
   "source": "Dallas Fed Economics (Scott Davis, Abigail MacLean)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.piie.com/blogs/realtime-economics/2026/ai-booms-two-engines",
@@ -485,7 +485,7 @@
   "source": "PIIE RealTime Economics (Jason Furman)",
   "date": "2026-11-09",
   "listedOn": "2026-11-11",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.thediff.co/archive/irr-dollars-of-alpha-or-dollars-of-fees/",
@@ -493,7 +493,7 @@
   "source": "The Diff (Byrne Hobart)",
   "date": "2026-11-09",
   "listedOn": "2026-11-11",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.chicagofed.org/-/media/publications/chicago-fed-letter/2026/cfl531.pdf?sc_lang=en",
@@ -517,7 +517,7 @@
   "source": "Kansas City Fed Economic Bulletin (David Rodziewicz)",
   "date": "2026-11-05",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://rhg.com/research/global-impacts-of-chinas-chemicals-buildout/",
@@ -525,7 +525,7 @@
   "source": "Rhodium Group (Jeremy Smith)",
   "date": "2026-11-02",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
@@ -533,6 +533,54 @@
   "source": "SemiAnalysis (Barkin, Ma, Knuhtsen, Ontiveros, Patel)",
   "date": "2026-11-01",
   "listedOn": "2026-11-11",
+  "status": "expired"
+ },
+ {
+  "url": "https://www.stlouisfed.org/on-the-economy/2026/nov/treasury-buybacks-convenience-yield",
+  "title": "Treasury Buybacks and the Convenience Yield",
+  "source": "St. Louis Fed On the Economy (Paulina Restrepo-Echavarría, Bontu Ankit Patro)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-12",
+  "status": "top"
+ },
+ {
+  "url": "https://bankunderground.co.uk/2026/11/12/shock-absorbers-energy-prices-labour-market-slack-and-monetary-policy-a-view-through-the-lens-of-a-structural-model/",
+  "title": "Shock absorbers? Energy prices, labour market slack and monetary policy: a view through the lens of a structural model",
+  "source": "Bank of England Bank Underground (Albuquerque, Lenney, McKernan, Murakami, Paz, Schnattinger)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-12",
+  "status": "top"
+ },
+ {
+  "url": "https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai",
+  "title": "A Layman Thinks About AI",
+  "source": "Oaktree Capital, Memos from Howard Marks",
+  "date": "2026-11-11",
+  "listedOn": "2026-11-12",
+  "status": "top"
+ },
+ {
+  "url": "https://www.tradeweb.com/newsroom/media-center/insights/blog/record-volatility-resilient-liquidity-what-the-septemberoctober-bond-sell-off-reveals-about-rates-market-structure/",
+  "title": "Record Volatility, Resilient Liquidity: What the September/October Bond Sell-Off Reveals About Rates Market Structure",
+  "source": "Tradeweb Insights (Casey Costanza, Rodérick Joniaux)",
+  "date": "2026-11-10",
+  "listedOn": "2026-11-12",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202626-job-finding-and-unemployment-in-the-age-of-ai",
+  "title": "Job Finding and Unemployment in the Age of AI",
+  "source": "Cleveland Fed Economic Commentary 2026-26 (Barış Kaymak)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-12",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/are-inflation-expectations-currently-well-anchored/",
+  "title": "Are Inflation Expectations Currently Well Anchored?",
+  "source": "SF Fed Economic Letter 2026-32 (Taerin Kim, Mauricio Ulate)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-12",
   "status": "listed"
  }
 ]

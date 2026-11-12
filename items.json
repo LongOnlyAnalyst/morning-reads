@@ -1,5 +1,91 @@
 [
  {
+  "title": "Treasury Buybacks and the Convenience Yield",
+  "source": "St. Louis Fed On the Economy (Paulina Restrepo-Echavarría, Bontu Ankit Patro)",
+  "date": "2026-11-12",
+  "min": 5,
+  "url": "https://www.stlouisfed.org/on-the-economy/2026/nov/treasury-buybacks-convenience-yield",
+  "why": "The authors track the Aaa corporate-Treasury spread and Treasury-OIS spreads around the September 9 doubling of long-end liquidity-support buybacks and find no visible reversal in the decline of the Treasury convenience yield, with the most negative spreads at the longest maturities. Their read is that buybacks fix off-the-run illiquidity as designed but cannot offset a structural erosion of the premium investors pay to hold US government debt, which matters for anyone leaning on Treasury support to cap long yields.",
+  "tags": [
+   "market structure",
+   "Treasuries",
+   "rates"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Shock absorbers? Energy prices, labour market slack and monetary policy: a view through the lens of a structural model",
+  "source": "Bank of England Bank Underground (Albuquerque, Lenney, McKernan, Murakami, Paz, Schnattinger)",
+  "date": "2026-11-12",
+  "min": 8,
+  "url": "https://bankunderground.co.uk/2026/11/12/shock-absorbers-energy-prices-labour-market-slack-and-monetary-policy-a-view-through-the-lens-of-a-structural-model/",
+  "why": "BoE staff use a structural model, rather than a standard linear solution, to show that an energy shock is roughly twice as inflationary when vacancies are plentiful relative to job-seekers, because scarce workers can claw back real income through wages and spread the shock into core prices. With energy prices jumping again after the Middle East conflict and the UK Beveridge curve now much looser than in 2022, it is a clean framework for judging whether this oil shock repeats 2022 or fades.",
+  "tags": [
+   "macro",
+   "energy",
+   "inflation"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "A Layman Thinks About AI",
+  "source": "Oaktree Capital, Memos from Howard Marks",
+  "date": "2026-11-11",
+  "min": 28,
+  "url": "https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai",
+  "why": "Marks works through eleven questions on AI, from who captures the profits and the data-center outlook to whether markets are dangerously reliant on a single factor and whether it is a bubble. The credit section is the most useful part: citing Goldman, he puts AI-related debt issuance near $600 billion globally this year, with about $400 billion in US investment grade (over a fifth of supply and around 12% of the Bloomberg USD IG index), and roughly $1 trillion a year of new capital still needed.",
+  "tags": [
+   "AI credit",
+   "credit",
+   "AI"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Record Volatility, Resilient Liquidity: What the September/October Bond Sell-Off Reveals About Rates Market Structure",
+  "source": "Tradeweb Insights (Casey Costanza, Rodérick Joniaux)",
+  "date": "2026-11-10",
+  "min": 6,
+  "url": "https://www.tradeweb.com/newsroom/media-center/insights/blog/record-volatility-resilient-liquidity-what-the-septemberoctober-bond-sell-off-reveals-about-rates-market-structure/",
+  "why": "Using its own platform data, Tradeweb shows that as the 10-year Treasury hit 5.3% and Gilts and OATs made multi-decade highs, institutional US Treasury volume ran 33-34% above a year earlier while 10-year bid-offer spreads in the US and Germany moved less than a third of a basis point. It benchmarks the sell-off against March 2026, Liberation Day, SVB and Covid, a useful venue-level counterpoint to worries about Treasury market fragility (written by a trading venue, so read it with that in mind).",
+  "tags": [
+   "market structure",
+   "rates",
+   "liquidity"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Job Finding and Unemployment in the Age of AI",
+  "source": "Cleveland Fed Economic Commentary 2026-26 (Barış Kaymak)",
+  "date": "2026-11-09",
+  "min": 15,
+  "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202626-job-finding-and-unemployment-in-the-age-of-ai",
+  "why": "Since generative AI became widely available, unemployment for 23-54 year olds has risen about 1 percentage point more in the most AI-exposed occupations than in the least exposed relative to 2015-2019, and the gap is larger for 23-30 year olds. Labor-flow data show the cause is lower job-finding rates, not more separations, which suggests AI so far is closing the entry door to exposed jobs rather than displacing people already in them.",
+  "tags": [
+   "AI",
+   "labor"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Are Inflation Expectations Currently Well Anchored?",
+  "source": "SF Fed Economic Letter 2026-32 (Taerin Kim, Mauricio Ulate)",
+  "date": "2026-11-09",
+  "min": 9,
+  "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/are-inflation-expectations-currently-well-anchored/",
+  "why": "The letter measures how much market-based long-run inflation expectations move in response to monetary policy surprises, a gauge of the Fed's nominal anchor, from 1999 to 2026. It finds the anchor has varied over time but has strengthened since 2022, which is the condition that lets the Fed look through supply shocks like tariffs and energy rather than tightening hard into them.",
+  "tags": [
+   "inflation",
+   "rates",
+   "monetary policy"
+  ],
+  "paywall": false
+ },
+ {
   "title": "The Perfect Storm That Clobbered Hedge Funds",
   "source": "Bloomberg Odd Lots (podcast episode, Nishant Kumar and Michael Ball)",
   "date": "2026-11-11",
@@ -96,33 +182,6 @@
   "paywall": false
  },
  {
-  "title": "Is the Nvidia Affair Securities Fraud?",
-  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
-  "date": "2026-11-09",
-  "min": 16,
-  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-09/is-the-nvidia-affair-securities-fraud",
-  "why": "Levine opens by framing AI as a roughly $4 trillion-a-year spending stream about five years out, then turns to how that money gets financed and to whether the news around Nvidia's Jensen Huang raises a securities-fraud question. Also covers hedge-fund mistakes, securities fraud and insider trading; only the opening is readable without a subscription.",
-  "tags": [
-   "AI credit",
-   "market structure"
-  ],
-  "paywall": true
- },
- {
-  "title": "TMT credit breaks from the pack",
-  "source": "BNY iFlow Special Report (David Tam)",
-  "date": "2026-11-06",
-  "min": 6,
-  "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/special-reports/tmt-credit-breaks-from-the-pack.html",
-  "why": "Tam shows credit stress concentrating in tech, media and telecom: since September 1 both IG and HY TMT spreads have widened more than every other sector from an already wider base, while Financials and Energy stay inside the aggregate. He reads it as selective repricing driven by hyperscaler supply and doubts over AI capex returns rather than a broad downturn, and lists what would turn it systemic: wider TMT new-issue concessions, pulled deals and persistent HY fund outflows.",
-  "tags": [
-   "AI credit",
-   "credit spreads",
-   "flows"
-  ],
-  "paywall": false
- },
- {
   "title": "Houston, Do We Have A Problem?",
   "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
   "date": "2026-11-05",
@@ -133,20 +192,6 @@
    "AI credit",
    "positioning",
    "rates"
-  ],
-  "paywall": false
- },
- {
-  "title": "November: The Setup Improves",
-  "source": "Citadel Securities Global Market Intelligence (Scott Rubner)",
-  "date": "2026-11-04",
-  "min": 9,
-  "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/",
-  "why": "Rubner's post-election flows update: retail has bought US equities for 22 straight sessions (a record $251B year to date), buyback blackouts are lifting against $1.5T of authorizations, and CTA positioning has fallen to -3.3 standard deviations. He pairs that with semis trading at their widest discount to the S&P since 2018 despite rising estimates, making a concrete demand-side case for a year-end rebuild.",
-  "tags": [
-   "flows",
-   "positioning",
-   "market structure"
   ],
   "paywall": false
  },
@@ -176,8 +221,7 @@
    "dollar",
    "external balance"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "The AI Boom's Two Engines",
@@ -191,8 +235,7 @@
    "macro",
    "equity wealth effect"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "IRR, Dollars of Alpha, or Dollars of Fees",
@@ -206,8 +249,7 @@
    "hedge funds",
    "asset management"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "The Federal Reserve's Balance Sheet Size and \"Other Deposits\": Some Financial Stability Considerations",
@@ -236,47 +278,5 @@
    "China"
   ],
   "paywall": false
- },
- {
-  "title": "Downstream Bottlenecks in the Oil Supply Chain Are Contributing to Historically High Refinery Margins and Fuel Prices",
-  "source": "Kansas City Fed Economic Bulletin (David Rodziewicz)",
-  "date": "2026-11-05",
-  "min": 6,
-  "url": "https://www.kansascityfed.org/research/economic-bulletin/downstream-bottlenecks-in-the-oil-supply-chain-are-contributing-to-historically-high-refinery-margins-and-fuel-prices/",
-  "why": "Since the Iran conflict began, Gulf Coast diesel is up about 93 percent against about 63 percent for crude, and crack spreads now make up over 40 percent of the price of a gallon of diesel. With U.S. inventories at decade lows after SPR releases and about 18 percent of world refining capacity sitting in conflict zones, the note argues fuel prices and refining margins stay high even if crude falls.",
-  "tags": [
-   "supply chains",
-   "energy",
-   "refining"
-  ],
-  "paywall": false
- },
- {
-  "title": "Global Impacts of China's Chemicals Buildout",
-  "source": "Rhodium Group (Jeremy Smith)",
-  "date": "2026-11-02",
-  "min": 6,
-  "url": "https://rhg.com/research/global-impacts-of-chinas-chemicals-buildout/",
-  "why": "China now holds over 45 percent of global capacity in basic chemicals and plastic resins, and supply has run well ahead of demand since the property slump, crushing prices and margins. Rhodium argues Beijing's anti-involution push will not force real capacity cuts, so the pressure lands on high-cost producers in Europe and Northeast Asia and spreads into specialty chemicals and downstream industries.",
-  "tags": [
-   "supply chains",
-   "China",
-   "industrial overcapacity"
-  ],
-  "paywall": false
- },
- {
-  "title": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout",
-  "source": "SemiAnalysis (Barkin, Ma, Knuhtsen, Ontiveros, Patel)",
-  "date": "2026-11-01",
-  "min": 9,
-  "url": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
-  "why": "SemiAnalysis says 2027 data-center capacity is largely locked in, but its 62.2 GW of U.S. additions for 2028 mostly has not started construction and sits in states that just elected governors campaigning on pauses or tighter conditions. The biggest single risk it flags is the Texas TCEQ permit freeze, since Texas supplies close to 30 percent of 2028 U.S. capacity; the free section runs about 2,000 words before the paywall.",
-  "tags": [
-   "AI capex",
-   "power",
-   "Texas"
-  ],
-  "paywall": true
  }
 ]
