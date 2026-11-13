@@ -309,7 +309,7 @@
   "source": "Citadel Securities Global Macro Strategy (Frank Flight)",
   "date": "2026-11-05",
   "listedOn": "2026-11-06",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
@@ -349,7 +349,7 @@
   "source": "Net Interest (Marc Rubinstein)",
   "date": "2026-11-06",
   "listedOn": "2026-11-08",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026",
@@ -437,7 +437,7 @@
   "source": "BNY iFlow Short Thoughts (John Velis)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-10/anthropic-has-some-anchor-investors",
@@ -445,7 +445,7 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/a-look-at-the-wider-divide-in-credit-card-delinquency-by-income/",
@@ -509,7 +509,7 @@
   "source": "Epoch AI (Ben Cottier)",
   "date": "2026-11-06",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.kansascityfed.org/research/economic-bulletin/downstream-bottlenecks-in-the-oil-supply-chain-are-contributing-to-historically-high-refinery-margins-and-fuel-prices/",
@@ -541,7 +541,7 @@
   "source": "St. Louis Fed On the Economy (Paulina Restrepo-Echavarría, Bontu Ankit Patro)",
   "date": "2026-11-12",
   "listedOn": "2026-11-12",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://bankunderground.co.uk/2026/11/12/shock-absorbers-energy-prices-labour-market-slack-and-monetary-policy-a-view-through-the-lens-of-a-structural-model/",
@@ -549,7 +549,7 @@
   "source": "Bank of England Bank Underground (Albuquerque, Lenney, McKernan, Murakami, Paz, Schnattinger)",
   "date": "2026-11-12",
   "listedOn": "2026-11-12",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai",
@@ -557,7 +557,7 @@
   "source": "Oaktree Capital, Memos from Howard Marks",
   "date": "2026-11-11",
   "listedOn": "2026-11-12",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.tradeweb.com/newsroom/media-center/insights/blog/record-volatility-resilient-liquidity-what-the-septemberoctober-bond-sell-off-reveals-about-rates-market-structure/",
@@ -581,6 +581,54 @@
   "source": "SF Fed Economic Letter 2026-32 (Taerin Kim, Mauricio Ulate)",
   "date": "2026-11-09",
   "listedOn": "2026-11-12",
+  "status": "expired"
+ },
+ {
+  "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261112~a4c8b903d9.en.html",
+  "title": "Reading the room: what Reddit tells us about retail investor sentiment",
+  "source": "ECB Blog (Fabian Wagner, Julian Metzler)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-13",
+  "status": "top"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/banking-system-vulnerability-2026-update/",
+  "title": "Banking System Vulnerability: 2026 Update",
+  "source": "NY Fed Liberty Street Economics (Crosignani, Eisenbach, Fringuellotti)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-13",
+  "status": "top"
+ },
+ {
+  "url": "https://cepr.org/voxeu/columns/reading-economy-earnings-calls-generative-ai",
+  "title": "Reading the economy from earnings calls with generative AI",
+  "source": "VoxEU/CEPR (Jha, Qian, Weber, Yang)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-13",
+  "status": "top"
+ },
+ {
+  "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-37",
+  "title": "The Surprising Resilience of Corporate Profit Margins",
+  "source": "Richmond Fed Economic Brief 26-37 (Anna Kovner, Lorelei Lin)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-13",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.brookings.edu/articles/external-wealth-of-nations-2025-update/",
+  "title": "External Wealth of Nations 2025 update: AI stock prices and global imbalances",
+  "source": "Brookings Hutchins Center (Gian Maria Milesi-Ferretti)",
+  "date": "2026-11-10",
+  "listedOn": "2026-11-13",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.minneapolisfed.org/article/2026/welfare-gains-from-top-firms-productivity-substantially-reduced-by-their-increased-market-power",
+  "title": "Welfare gains from top firms' productivity substantially reduced by their increased market power",
+  "source": "Minneapolis Fed (Jeff Horwich on De Loecker, Eeckhout, Mongey)",
+  "date": "2026-11-06",
+  "listedOn": "2026-11-13",
   "status": "listed"
  }
 ]
