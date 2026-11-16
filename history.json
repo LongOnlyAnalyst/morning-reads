@@ -453,7 +453,7 @@
   "source": "NY Fed Liberty Street Economics (Lee, Mangrum, Scally, Sinha, van der Klaauw)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/a-common-pattern-behind-diverging-fortunes-u-s-tariffs-and-exports-from-canada-and-mexico-20261109.html",
@@ -477,7 +477,7 @@
   "source": "Dallas Fed Economics (Scott Davis, Abigail MacLean)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.piie.com/blogs/realtime-economics/2026/ai-booms-two-engines",
@@ -549,7 +549,7 @@
   "source": "Bank of England Bank Underground (Albuquerque, Lenney, McKernan, Murakami, Paz, Schnattinger)",
   "date": "2026-11-12",
   "listedOn": "2026-11-12",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai",
@@ -573,7 +573,7 @@
   "source": "Cleveland Fed Economic Commentary 2026-26 (Barış Kaymak)",
   "date": "2026-11-09",
   "listedOn": "2026-11-12",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/are-inflation-expectations-currently-well-anchored/",
@@ -589,7 +589,7 @@
   "source": "ECB Blog (Fabian Wagner, Julian Metzler)",
   "date": "2026-11-12",
   "listedOn": "2026-11-13",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/banking-system-vulnerability-2026-update/",
@@ -597,7 +597,7 @@
   "source": "NY Fed Liberty Street Economics (Crosignani, Eisenbach, Fringuellotti)",
   "date": "2026-11-12",
   "listedOn": "2026-11-13",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://cepr.org/voxeu/columns/reading-economy-earnings-calls-generative-ai",
@@ -605,7 +605,7 @@
   "source": "VoxEU/CEPR (Jha, Qian, Weber, Yang)",
   "date": "2026-11-12",
   "listedOn": "2026-11-13",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-37",
@@ -629,6 +629,46 @@
   "source": "Minneapolis Fed (Jeff Horwich on De Loecker, Eeckhout, Mongey)",
   "date": "2026-11-06",
   "listedOn": "2026-11-13",
+  "status": "expired"
+ },
+ {
+  "url": "https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
+  "title": "A Banker's Guide to Anthropic",
+  "source": "Net Interest (Marc Rubinstein)",
+  "date": "2026-11-13",
+  "listedOn": "2026-11-15",
+  "status": "top"
+ },
+ {
+  "url": "https://www.kansascityfed.org/research/economic-bulletin/data-centers-are-likely-to-benefit-some-tenth-district-economies-but-the-path-for-construction-looks-uncertain/",
+  "title": "Data Centers Are Likely to Benefit Some Tenth District Economies, but the Path for Construction Looks Uncertain",
+  "source": "Kansas City Fed Economic Bulletin (John McCoy)",
+  "date": "2026-11-13",
+  "listedOn": "2026-11-15",
+  "status": "top"
+ },
+ {
+  "url": "https://cepr.org/voxeu/columns/macroeconomic-effects-rare-earth-supply-disruptions",
+  "title": "Macroeconomic effects of rare earth supply disruptions",
+  "source": "VoxEU/CEPR (Bogmans, Jerez Osses, Miranda-Pinto, Natal; IMF staff)",
+  "date": "2026-11-14",
+  "listedOn": "2026-11-15",
+  "status": "listed"
+ },
+ {
+  "url": "https://epoch.ai/publications/inference-performance-index",
+  "title": "Changing how we measure AI chip inference performance",
+  "source": "Epoch AI (Jason Li)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-15",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems",
+  "title": "Ready-to-run global liquidity stress tests for banks and banking systems",
+  "source": "BIS Working Paper No 1394 (Schmieder, Wei, Ong)",
+  "date": "2026-11-11",
+  "listedOn": "2026-11-15",
   "status": "listed"
  }
 ]

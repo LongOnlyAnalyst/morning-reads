@@ -14,20 +14,6 @@
   "paywall": false
  },
  {
-  "title": "Shock absorbers? Energy prices, labour market slack and monetary policy: a view through the lens of a structural model",
-  "source": "Bank of England Bank Underground (Albuquerque, Lenney, McKernan, Murakami, Paz, Schnattinger)",
-  "date": "2026-11-12",
-  "min": 8,
-  "url": "https://bankunderground.co.uk/2026/11/12/shock-absorbers-energy-prices-labour-market-slack-and-monetary-policy-a-view-through-the-lens-of-a-structural-model/",
-  "why": "BoE staff use a structural model, rather than a standard linear solution, to show that an energy shock is roughly twice as inflationary when vacancies are plentiful relative to job-seekers, because scarce workers can claw back real income through wages and spread the shock into core prices. With energy prices jumping again after the Middle East conflict and the UK Beveridge curve now much looser than in 2022, it is a clean framework for judging whether this oil shock repeats 2022 or fades.",
-  "tags": [
-   "macro",
-   "energy",
-   "inflation"
-  ],
-  "paywall": false
- },
- {
   "title": "A Layman Thinks About AI",
   "source": "Oaktree Capital, Memos from Howard Marks",
   "date": "2026-11-11",
@@ -52,19 +38,6 @@
    "market structure",
    "rates",
    "liquidity"
-  ],
-  "paywall": false
- },
- {
-  "title": "Job Finding and Unemployment in the Age of AI",
-  "source": "Cleveland Fed Economic Commentary 2026-26 (Barış Kaymak)",
-  "date": "2026-11-09",
-  "min": 15,
-  "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202626-job-finding-and-unemployment-in-the-age-of-ai",
-  "why": "Since generative AI became widely available, unemployment for 23-54 year olds has risen about 1 percentage point more in the most AI-exposed occupations than in the least exposed relative to 2015-2019, and the gap is larger for 23-30 year olds. Labor-flow data show the cause is lower job-finding rates, not more separations, which suggests AI so far is closing the entry door to exposed jobs rather than displacing people already in them.",
-  "tags": [
-   "AI",
-   "labor"
   ],
   "paywall": false
  },
@@ -97,19 +70,6 @@
   "paywall": false
  },
  {
-  "title": "A Look at the Wider Divide in Credit Card Delinquency by Income",
-  "source": "NY Fed Liberty Street Economics (Lee, Mangrum, Scally, Sinha, van der Klaauw)",
-  "date": "2026-11-10",
-  "min": 15,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/a-look-at-the-wider-divide-in-credit-card-delinquency-by-income/",
-  "why": "Alongside the Q3 household debt report (balances up $334 billion), the authors show the gap in new credit card delinquency between low- and high-income zip codes has widened since 2022. They trace much of the distress to cards issued during the pandemic, when a growing share went to lower-income, lower-score borrowers, which helps separate vintage effects from a broad consumer downturn.",
-  "tags": [
-   "consumer credit",
-   "financial stability"
-  ],
-  "paywall": false
- },
- {
   "title": "We the People…",
   "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
   "date": "2026-11-07",
@@ -133,20 +93,6 @@
   "tags": [
    "private credit",
    "financial stability"
-  ],
-  "paywall": false
- },
- {
-  "title": "Is the U.S. 'exorbitant privilege' of favorable rates fading?",
-  "source": "Dallas Fed Economics (Scott Davis, Abigail MacLean)",
-  "date": "2026-11-10",
-  "min": 7,
-  "url": "https://www.dallasfed.org/research/economics/2026/1110",
-  "why": "U.S. net income on foreign investments, which paid for about 40 percent of the trade deficit in the decade before the pandemic, turned negative in 2024 for the first time since at least 1960. The authors break the drop into a shrinking net equity position after years of U.S. stock outperformance and higher yields on a large net debt position, which is why foreign borrowing is now near 4 percent of GDP, the most since 2008.",
-  "tags": [
-   "flows",
-   "dollar",
-   "external balance"
   ],
   "paywall": false
  },
@@ -204,8 +150,7 @@
    "flows",
    "AI"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Banking System Vulnerability: 2026 Update",
@@ -218,8 +163,7 @@
    "financial stability",
    "banks"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Reading the economy from earnings calls with generative AI",
@@ -233,8 +177,7 @@
    "AI",
    "earnings"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "The Surprising Resilience of Corporate Profit Margins",
@@ -265,15 +208,75 @@
   "paywall": false
  },
  {
-  "title": "Welfare gains from top firms' productivity substantially reduced by their increased market power",
-  "source": "Minneapolis Fed (Jeff Horwich on De Loecker, Eeckhout, Mongey)",
-  "date": "2026-11-06",
-  "min": 4,
-  "url": "https://www.minneapolisfed.org/article/2026/welfare-gains-from-top-firms-productivity-substantially-reduced-by-their-increased-market-power",
-  "why": "A summary of new Minneapolis Fed Staff Report 688, whose structural model links rising markups, rising overhead costs and falling business dynamism since 1980 to technology gains concentrating in fewer firms. The authors estimate this left US output 6 percent and welfare 5 percent lower by 2023 than under the 1980 market structure, relevant to how AI-era productivity gains may be shared.",
+  "title": "A Banker's Guide to Anthropic",
+  "source": "Net Interest (Marc Rubinstein)",
+  "date": "2026-11-13",
+  "min": 8,
+  "url": "https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
+  "why": "Rubinstein treats the Anthropic IPO, due this week, as a credit event: a listing opens the door to an investment-grade rating and the $13 trillion IG bond market, and its new $15 billion revolver drops its collateral once two agencies call it investment grade, while Broadcom has stood behind more than $70 billion of debt for hardware leased to Anthropic. The free preview lays out the rating fight (KBRA at BB+, Blackstone expecting BB); the paid section covers how roughly $1 trillion of commitments get funded and who is lending (read time estimated).",
   "tags": [
-   "market power",
-   "productivity"
+   "AI credit",
+   "credit ratings",
+   "IPO"
+  ],
+  "paywall": true,
+  "top": true
+ },
+ {
+  "title": "Data Centers Are Likely to Benefit Some Tenth District Economies, but the Path for Construction Looks Uncertain",
+  "source": "Kansas City Fed Economic Bulletin (John McCoy)",
+  "date": "2026-11-13",
+  "min": 5,
+  "url": "https://www.kansascityfed.org/research/economic-bulletin/data-centers-are-likely-to-benefit-some-tenth-district-economies-but-the-path-for-construction-looks-uncertain/",
+  "why": "Using Aterio project data, McCoy shows announced data centers would use 17 to 23 percent of existing electric capacity in Tenth District states by 2031 (Kansas sector power use up more than 350 percent), and maps local moratoriums against the project pipeline, including five of Colorado's eight announced sites now sitting in counties with a moratorium. It is a concrete, ground-level read on the power and permitting constraints behind the AI capex slowdown debate.",
+  "tags": [
+   "AI capex",
+   "power",
+   "supply chains"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Macroeconomic effects of rare earth supply disruptions",
+  "source": "VoxEU/CEPR (Bogmans, Jerez Osses, Miranda-Pinto, Natal; IMF staff)",
+  "date": "2026-11-14",
+  "min": 7,
+  "url": "https://cepr.org/voxeu/columns/macroeconomic-effects-rare-earth-supply-disruptions",
+  "why": "IMF staff build a production-network model with a rare-earth-augmented input-output table and find an 80 percent cut in rare earth imports would lower GDP by 1.8 percent in Japan, 1.5 percent in the US and 1.3 percent in Germany in the short run, with US auto output down about 9 percent. The key point is that network linkages make the US and Japan more exposed than simple value-added-at-risk measures suggest, and that the danger is concentrated in the first year before substitution kicks in.",
+  "tags": [
+   "supply chains",
+   "commodities",
+   "geopolitics"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Changing how we measure AI chip inference performance",
+  "source": "Epoch AI (Jason Li)",
+  "date": "2026-11-09",
+  "min": 9,
+  "url": "https://epoch.ai/publications/inference-performance-index",
+  "why": "Epoch introduces an Inference Performance Index and estimates Nvidia's GB300 serves about 25 times the agentic inference load of an H100 per chip despite only 2.5 times the 8-bit FLOP/s, because memory and interconnect matter more than arithmetic for inference; rack-scale GB300 NVL72 also gets about 1.9 times the capacity per GPU of B300 HGX. If capacity is measured this way, FLOP-based estimates of installed compute and of older GPUs' useful economic life look badly off, which matters for anyone underwriting GPU-backed debt.",
+  "tags": [
+   "AI compute",
+   "AI credit",
+   "semiconductors"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Ready-to-run global liquidity stress tests for banks and banking systems",
+  "source": "BIS Working Paper No 1394 (Schmieder, Wei, Ong)",
+  "date": "2026-11-11",
+  "min": 6,
+  "url": "https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems",
+  "why": "The BIS releases a free top-down liquidity stress-testing toolkit covering nearly 13,000 banks in more than 100 economies, summarized by a break-even stress factor showing how much worse than baseline a shock must be before a bank runs out of liquidity. Buffers have strengthened since Basel III, but the authors flag wide cross-country dispersion, persistent rankings of weak systems, and faster digital deposit run-offs plus nonbank linkages as the risks that LCR disclosures miss.",
+  "tags": [
+   "financial stability",
+   "banks",
+   "liquidity"
   ],
   "paywall": false
  }
