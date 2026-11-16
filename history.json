@@ -493,7 +493,7 @@
   "source": "The Diff (Byrne Hobart)",
   "date": "2026-11-09",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.chicagofed.org/-/media/publications/chicago-fed-letter/2026/cfl531.pdf?sc_lang=en",
@@ -605,7 +605,7 @@
   "source": "VoxEU/CEPR (Jha, Qian, Weber, Yang)",
   "date": "2026-11-12",
   "listedOn": "2026-11-13",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-37",
@@ -621,7 +621,7 @@
   "source": "Brookings Hutchins Center (Gian Maria Milesi-Ferretti)",
   "date": "2026-11-10",
   "listedOn": "2026-11-13",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.minneapolisfed.org/article/2026/welfare-gains-from-top-firms-productivity-substantially-reduced-by-their-increased-market-power",
@@ -637,7 +637,7 @@
   "source": "Net Interest (Marc Rubinstein)",
   "date": "2026-11-13",
   "listedOn": "2026-11-15",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.kansascityfed.org/research/economic-bulletin/data-centers-are-likely-to-benefit-some-tenth-district-economies-but-the-path-for-construction-looks-uncertain/",
@@ -645,7 +645,7 @@
   "source": "Kansas City Fed Economic Bulletin (John McCoy)",
   "date": "2026-11-13",
   "listedOn": "2026-11-15",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://cepr.org/voxeu/columns/macroeconomic-effects-rare-earth-supply-disruptions",
@@ -653,7 +653,7 @@
   "source": "VoxEU/CEPR (Bogmans, Jerez Osses, Miranda-Pinto, Natal; IMF staff)",
   "date": "2026-11-14",
   "listedOn": "2026-11-15",
-  "status": "listed"
+  "status": "top"
  },
  {
   "url": "https://epoch.ai/publications/inference-performance-index",
@@ -661,7 +661,7 @@
   "source": "Epoch AI (Jason Li)",
   "date": "2026-11-09",
   "listedOn": "2026-11-15",
-  "status": "top"
+  "status": "expired"
  },
  {
   "url": "https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems",
@@ -669,6 +669,38 @@
   "source": "BIS Working Paper No 1394 (Schmieder, Wei, Ong)",
   "date": "2026-11-11",
   "listedOn": "2026-11-15",
+  "status": "listed"
+ },
+ {
+  "url": "https://stratechery.com/2026/obituaries/",
+  "title": "Obituaries",
+  "source": "Stratechery (Ben Thompson; free weekly article)",
+  "date": "2026-11-16",
+  "listedOn": "2026-11-16",
+  "status": "top"
+ },
+ {
+  "url": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+  "title": "Nvidia and the World Without Jensen",
+  "source": "SemiAnalysis (Dylan Patel, Doug, Wayne Ma, Jordan Nanos)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-16",
+  "status": "top"
+ },
+ {
+  "url": "https://bankunderground.co.uk/2026/11/11/ai-accountability-and-the-economics-of-evidence/",
+  "title": "AI, accountability and the economics of evidence",
+  "source": "Bank of England Bank Underground (Benjamin Guin)",
+  "date": "2026-11-11",
+  "listedOn": "2026-11-16",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.piie.com/blogs/realtime-economics/2026/chinas-undervalued-currency-driving-its-trade-surplus-higher",
+  "title": "China's undervalued currency is driving its trade surplus higher",
+  "source": "PIIE RealTime Economics (Joseph E. Gagnon, Nishtha Agrawal)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-16",
   "status": "listed"
  }
 ]
