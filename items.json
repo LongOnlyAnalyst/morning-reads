@@ -11,8 +11,7 @@
    "supply chains",
    "market structure"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Macroeconomic effects of rare earth supply disruptions",
@@ -26,8 +25,7 @@
    "commodities",
    "geopolitics"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Nvidia and the World Without Jensen",
@@ -41,8 +39,7 @@
    "AI",
    "export controls"
   ],
-  "paywall": true,
-  "top": true
+  "paywall": true
  },
  {
   "title": "A Banker's Guide to Anthropic",
@@ -114,20 +111,6 @@
   "paywall": false
  },
  {
-  "title": "The Surprising Resilience of Corporate Profit Margins",
-  "source": "Richmond Fed Economic Brief 26-37 (Anna Kovner, Lorelei Lin)",
-  "date": "2026-11-12",
-  "min": 5,
-  "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-37",
-  "why": "Despite a decade of pandemic, tariff and war-driven input shocks, the median public company's gross margin rose about 3 points, and margins grew more than 10 percent even within the five largest industries, with business-facing firms outpacing consumer-facing ones. The Richmond Fed's research director concludes firms have passed costs through, so margin pressure is not what is driving the falling labor share.",
-  "tags": [
-   "earnings",
-   "supply chains",
-   "inflation"
-  ],
-  "paywall": false
- },
- {
   "title": "AI, accountability and the economics of evidence",
   "source": "Bank of England Bank Underground (Benjamin Guin)",
   "date": "2026-11-11",
@@ -150,20 +133,6 @@
   "tags": [
    "AI credit",
    "credit",
-   "AI"
-  ],
-  "paywall": false
- },
- {
-  "title": "The Perfect Storm That Clobbered Hedge Funds",
-  "source": "Bloomberg Odd Lots (podcast episode, Nishant Kumar and Michael Ball)",
-  "date": "2026-11-11",
-  "min": 52,
-  "url": "https://omny.fm/shows/odd-lots/the-perfect-storm-that-clobbered-hedge-funds",
-  "why": "Recorded November 10, this two-parter dissects why October was one of the worst months in memory for hedge funds, centred on whether multi-strategy pods that were supposed to be uncorrelated were all implicitly long the AI trade without their risk managers realising it. The second half covers post-midterm macro, the AI buildout and the Anthropic IPO as crowded positions keep unwinding.",
-  "tags": [
-   "positioning",
-   "hedge funds",
    "AI"
   ],
   "paywall": false
@@ -197,34 +166,6 @@
   "paywall": false
  },
  {
-  "title": "US monetary policy, macroeconomic news and the global secular decline of interest rates",
-  "source": "BIS Working Paper No 1393 (Hofmann, Li, Wu)",
-  "date": "2026-11-10",
-  "min": 6,
-  "url": "https://www.bis.org/publications/working-paper-1393-us-monetary-policy-macroeconomic-news-and-global-secular-decline-interest-rates",
-  "why": "The paper finds that the decline in long-term yields across ten advanced economies since the 1990s happened mostly inside FOMC announcement windows, and that it ran through the expected path of short rates rather than term premia. The effect is concentrated in windows preceded by macro news, which the authors read as markets repeatedly revising the Fed's reaction function, a useful frame for how US policy sets global rates.",
-  "tags": [
-   "rates",
-   "monetary policy",
-   "global spillovers"
-  ],
-  "paywall": false
- },
- {
-  "title": "The Federal Reserve's Balance Sheet Size and \"Other Deposits\": Some Financial Stability Considerations",
-  "source": "Chicago Fed Letter No. 531 (Cindy Hull, Brett Solimine)",
-  "date": "2026-11-10",
-  "min": 14,
-  "url": "https://www.chicagofed.org/-/media/publications/chicago-fed-letter/2026/cfl531.pdf?sc_lang=en",
-  "why": "Clearinghouse cash at the Fed has climbed to a record of about $250 billion, and every dollar of it drains a dollar of bank reserves, so it matters for any plan to shrink the balance sheet. The letter weighs cutting the interest rate paid, capping balances, or giving clearinghouses standing repo access, and flags the wrong-way risk of pushing that cash into commercial banks, with the Treasury clearing mandate set to add more margin.",
-  "tags": [
-   "market structure",
-   "financial stability",
-   "Fed balance sheet"
-  ],
-  "paywall": false
- },
- {
   "title": "China's undervalued currency is driving its trade surplus higher",
   "source": "PIIE RealTime Economics (Joseph E. Gagnon, Nishtha Agrawal)",
   "date": "2026-11-09",
@@ -252,20 +193,6 @@
   "paywall": false
  },
  {
-  "title": "The AI Boom's Two Engines",
-  "source": "PIIE RealTime Economics (Jason Furman)",
-  "date": "2026-11-09",
-  "min": 13,
-  "url": "https://www.piie.com/blogs/realtime-economics/2026/ai-booms-two-engines",
-  "why": "Furman runs the Fed's own FRB/US model and finds the data-center buildout has added only about 0.3 percent to GDP because roughly three-quarters of the spending is imported, while the wealth effect from about $11 trillion of excess gains in seven AI stocks matters more. The upshot is that a smaller buildout would be easy to absorb, but a stock market fall is the real risk, and forward-looking rate expectations could wipe out the gains.",
-  "tags": [
-   "AI capex",
-   "macro",
-   "equity wealth effect"
-  ],
-  "paywall": false
- },
- {
   "title": "We the People…",
   "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
   "date": "2026-11-07",
@@ -276,6 +203,77 @@
    "AI credit",
    "macro",
    "positioning"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Financial Stability Report, November 2026",
+  "source": "Federal Reserve Board (Financial Stability Report, PDF)",
+  "date": "2026-11-13",
+  "min": 94,
+  "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+  "why": "The Board's twice-yearly risk review puts advanced-computing debt issuance at more than $680 billion through October, about 31 percent of nonfinancial investment-grade issuance versus under 6 percent in 2023, with the mix shifting toward private credit, structured credit, project finance and off-balance-sheet leases and guarantees. It also finds hedge fund leverage at its highest since data began in 2013 and AI as the risk market contacts cited most often in the salient-risk survey; start with Box 2.2 on data-center leverage and Box 5.1.",
+  "tags": [
+   "AI credit",
+   "financial stability",
+   "positioning"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Connecting Stock Market to Labor Market During the AI Boom",
+  "source": "San Francisco Fed Economic Letter 2026-33 (Kevin Lansing, Federico C. Nucera)",
+  "date": "2026-11-16",
+  "min": 9,
+  "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/connecting-stock-market-to-labor-market-during-ai-boom/",
+  "why": "With the CAPE ratio at 40.5 in the third quarter, second only to the 2000 peak, the authors regress it on r-star, potential growth, the noncyclical unemployment rate and macro uncertainty and explain 89 percent of its variance since 1961. The noncyclical unemployment rate does most of the work and accounts for most of the post-2022 AI run-up, so a model without it implies much lower valuations, which is a useful frame for judging how fragile current multiples are.",
+  "tags": [
+   "AI",
+   "valuations",
+   "macro"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Non-accrual data suggest LMEs may be masking BDC stress",
+  "source": "PitchBook LCD (Sebastian Kian)",
+  "date": "2026-11-12",
+  "min": 6,
+  "url": "https://pitchbook.com/news/articles/non-accrual-data-suggest-lmes-may-be-masking-bdc-stress",
+  "why": "Using ten years of filings from 245 BDCs as a proxy for private credit, LCD finds a record 362 borrowers on non-accrual and $9.7 billion of non-accrual debt, up 64 percent year on year, even though the headline rate is only 1.9 percent (1.5 percent excluding Medallia). Its point is that amend-and-extend deals, PIK toggles and private liability management keep troubled loans accruing, so stress shows up first in PIK income and markdowns rather than the reported rate.",
+  "tags": [
+   "private credit",
+   "financial stability"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "The Elasticity Business",
+  "source": "The Diff (Byrne Hobart; free issue)",
+  "date": "2026-11-16",
+  "min": 15,
+  "url": "https://www.thediff.co/archive/the-elasticity-business/",
+  "why": "Hobart argues that supply and demand elasticity is not a constant, and that some of the best businesses, such as shale frackers with fast decline curves and cloud providers selling spot versus committed capacity, profit by adding elasticity to cyclical markets. The same free issue has a short section on Nvidia governance after Jensen Huang's exit, which ties the framework to the current compute cycle.",
+  "tags": [
+   "industry structure",
+   "AI",
+   "energy"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Maritime Chokepoint Disruptions, Trade and U.S. Inflation",
+  "source": "Dallas Fed Working Paper 2638 (Ricardo Reyes-Heroles, Xiaoqing Zhou)",
+  "date": "2026-11-09",
+  "min": 77,
+  "url": "https://www.dallasfed.org/research/papers/2026/wp2638",
+  "why": "Using satellite vessel tracking to identify chokepoint shocks, the authors find a major disruption lifts US consumer prices about 0.2 percent for nearly two years, mostly through core goods via freight, import and producer prices. Their model says the Red Sea crisis added about 0.4 point to PCE inflation, while the 2026 Hormuz closure added about 0.2 point through shipping alone, and that looking through the shock cushions output but does not remove the inflation.",
+  "tags": [
+   "supply chains",
+   "inflation"
   ],
   "paywall": false
  }

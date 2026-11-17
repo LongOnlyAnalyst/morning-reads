@@ -421,7 +421,7 @@
   "source": "Bloomberg Odd Lots (podcast episode, Nishant Kumar and Michael Ball)",
   "date": "2026-11-11",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bis.org/publications/working-paper-1393-us-monetary-policy-macroeconomic-news-and-global-secular-decline-interest-rates",
@@ -429,7 +429,7 @@
   "source": "BIS Working Paper No 1393 (Hofmann, Li, Wu)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/short-thoughts/quarterly-refunding-and-the-debt-ceiling.html",
@@ -485,7 +485,7 @@
   "source": "PIIE RealTime Economics (Jason Furman)",
   "date": "2026-11-09",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.thediff.co/archive/irr-dollars-of-alpha-or-dollars-of-fees/",
@@ -501,7 +501,7 @@
   "source": "Chicago Fed Letter No. 531 (Cindy Hull, Brett Solimine)",
   "date": "2026-11-10",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://epoch.ai/publications/huawei-horinger-china-compute-gap",
@@ -613,7 +613,7 @@
   "source": "Richmond Fed Economic Brief 26-37 (Anna Kovner, Lorelei Lin)",
   "date": "2026-11-12",
   "listedOn": "2026-11-13",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.brookings.edu/articles/external-wealth-of-nations-2025-update/",
@@ -653,7 +653,7 @@
   "source": "VoxEU/CEPR (Bogmans, Jerez Osses, Miranda-Pinto, Natal; IMF staff)",
   "date": "2026-11-14",
   "listedOn": "2026-11-15",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://epoch.ai/publications/inference-performance-index",
@@ -677,7 +677,7 @@
   "source": "Stratechery (Ben Thompson; free weekly article)",
   "date": "2026-11-16",
   "listedOn": "2026-11-16",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
@@ -685,7 +685,7 @@
   "source": "SemiAnalysis (Dylan Patel, Doug, Wayne Ma, Jordan Nanos)",
   "date": "2026-11-12",
   "listedOn": "2026-11-16",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://bankunderground.co.uk/2026/11/11/ai-accountability-and-the-economics-of-evidence/",
@@ -701,6 +701,46 @@
   "source": "PIIE RealTime Economics (Joseph E. Gagnon, Nishtha Agrawal)",
   "date": "2026-11-09",
   "listedOn": "2026-11-16",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+  "title": "Financial Stability Report, November 2026",
+  "source": "Federal Reserve Board (Financial Stability Report, PDF)",
+  "date": "2026-11-13",
+  "listedOn": "2026-11-17",
+  "status": "top"
+ },
+ {
+  "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/connecting-stock-market-to-labor-market-during-ai-boom/",
+  "title": "Connecting Stock Market to Labor Market During the AI Boom",
+  "source": "San Francisco Fed Economic Letter 2026-33 (Kevin Lansing, Federico C. Nucera)",
+  "date": "2026-11-16",
+  "listedOn": "2026-11-17",
+  "status": "top"
+ },
+ {
+  "url": "https://pitchbook.com/news/articles/non-accrual-data-suggest-lmes-may-be-masking-bdc-stress",
+  "title": "Non-accrual data suggest LMEs may be masking BDC stress",
+  "source": "PitchBook LCD (Sebastian Kian)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-17",
+  "status": "top"
+ },
+ {
+  "url": "https://www.thediff.co/archive/the-elasticity-business/",
+  "title": "The Elasticity Business",
+  "source": "The Diff (Byrne Hobart; free issue)",
+  "date": "2026-11-16",
+  "listedOn": "2026-11-17",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.dallasfed.org/research/papers/2026/wp2638",
+  "title": "Maritime Chokepoint Disruptions, Trade and U.S. Inflation",
+  "source": "Dallas Fed Working Paper 2638 (Ricardo Reyes-Heroles, Xiaoqing Zhou)",
+  "date": "2026-11-09",
+  "listedOn": "2026-11-17",
   "status": "listed"
  }
 ]
