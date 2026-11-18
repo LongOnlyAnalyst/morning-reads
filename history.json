@@ -589,7 +589,7 @@
   "source": "ECB Blog (Fabian Wagner, Julian Metzler)",
   "date": "2026-11-12",
   "listedOn": "2026-11-13",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/banking-system-vulnerability-2026-update/",
@@ -645,7 +645,7 @@
   "source": "Kansas City Fed Economic Bulletin (John McCoy)",
   "date": "2026-11-13",
   "listedOn": "2026-11-15",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://cepr.org/voxeu/columns/macroeconomic-effects-rare-earth-supply-disruptions",
@@ -693,7 +693,7 @@
   "source": "Bank of England Bank Underground (Benjamin Guin)",
   "date": "2026-11-11",
   "listedOn": "2026-11-16",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.piie.com/blogs/realtime-economics/2026/chinas-undervalued-currency-driving-its-trade-surplus-higher",
@@ -701,7 +701,7 @@
   "source": "PIIE RealTime Economics (Joseph E. Gagnon, Nishtha Agrawal)",
   "date": "2026-11-09",
   "listedOn": "2026-11-16",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
@@ -709,7 +709,7 @@
   "source": "Federal Reserve Board (Financial Stability Report, PDF)",
   "date": "2026-11-13",
   "listedOn": "2026-11-17",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/connecting-stock-market-to-labor-market-during-ai-boom/",
@@ -717,7 +717,7 @@
   "source": "San Francisco Fed Economic Letter 2026-33 (Kevin Lansing, Federico C. Nucera)",
   "date": "2026-11-16",
   "listedOn": "2026-11-17",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://pitchbook.com/news/articles/non-accrual-data-suggest-lmes-may-be-masking-bdc-stress",
@@ -725,7 +725,7 @@
   "source": "PitchBook LCD (Sebastian Kian)",
   "date": "2026-11-12",
   "listedOn": "2026-11-17",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.thediff.co/archive/the-elasticity-business/",
@@ -741,6 +741,46 @@
   "source": "Dallas Fed Working Paper 2638 (Ricardo Reyes-Heroles, Xiaoqing Zhou)",
   "date": "2026-11-09",
   "listedOn": "2026-11-17",
+  "status": "expired"
+ },
+ {
+  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-17/the-agents-will-trade-the-bonds",
+  "title": "The Agents Will Trade the Bonds",
+  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
+  "date": "2026-11-17",
+  "listedOn": "2026-11-18",
+  "status": "top"
+ },
+ {
+  "url": "https://www.pimco.com/us/en/insights/the-credit-market-lens-in-a-slower-ai-buildout-who-captures-the-scarcity-premium",
+  "title": "The Credit Market Lens: In a Slower AI Buildout, Who Captures the Scarcity Premium?",
+  "source": "PIMCO (Lotfi Karoui, The Credit Market Lens)",
+  "date": "2026-11-16",
+  "listedOn": "2026-11-18",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/special-reports/who-owns-the-risk-in-credit.html",
+  "title": "Who Owns the Risk in Credit?",
+  "source": "BNY iFlow Special Report (David Tam)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-18",
+  "status": "top"
+ },
+ {
+  "url": "https://home.treasury.gov/system/files/221/TBACCharge2Q42026.pdf",
+  "title": "Treasury Derivatives (TBAC charge, Q4 2026 refunding)",
+  "source": "US Treasury, Treasury Borrowing Advisory Committee (PDF)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-18",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.man.com/insights/cheap-ai-tokens-high-stakes",
+  "title": "Cheap AI Tokens, High Stakes",
+  "source": "Man Group (Man Alternative Investing Symposium, Paul Kedrosky talk)",
+  "date": "2026-11-04",
+  "listedOn": "2026-11-18",
   "status": "listed"
  }
 ]
