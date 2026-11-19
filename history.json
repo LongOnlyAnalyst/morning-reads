@@ -541,7 +541,7 @@
   "source": "St. Louis Fed On the Economy (Paulina Restrepo-Echavarría, Bontu Ankit Patro)",
   "date": "2026-11-12",
   "listedOn": "2026-11-12",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://bankunderground.co.uk/2026/11/12/shock-absorbers-energy-prices-labour-market-slack-and-monetary-policy-a-view-through-the-lens-of-a-structural-model/",
@@ -677,7 +677,7 @@
   "source": "Stratechery (Ben Thompson; free weekly article)",
   "date": "2026-11-16",
   "listedOn": "2026-11-16",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
@@ -685,7 +685,7 @@
   "source": "SemiAnalysis (Dylan Patel, Doug, Wayne Ma, Jordan Nanos)",
   "date": "2026-11-12",
   "listedOn": "2026-11-16",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://bankunderground.co.uk/2026/11/11/ai-accountability-and-the-economics-of-evidence/",
@@ -749,7 +749,7 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-17",
   "listedOn": "2026-11-18",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.pimco.com/us/en/insights/the-credit-market-lens-in-a-slower-ai-buildout-who-captures-the-scarcity-premium",
@@ -757,7 +757,7 @@
   "source": "PIMCO (Lotfi Karoui, The Credit Market Lens)",
   "date": "2026-11-16",
   "listedOn": "2026-11-18",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/special-reports/who-owns-the-risk-in-credit.html",
@@ -765,7 +765,7 @@
   "source": "BNY iFlow Special Report (David Tam)",
   "date": "2026-11-12",
   "listedOn": "2026-11-18",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://home.treasury.gov/system/files/221/TBACCharge2Q42026.pdf",
@@ -773,7 +773,7 @@
   "source": "US Treasury, Treasury Borrowing Advisory Committee (PDF)",
   "date": "2026-11-04",
   "listedOn": "2026-11-18",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.man.com/insights/cheap-ai-tokens-high-stakes",
@@ -781,6 +781,46 @@
   "source": "Man Group (Man Alternative Investing Symposium, Paul Kedrosky talk)",
   "date": "2026-11-04",
   "listedOn": "2026-11-18",
+  "status": "expired"
+ },
+ {
+  "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+  "title": "Financial Stability Review, November 2026",
+  "source": "European Central Bank (Financial Stability Review)",
+  "date": "2026-11-18",
+  "listedOn": "2026-11-19",
+  "status": "top"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/does-the-stock-market-stigmatize-banks-that-borrow-from-the-fed/",
+  "title": "Does the Stock Market Stigmatize Banks that Borrow from the Fed?",
+  "source": "NY Fed Liberty Street Economics (Fischl-Lanzoni, Hiti, Sarkar)",
+  "date": "2026-11-17",
+  "listedOn": "2026-11-19",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+  "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
+  "source": "Bridgewater Associates (Hudson Attar, Arham Habib)",
+  "date": "2026-11-13",
+  "listedOn": "2026-11-19",
+  "status": "top"
+ },
+ {
+  "url": "https://epoch.ai/data-insights/agentic-inference-capacity-growth",
+  "title": "Agentic inference capacity grew 4.6x in a year, versus 2.6x for compute capacity",
+  "source": "Epoch AI Data Insight (Jason Li)",
+  "date": "2026-11-18",
+  "listedOn": "2026-11-19",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.richmondfed.org/research/national_economy/macro_minute/2026/wages_are_cooling_while_supercore_inflation_isnt",
+  "title": "Wages Are Cooling, While Supercore Inflation Isn't",
+  "source": "Richmond Fed Macro Minute (John O'Trakoun)",
+  "date": "2026-11-17",
+  "listedOn": "2026-11-19",
   "status": "listed"
  }
 ]
