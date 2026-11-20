@@ -1,5 +1,20 @@
 [
  {
+  "title": "Higher fuel prices seep into core inflation",
+  "source": "Dallas Fed Economics (Chudik, Kilian, Zhou)",
+  "date": "2026-11-19",
+  "min": 5,
+  "url": "https://www.dallasfed.org/research/economics/2026/1119",
+  "why": "Using a structural VAR plus daily-frequency estimators across 149 PCE components, the authors find this year's fuel shock, led by record diesel, added 20 to 60 basis points to 12-month core PCE inflation as of September. If fuel prices simply hold, that contribution fades by about 30 basis points by end-2027, a useful anchor for how much of sticky core is energy pass-through versus something the Fed has to fight.",
+  "tags": [
+   "inflation",
+   "energy",
+   "rates"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
   "title": "Financial Stability Review, November 2026",
   "source": "European Central Bank (Financial Stability Review)",
   "date": "2026-11-18",
@@ -10,6 +25,34 @@
    "financial stability",
    "AI credit",
    "non-banks"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Agentic inference capacity grew 4.6x in a year, versus 2.6x for compute capacity",
+  "source": "Epoch AI Data Insight (Jason Li)",
+  "date": "2026-11-18",
+  "min": 4,
+  "url": "https://epoch.ai/data-insights/agentic-inference-capacity-growth",
+  "why": "Epoch estimates the installed base's capacity for long-context agentic inference grew 4.6x from Q2 2025 to Q2 2026 versus 2.6x for raw compute, with Blackwell parts supplying 74% of the added capacity and GB300 doing about 8x an H200 per GPU. It also expects that pace to slow because the next generation (Vera Rubin) adds only about 2.2x per GPU, which matters for how fast the AI capex being financed today turns into usable supply.",
+  "tags": [
+   "AI",
+   "compute",
+   "supply"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Consumers Can Handle a Stock Crash",
+  "source": "PIIE RealTime Economics (Jason Furman)",
+  "date": "2026-11-17",
+  "min": 13,
+  "url": "https://www.piie.com/blogs/realtime-economics/2026/consumers-can-handle-stock-crash",
+  "why": "Third in Furman's series on what an AI-bubble burst would do to the economy: households have spent only about 1 cent per dollar of recent stock gains, so a 25% market fall would cut consumption about 0.8% and GDP growth about 0.6 point over a year in his FRB/US runs. He also shows 2001 was the least consumer-driven postwar recession, which argues the wealth-effect channel is smaller than the market narrative assumes.",
+  "tags": [
+   "AI bubble",
+   "macro",
+   "financial stability"
   ],
   "paywall": false,
   "top": true
@@ -25,36 +68,6 @@
    "financial stability",
    "banks",
    "Fed facilities"
-  ],
-  "paywall": false,
-  "top": true
- },
- {
-  "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
-  "source": "Bridgewater Associates (Hudson Attar, Arham Habib)",
-  "date": "2026-11-13",
-  "min": 10,
-  "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
-  "why": "Bridgewater says it is managing money on a one-in-three chance of an economically destabilizing cyberattack within a year, citing its own incident tracker: zero-day exploits have roughly doubled since cyber-capable open-source models shipped and time from disclosure to exploitation has fallen from a month to 11 days. A rare buy-side attempt to quantify AI-driven cyber risk as a market tail, with data on why defenders are losing the patching race.",
-  "tags": [
-   "AI",
-   "tail risk",
-   "cyber"
-  ],
-  "paywall": false,
-  "top": true
- },
- {
-  "title": "Agentic inference capacity grew 4.6x in a year, versus 2.6x for compute capacity",
-  "source": "Epoch AI Data Insight (Jason Li)",
-  "date": "2026-11-18",
-  "min": 4,
-  "url": "https://epoch.ai/data-insights/agentic-inference-capacity-growth",
-  "why": "Epoch estimates the installed base's capacity for long-context agentic inference grew 4.6x from Q2 2025 to Q2 2026 versus 2.6x for raw compute, with Blackwell parts supplying 74% of the added capacity and GB300 doing about 8x an H200 per GPU. It also expects that pace to slow because the next generation (Vera Rubin) adds only about 2.2x per GPU, which matters for how fast the AI capex being financed today turns into usable supply.",
-  "tags": [
-   "AI",
-   "compute",
-   "supply"
   ],
   "paywall": false
  },
@@ -85,6 +98,21 @@
    "rates"
   ],
   "paywall": true
+ },
+ {
+  "title": "Clouds of Credit: Mapping the Financial Web Behind AI Compute",
+  "source": "NBER Working Paper 36032 (Van Nieuwerburgh, Su)",
+  "date": "2026-11-16",
+  "min": 77,
+  "url": "https://www.nber.org/papers/w36032",
+  "why": "Maps the network of debt, leases and non-recourse project finance behind the AI compute buildout and calibrates a model in which debt funds nearly 60% of the coming expansion and firms overinvest relative to the social optimum. In a low-productivity state losses reach $16.8 trillion with 40% loss-given-default on debt, and contractual spillovers among the key firms account for about 30% of private losses; read the abstract and the network section if short on time.",
+  "tags": [
+   "AI credit",
+   "financial stability",
+   "private credit"
+  ],
+  "paywall": false,
+  "top": true
  },
  {
   "title": "The Credit Market Lens: In a Slower AI Buildout, Who Captures the Scarcity Premium?",
@@ -129,6 +157,20 @@
   "paywall": false
  },
  {
+  "title": "Decapit-ai-tion",
+  "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
+  "date": "2026-11-14",
+  "min": 5,
+  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/decapit-ai-tion/",
+  "why": "Shah separates demand for AI from the economics of producing it: CBRE data show North American data-centre supply up 33.7% with vacancy at 1.4% and 80% of new capacity preleased, which favors hyperscalers with operating compute as permitting and power tighten. He also weighs what Jensen Huang's exit means for NVIDIA's risk appetite and customer financing, and argues hot Q3 data keep a December hike live unless AI capex stalls.",
+  "tags": [
+   "AI",
+   "positioning",
+   "rates"
+  ],
+  "paywall": false
+ },
+ {
   "title": "Macroeconomic effects of rare earth supply disruptions",
   "source": "VoxEU/CEPR (Bogmans, Jerez Osses, Miranda-Pinto, Natal; IMF staff)",
   "date": "2026-11-14",
@@ -139,6 +181,20 @@
    "supply chains",
    "commodities",
    "geopolitics"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
+  "source": "Bridgewater Associates (Hudson Attar, Arham Habib)",
+  "date": "2026-11-13",
+  "min": 10,
+  "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+  "why": "Bridgewater says it is managing money on a one-in-three chance of an economically destabilizing cyberattack within a year, citing its own incident tracker: zero-day exploits have roughly doubled since cyber-capable open-source models shipped and time from disclosure to exploitation has fallen from a month to 11 days. A rare buy-side attempt to quantify AI-driven cyber risk as a market tail, with data on why defenders are losing the patching race.",
+  "tags": [
+   "AI",
+   "tail risk",
+   "cyber"
   ],
   "paywall": false
  },
@@ -171,6 +227,20 @@
   "paywall": false
  },
  {
+  "title": "Artificial Intelligence and the U.S. Economy: Current Evidence",
+  "source": "Federal Reserve Board FEDS Working Paper 2026-074 (Carollo, Crane, Garcia Molina, Nichols)",
+  "date": "2026-11-12",
+  "min": 40,
+  "url": "https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm",
+  "why": "Board staff pull together the hard data on the AI boom: the surge in data-centre structures and chip investment, adoption rates by firms and consumers, AI labs' growing share of software output, and price spikes in direct inputs like memory chips. Their read is that labor-market and productivity effects are still small, and that the recent productivity pickup mostly reflects factors that predate generative AI, a sober baseline against the boom narrative.",
+  "tags": [
+   "AI",
+   "macro",
+   "productivity"
+  ],
+  "paywall": false
+ },
+ {
   "title": "Who Owns the Risk in Credit?",
   "source": "BNY iFlow Special Report (David Tam)",
   "date": "2026-11-12",
@@ -181,19 +251,6 @@
    "positioning",
    "flows",
    "AI credit"
-  ],
-  "paywall": false
- },
- {
-  "title": "Banking System Vulnerability: 2026 Update",
-  "source": "NY Fed Liberty Street Economics (Crosignani, Eisenbach, Fringuellotti)",
-  "date": "2026-11-12",
-  "min": 6,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/banking-system-vulnerability-2026-update/",
-  "why": "The annual update of the New York Fed's four bank-vulnerability models (capital, fire-sale, liquidity, run) through 2026:Q2 finds three of four rising: the 2008-redux capital gap jumped to $16.9 billion from $1.9 billion, and the liquidity stress ratio is at its highest since 2014. None is near pre-2008 levels, but the turn since the March 2026 rate rise is a concrete gauge of how much stress the banking system could amplify.",
-  "tags": [
-   "financial stability",
-   "banks"
   ],
   "paywall": false
  },
@@ -221,61 +278,6 @@
    "AI credit",
    "credit",
    "AI"
-  ],
-  "paywall": false
- },
- {
-  "title": "Ready-to-run global liquidity stress tests for banks and banking systems",
-  "source": "BIS Working Paper No 1394 (Schmieder, Wei, Ong)",
-  "date": "2026-11-11",
-  "min": 6,
-  "url": "https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems",
-  "why": "The BIS releases a free top-down liquidity stress-testing toolkit covering nearly 13,000 banks in more than 100 economies, summarized by a break-even stress factor showing how much worse than baseline a shock must be before a bank runs out of liquidity. Buffers have strengthened since Basel III, but the authors flag wide cross-country dispersion, persistent rankings of weak systems, and faster digital deposit run-offs plus nonbank linkages as the risks that LCR disclosures miss.",
-  "tags": [
-   "financial stability",
-   "banks",
-   "liquidity"
-  ],
-  "paywall": false
- },
- {
-  "title": "Record Volatility, Resilient Liquidity: What the September/October Bond Sell-Off Reveals About Rates Market Structure",
-  "source": "Tradeweb Insights (Casey Costanza, Rodérick Joniaux)",
-  "date": "2026-11-10",
-  "min": 6,
-  "url": "https://www.tradeweb.com/newsroom/media-center/insights/blog/record-volatility-resilient-liquidity-what-the-septemberoctober-bond-sell-off-reveals-about-rates-market-structure/",
-  "why": "Using its own platform data, Tradeweb shows that as the 10-year Treasury hit 5.3% and Gilts and OATs made multi-decade highs, institutional US Treasury volume ran 33-34% above a year earlier while 10-year bid-offer spreads in the US and Germany moved less than a third of a basis point. It benchmarks the sell-off against March 2026, Liberation Day, SVB and Covid, a useful venue-level counterpoint to worries about Treasury market fragility (written by a trading venue, so read it with that in mind).",
-  "tags": [
-   "market structure",
-   "rates",
-   "liquidity"
-  ],
-  "paywall": false
- },
- {
-  "title": "U.S. Private Credit Vehicles: Institutional Structure and Aggregate Balance Sheets",
-  "source": "Federal Reserve FEDS Notes (Brinkman, Dobridge, Dore, Glossner, Holmquist, Nguyen, Perozek, Stefanescu)",
-  "date": "2026-11-09",
-  "min": 12,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html",
-  "why": "Using new Financial Accounts data, Fed staff size U.S. private credit vehicles at about $1.9 trillion at end-2025 (up from $240 billion in 2012, and 21% in 2025 alone), split across private debt funds, BDCs, interval and tender offer funds and middle-market CLOs, with banks supplying most of their roughly $500 billion of debt. The useful part is the vehicle-by-vehicle view of leverage (BDCs near 1x, PD funds about 0.25x) and redemption terms, which shows where liquidity stress from retail-facing structures would actually show up.",
-  "tags": [
-   "private credit",
-   "financial stability"
-  ],
-  "paywall": false
- },
- {
-  "title": "We the People…",
-  "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
-  "date": "2026-11-07",
-  "min": 5,
-  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/we-the-people/",
-  "why": "Shah argues the midterms turn the politics of AI into a real constraint on the buildout, with Texas permitting and grid connections (and the Governor-elect's moratorium) the near-term bottleneck, and his base case is longer delays and selective resumption. For investors that raises the value of compute already running versus capacity still to be permitted and financed, favoring hyperscalers with power access over hardware suppliers exposed to order deferrals.",
-  "tags": [
-   "AI credit",
-   "macro",
-   "positioning"
   ],
   "paywall": false
  }

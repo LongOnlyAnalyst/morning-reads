@@ -389,7 +389,7 @@
   "source": "Federal Reserve FEDS Notes (Brinkman, Dobridge, Dore, Glossner, Holmquist, Nguyen, Perozek, Stefanescu)",
   "date": "2026-11-09",
   "listedOn": "2026-11-10",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-09/is-the-nvidia-affair-securities-fraud",
@@ -469,7 +469,7 @@
   "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
   "date": "2026-11-07",
   "listedOn": "2026-11-11",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.dallasfed.org/research/economics/2026/1110",
@@ -565,7 +565,7 @@
   "source": "Tradeweb Insights (Casey Costanza, Rodérick Joniaux)",
   "date": "2026-11-10",
   "listedOn": "2026-11-12",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202626-job-finding-and-unemployment-in-the-age-of-ai",
@@ -597,7 +597,7 @@
   "source": "NY Fed Liberty Street Economics (Crosignani, Eisenbach, Fringuellotti)",
   "date": "2026-11-12",
   "listedOn": "2026-11-13",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://cepr.org/voxeu/columns/reading-economy-earnings-calls-generative-ai",
@@ -669,7 +669,7 @@
   "source": "BIS Working Paper No 1394 (Schmieder, Wei, Ong)",
   "date": "2026-11-11",
   "listedOn": "2026-11-15",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://stratechery.com/2026/obituaries/",
@@ -789,7 +789,7 @@
   "source": "European Central Bank (Financial Stability Review)",
   "date": "2026-11-18",
   "listedOn": "2026-11-19",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/does-the-stock-market-stigmatize-banks-that-borrow-from-the-fed/",
@@ -797,7 +797,7 @@
   "source": "NY Fed Liberty Street Economics (Fischl-Lanzoni, Hiti, Sarkar)",
   "date": "2026-11-17",
   "listedOn": "2026-11-19",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
@@ -805,7 +805,7 @@
   "source": "Bridgewater Associates (Hudson Attar, Arham Habib)",
   "date": "2026-11-13",
   "listedOn": "2026-11-19",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://epoch.ai/data-insights/agentic-inference-capacity-growth",
@@ -821,6 +821,46 @@
   "source": "Richmond Fed Macro Minute (John O'Trakoun)",
   "date": "2026-11-17",
   "listedOn": "2026-11-19",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.dallasfed.org/research/economics/2026/1119",
+  "title": "Higher fuel prices seep into core inflation",
+  "source": "Dallas Fed Economics (Chudik, Kilian, Zhou)",
+  "date": "2026-11-19",
+  "listedOn": "2026-11-20",
+  "status": "top"
+ },
+ {
+  "url": "https://www.piie.com/blogs/realtime-economics/2026/consumers-can-handle-stock-crash",
+  "title": "Consumers Can Handle a Stock Crash",
+  "source": "PIIE RealTime Economics (Jason Furman)",
+  "date": "2026-11-17",
+  "listedOn": "2026-11-20",
+  "status": "top"
+ },
+ {
+  "url": "https://www.nber.org/papers/w36032",
+  "title": "Clouds of Credit: Mapping the Financial Web Behind AI Compute",
+  "source": "NBER Working Paper 36032 (Van Nieuwerburgh, Su)",
+  "date": "2026-11-16",
+  "listedOn": "2026-11-20",
+  "status": "top"
+ },
+ {
+  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/decapit-ai-tion/",
+  "title": "Decapit-ai-tion",
+  "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
+  "date": "2026-11-14",
+  "listedOn": "2026-11-20",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm",
+  "title": "Artificial Intelligence and the U.S. Economy: Current Evidence",
+  "source": "Federal Reserve Board FEDS Working Paper 2026-074 (Carollo, Crane, Garcia Molina, Nichols)",
+  "date": "2026-11-12",
+  "listedOn": "2026-11-20",
   "status": "listed"
  }
 ]
