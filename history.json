@@ -829,7 +829,7 @@
   "source": "Dallas Fed Economics (Chudik, Kilian, Zhou)",
   "date": "2026-11-19",
   "listedOn": "2026-11-20",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.piie.com/blogs/realtime-economics/2026/consumers-can-handle-stock-crash",
@@ -837,7 +837,7 @@
   "source": "PIIE RealTime Economics (Jason Furman)",
   "date": "2026-11-17",
   "listedOn": "2026-11-20",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.nber.org/papers/w36032",
@@ -845,7 +845,7 @@
   "source": "NBER Working Paper 36032 (Van Nieuwerburgh, Su)",
   "date": "2026-11-16",
   "listedOn": "2026-11-20",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/decapit-ai-tion/",
@@ -861,6 +861,38 @@
   "source": "Federal Reserve Board FEDS Working Paper 2026-074 (Carollo, Crane, Garcia Molina, Nichols)",
   "date": "2026-11-12",
   "listedOn": "2026-11-20",
+  "status": "listed"
+ },
+ {
+  "url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart",
+  "title": "This Is The Problem With AI's Most Bullish Chart",
+  "source": "Bloomberg Odd Lots (Stanley Lee, Paul Kedrosky)",
+  "date": "2026-11-19",
+  "listedOn": "2026-11-22",
+  "status": "top"
+ },
+ {
+  "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth",
+  "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
+  "source": "Epoch AI Data Insight (Josh You)",
+  "date": "2026-11-18",
+  "listedOn": "2026-11-22",
+  "status": "top"
+ },
+ {
+  "url": "https://www.brookings.edu/articles/the-tax-code-already-has-an-ai-policy-it-pays-companies-to-borrow/",
+  "title": "The tax code already has an AI policy: It pays companies to borrow",
+  "source": "Brookings, Urban-Brookings Tax Policy Center (Brosy, Patel)",
+  "date": "2026-11-17",
+  "listedOn": "2026-11-22",
+  "status": "top"
+ },
+ {
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/when-productivity-booms-do-interest-rates-rise-20261120.html",
+  "title": "When productivity booms, do interest rates rise?",
+  "source": "Federal Reserve Board FEDS Notes (Lepetit, Miller)",
+  "date": "2026-11-20",
+  "listedOn": "2026-11-22",
   "status": "listed"
  }
 ]

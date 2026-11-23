@@ -1,5 +1,64 @@
 [
  {
+  "title": "This Is The Problem With AI's Most Bullish Chart",
+  "source": "Bloomberg Odd Lots (Stanley Lee, Paul Kedrosky)",
+  "date": "2026-11-19",
+  "min": 70,
+  "url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart",
+  "why": "Liquid Compute's Stanley Lee argues rising GPU rental rates partly reflect a financing squeeze, with mid-market neoclouds unable to get cheap term loans and pushed into a thin, volatile spot market, so higher rents can signal credit stress rather than healthy demand. Paul Kedrosky then asks whether up-and-to-the-right usage charts actually prove the AI capex pays back, timely in the week of the Anthropic IPO (about 70-minute episode, free audio).",
+  "tags": [
+   "AI credit",
+   "compute",
+   "positioning"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
+  "source": "Epoch AI Data Insight (Josh You)",
+  "date": "2026-11-18",
+  "min": 4,
+  "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth",
+  "why": "Using Anthropic's S-1/A, Epoch shows compute and infrastructure spend rising from $433 million in 2023 to nearly $10 billion in Q3 2026 (about $40 billion annualized), versus roughly 3x a year at OpenAI. It also flags $447.5 billion of contracted compute commitments through 2030, only about another doubling from today's run rate, which suggests the 4x pace has to slow and matters for whoever is financing the capacity.",
+  "tags": [
+   "AI",
+   "compute",
+   "AI credit"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "The tax code already has an AI policy: It pays companies to borrow",
+  "source": "Brookings, Urban-Brookings Tax Policy Center (Brosy, Patel)",
+  "date": "2026-11-17",
+  "min": 6,
+  "url": "https://www.brookings.edu/articles/the-tax-code-already-has-an-ai-policy-it-pays-companies-to-borrow/",
+  "why": "Full expensing plus interest deductibility puts the marginal effective tax rate on debt-financed computing equipment at -46% in 2026, up from -14% before OBBBA made expensing permanent, while hyperscaler long-term debt doubled from $232 billion to $486 billion between 2024 and mid-2026. It adds a policy angle to the AI-credit story: the subsidy tilts the buildout toward debt and off-balance-sheet vehicles like Meta's $27 billion Hyperion JV, and the interest cap likely does not bind for these firms.",
+  "tags": [
+   "AI credit",
+   "fiscal",
+   "tax"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "When productivity booms, do interest rates rise?",
+  "source": "Federal Reserve Board FEDS Notes (Lepetit, Miller)",
+  "date": "2026-11-20",
+  "min": 12,
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/when-productivity-booms-do-interest-rates-rise-20261120.html",
+  "why": "Against textbook theory, a VAR with anticipated TFP-growth shocks finds that expected productivity booms lower both the 10-year Treasury yield and a common r* proxy, mainly because the term premium falls by more than short rates rise. Applied to the post-2022 period, the authors conclude AI-driven productivity optimism cannot explain the surge in long yields, pushing the explanation toward other factors such as term premium and fiscal supply.",
+  "tags": [
+   "rates",
+   "AI",
+   "productivity"
+  ],
+  "paywall": false
+ },
+ {
   "title": "Higher fuel prices seep into core inflation",
   "source": "Dallas Fed Economics (Chudik, Kilian, Zhou)",
   "date": "2026-11-19",
@@ -11,8 +70,7 @@
    "energy",
    "rates"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Financial Stability Review, November 2026",
@@ -54,8 +112,7 @@
    "macro",
    "financial stability"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Does the Stock Market Stigmatize Banks that Borrow from the Fed?",
@@ -111,8 +168,7 @@
    "financial stability",
    "private credit"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "The Credit Market Lens: In a Slower AI Buildout, Who Captures the Scarcity Premium?",
