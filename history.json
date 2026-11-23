@@ -557,7 +557,7 @@
   "source": "Oaktree Capital, Memos from Howard Marks",
   "date": "2026-11-11",
   "listedOn": "2026-11-12",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.tradeweb.com/newsroom/media-center/insights/blog/record-volatility-resilient-liquidity-what-the-septemberoctober-bond-sell-off-reveals-about-rates-market-structure/",
@@ -709,7 +709,7 @@
   "source": "Federal Reserve Board (Financial Stability Report, PDF)",
   "date": "2026-11-13",
   "listedOn": "2026-11-17",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/connecting-stock-market-to-labor-market-during-ai-boom/",
@@ -725,7 +725,7 @@
   "source": "PitchBook LCD (Sebastian Kian)",
   "date": "2026-11-12",
   "listedOn": "2026-11-17",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.thediff.co/archive/the-elasticity-business/",
@@ -765,7 +765,7 @@
   "source": "BNY iFlow Special Report (David Tam)",
   "date": "2026-11-12",
   "listedOn": "2026-11-18",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://home.treasury.gov/system/files/221/TBACCharge2Q42026.pdf",
@@ -813,7 +813,7 @@
   "source": "Epoch AI Data Insight (Jason Li)",
   "date": "2026-11-18",
   "listedOn": "2026-11-19",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.richmondfed.org/research/national_economy/macro_minute/2026/wages_are_cooling_while_supercore_inflation_isnt",
@@ -861,7 +861,7 @@
   "source": "Federal Reserve Board FEDS Working Paper 2026-074 (Carollo, Crane, Garcia Molina, Nichols)",
   "date": "2026-11-12",
   "listedOn": "2026-11-20",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart",
@@ -869,7 +869,7 @@
   "source": "Bloomberg Odd Lots (Stanley Lee, Paul Kedrosky)",
   "date": "2026-11-19",
   "listedOn": "2026-11-22",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth",
@@ -877,7 +877,7 @@
   "source": "Epoch AI Data Insight (Josh You)",
   "date": "2026-11-18",
   "listedOn": "2026-11-22",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.brookings.edu/articles/the-tax-code-already-has-an-ai-policy-it-pays-companies-to-borrow/",
@@ -885,7 +885,7 @@
   "source": "Brookings, Urban-Brookings Tax Policy Center (Brosy, Patel)",
   "date": "2026-11-17",
   "listedOn": "2026-11-22",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/when-productivity-booms-do-interest-rates-rise-20261120.html",
@@ -893,6 +893,38 @@
   "source": "Federal Reserve Board FEDS Notes (Lepetit, Miller)",
   "date": "2026-11-20",
   "listedOn": "2026-11-22",
+  "status": "listed"
+ },
+ {
+  "url": "https://cepr.org/voxeu/columns/return-inflation-more-bank-profits-more-central-bank-losses",
+  "title": "The return of inflation: More bank profits, more central bank losses",
+  "source": "VoxEU/CEPR (Paul De Grauwe, Yuemei Ji)",
+  "date": "2026-11-20",
+  "listedOn": "2026-11-23",
+  "status": "top"
+ },
+ {
+  "url": "https://www.energypolicy.columbia.edu/how-the-midterm-results-could-affect-data-center-growth-and-electricity-prices-qa/",
+  "title": "How the Midterm Results Could Affect Data Center Growth and Electricity Prices: Q&A",
+  "source": "Columbia Center on Global Energy Policy (Douglas Arent, Vivek Shastry)",
+  "date": "2026-11-19",
+  "listedOn": "2026-11-23",
+  "status": "top"
+ },
+ {
+  "url": "https://rhg.com/research/clean-investment-monitor-us-q3-2026-update/",
+  "title": "Clean Investment Monitor: US Q3 2026 Update",
+  "source": "Rhodium Group / MIT CEEPR",
+  "date": "2026-11-18",
+  "listedOn": "2026-11-23",
+  "status": "top"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/",
+  "title": "Can Workers Predict Job Finding and Job Loss?",
+  "source": "NY Fed Liberty Street Economics (Audoly, Chen, Guerin, Schuh)",
+  "date": "2026-11-16",
+  "listedOn": "2026-11-23",
   "status": "listed"
  }
 ]

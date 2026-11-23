@@ -11,8 +11,7 @@
    "compute",
    "positioning"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
@@ -26,8 +25,7 @@
    "compute",
    "AI credit"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "The tax code already has an AI policy: It pays companies to borrow",
@@ -41,8 +39,7 @@
    "fiscal",
    "tax"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "When productivity booms, do interest rates rise?",
@@ -83,20 +80,6 @@
    "financial stability",
    "AI credit",
    "non-banks"
-  ],
-  "paywall": false
- },
- {
-  "title": "Agentic inference capacity grew 4.6x in a year, versus 2.6x for compute capacity",
-  "source": "Epoch AI Data Insight (Jason Li)",
-  "date": "2026-11-18",
-  "min": 4,
-  "url": "https://epoch.ai/data-insights/agentic-inference-capacity-growth",
-  "why": "Epoch estimates the installed base's capacity for long-context agentic inference grew 4.6x from Q2 2025 to Q2 2026 versus 2.6x for raw compute, with Blackwell parts supplying 74% of the added capacity and GB300 doing about 8x an H200 per GPU. It also expects that pace to slow because the next generation (Vera Rubin) adds only about 2.2x per GPU, which matters for how fast the AI capex being financed today turns into usable supply.",
-  "tags": [
-   "AI",
-   "compute",
-   "supply"
   ],
   "paywall": false
  },
@@ -269,71 +252,59 @@
   "paywall": true
  },
  {
-  "title": "Financial Stability Report, November 2026",
-  "source": "Federal Reserve Board (Financial Stability Report, PDF)",
-  "date": "2026-11-13",
-  "min": 94,
-  "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
-  "why": "The Board's twice-yearly risk review puts advanced-computing debt issuance at more than $680 billion through October, about 31 percent of nonfinancial investment-grade issuance versus under 6 percent in 2023, with the mix shifting toward private credit, structured credit, project finance and off-balance-sheet leases and guarantees. It also finds hedge fund leverage at its highest since data began in 2013 and AI as the risk market contacts cited most often in the salient-risk survey; start with Box 2.2 on data-center leverage and Box 5.1.",
+  "title": "The return of inflation: More bank profits, more central bank losses",
+  "source": "VoxEU/CEPR (Paul De Grauwe, Yuemei Ji)",
+  "date": "2026-11-20",
+  "min": 5,
+  "url": "https://cepr.org/voxeu/columns/return-inflation-more-bank-profits-more-central-bank-losses",
+  "why": "Paying interest on about €2 trillion of reserves means each ECB hike transfers income to banks, lifting euro-area bank ROE toward 10% while the Eurosystem ran €64-69 billion of losses; a 3-4% deposit rate could restore €60-80 billion a year in transfers. The authors argue raising unremunerated minimum reserves from 1% to 2% would cut the subsidy without changing operating procedures.",
   "tags": [
-   "AI credit",
-   "financial stability",
-   "positioning"
+   "rates",
+   "banks",
+   "central banks"
   ],
-  "paywall": false
+  "paywall": false,
+  "top": true
  },
  {
-  "title": "Artificial Intelligence and the U.S. Economy: Current Evidence",
-  "source": "Federal Reserve Board FEDS Working Paper 2026-074 (Carollo, Crane, Garcia Molina, Nichols)",
-  "date": "2026-11-12",
-  "min": 40,
-  "url": "https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm",
-  "why": "Board staff pull together the hard data on the AI boom: the surge in data-centre structures and chip investment, adoption rates by firms and consumers, AI labs' growing share of software output, and price spikes in direct inputs like memory chips. Their read is that labor-market and productivity effects are still small, and that the recent productivity pickup mostly reflects factors that predate generative AI, a sober baseline against the boom narrative.",
-  "tags": [
-   "AI",
-   "macro",
-   "productivity"
-  ],
-  "paywall": false
- },
- {
-  "title": "Who Owns the Risk in Credit?",
-  "source": "BNY iFlow Special Report (David Tam)",
-  "date": "2026-11-12",
+  "title": "How the Midterm Results Could Affect Data Center Growth and Electricity Prices: Q&A",
+  "source": "Columbia Center on Global Energy Policy (Douglas Arent, Vivek Shastry)",
+  "date": "2026-11-19",
   "min": 7,
-  "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/special-reports/who-owns-the-risk-in-credit.html",
-  "why": "Using iFlow holdings data, BNY shows US corporate bonds outstanding grew about 8 to 9% since early 2025 to roughly $12.2 to $12.4 trillion, mostly hyperscaler-driven IG issuance held by insurers, while HY and especially CCC lean on flow-sensitive funds and hedge funds. The point is that a credit shock would travel through ownership, fund outflows and forced selling (fallen angels hitting mandate-bound mutual funds and ETFs), not just spreads.",
+  "url": "https://www.energypolicy.columbia.edu/how-the-midterm-results-could-affect-data-center-growth-and-electricity-prices-qa/",
+  "why": "Five states that flipped governors (Texas, Georgia, Ohio, Nevada, Iowa) hold about 142 GW of announced data-center demand, and the authors estimate pauses could hit up to 50 GW over two to three years, with 46 of 47 local ballot measures favoring limits. It also explains why 'pay their own way' tariffs miss the wholesale capacity and energy price channel, and that behind-the-meter gas costs $101-107/MWh versus an $86 industrial average.",
   "tags": [
-   "positioning",
-   "flows",
-   "AI credit"
+   "AI capex",
+   "power",
+   "policy"
   ],
-  "paywall": false
+  "paywall": false,
+  "top": true
  },
  {
-  "title": "Non-accrual data suggest LMEs may be masking BDC stress",
-  "source": "PitchBook LCD (Sebastian Kian)",
-  "date": "2026-11-12",
+  "title": "Clean Investment Monitor: US Q3 2026 Update",
+  "source": "Rhodium Group / MIT CEEPR",
+  "date": "2026-11-18",
   "min": 6,
-  "url": "https://pitchbook.com/news/articles/non-accrual-data-suggest-lmes-may-be-masking-bdc-stress",
-  "why": "Using ten years of filings from 245 BDCs as a proxy for private credit, LCD finds a record 362 borrowers on non-accrual and $9.7 billion of non-accrual debt, up 64 percent year on year, even though the headline rate is only 1.9 percent (1.5 percent excluding Medallia). Its point is that amend-and-extend deals, PIK toggles and private liability management keep troubled loans accruing, so stress shows up first in PIK income and markdowns rather than the reported rate.",
+  "url": "https://rhg.com/research/clean-investment-monitor-us-q3-2026-update/",
+  "why": "US clean energy and transport investment fell to $59 billion in Q3, down 22% year over year and the fourth straight annual decline, with battery manufacturing at its lowest since 2022 and wind down 40%. Utility-scale solar and storage held at $18 billion, so the drop is concentrated in EVs, batteries and wind rather than grid-scale power.",
   "tags": [
-   "private credit",
-   "financial stability"
+   "energy",
+   "capex"
   ],
-  "paywall": false
+  "paywall": false,
+  "top": true
  },
  {
-  "title": "A Layman Thinks About AI",
-  "source": "Oaktree Capital, Memos from Howard Marks",
-  "date": "2026-11-11",
-  "min": 28,
-  "url": "https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai",
-  "why": "Marks works through eleven questions on AI, from who captures the profits and the data-center outlook to whether markets are dangerously reliant on a single factor and whether it is a bubble. The credit section is the most useful part: citing Goldman, he puts AI-related debt issuance near $600 billion globally this year, with about $400 billion in US investment grade (over a fifth of supply and around 12% of the Bloomberg USD IG index), and roughly $1 trillion a year of new capital still needed.",
+  "title": "Can Workers Predict Job Finding and Job Loss?",
+  "source": "NY Fed Liberty Street Economics (Audoly, Chen, Guerin, Schuh)",
+  "date": "2026-11-16",
+  "min": 8,
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/",
+  "why": "Matching NY Fed survey expectations to realized CPS outcomes, the authors find newly unemployed workers have underestimated their job-finding odds since COVID, even as realized finding rates averaged 58.8% from 2022, with the gap driven by younger and non-college workers. Expected job-loss odds run about double realized layoffs, partly because workers miss how sharply layoff risk falls with tenure, which matters when reading sentiment-based labor signals.",
   "tags": [
-   "AI credit",
-   "credit",
-   "AI"
+   "labor",
+   "macro"
   ],
   "paywall": false
  }
