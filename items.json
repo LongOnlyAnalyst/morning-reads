@@ -1,45 +1,47 @@
 [
  {
-  "title": "This Is The Problem With AI's Most Bullish Chart",
-  "source": "Bloomberg Odd Lots (Stanley Lee, Paul Kedrosky)",
-  "date": "2026-11-19",
-  "min": 70,
-  "url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart",
-  "why": "Liquid Compute's Stanley Lee argues rising GPU rental rates partly reflect a financing squeeze, with mid-market neoclouds unable to get cheap term loans and pushed into a thin, volatile spot market, so higher rents can signal credit stress rather than healthy demand. Paul Kedrosky then asks whether up-and-to-the-right usage charts actually prove the AI capex pays back, timely in the week of the Anthropic IPO (about 70-minute episode, free audio).",
-  "tags": [
-   "AI credit",
-   "compute",
-   "positioning"
-  ],
-  "paywall": false
- },
- {
-  "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
-  "source": "Epoch AI Data Insight (Josh You)",
-  "date": "2026-11-18",
-  "min": 4,
-  "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth",
-  "why": "Using Anthropic's S-1/A, Epoch shows compute and infrastructure spend rising from $433 million in 2023 to nearly $10 billion in Q3 2026 (about $40 billion annualized), versus roughly 3x a year at OpenAI. It also flags $447.5 billion of contracted compute commitments through 2030, only about another doubling from today's run rate, which suggests the 4x pace has to slow and matters for whoever is financing the capacity.",
+  "title": "The Individual Exception",
+  "source": "Stratechery (Ben Thompson; free article)",
+  "date": "2026-11-24",
+  "min": 13,
+  "url": "https://stratechery.com/2026/the-individual-exception/",
+  "why": "Thompson uses Jensen Huang's reinstatement, which added nearly $1 trillion to Nvidia's market cap, to argue that AI is shifting value from managerial bureaucracies to singular individuals, with market cap per employee at the top firms rising steeply since AT&T in the 1950s. It is a framework for why key-person value and headcount deflation may matter more for AI-era valuations than capex totals.",
   "tags": [
    "AI",
-   "compute",
-   "AI credit"
+   "corporate governance",
+   "valuation"
   ],
-  "paywall": false
+  "paywall": false,
+  "top": true
  },
  {
-  "title": "The tax code already has an AI policy: It pays companies to borrow",
-  "source": "Brookings, Urban-Brookings Tax Policy Center (Brosy, Patel)",
-  "date": "2026-11-17",
-  "min": 6,
-  "url": "https://www.brookings.edu/articles/the-tax-code-already-has-an-ai-policy-it-pays-companies-to-borrow/",
-  "why": "Full expensing plus interest deductibility puts the marginal effective tax rate on debt-financed computing equipment at -46% in 2026, up from -14% before OBBBA made expensing permanent, while hyperscaler long-term debt doubled from $232 billion to $486 billion between 2024 and mid-2026. It adds a policy angle to the AI-credit story: the subsidy tilts the buildout toward debt and off-balance-sheet vehicles like Meta's $27 billion Hyperion JV, and the interest cap likely does not bind for these firms.",
+  "title": "Owning the road, not paying the toll: how Europe can keep the returns from AI",
+  "source": "Bruegel Working Paper 32/2026 (Revoltella, Brasili, Feás)",
+  "date": "2026-11-24",
+  "min": 45,
+  "url": "https://www.bruegel.org/working-paper/owning-road-not-paying-toll-how-europe-can-keep-returns-ai",
+  "why": "Using Eurostat trade data, the paper maps the AI supply chain in four layers and finds the EU's AI-goods trade balance has swung to a €42 billion deficit, with data-centre infrastructure flipping from a €6 billion surplus in 2015 to an €18 billion deficit in 2025. The one bright spot is chipmaking equipment (ASML, Zeiss), where the surplus grew to €27 billion, which frames where European AI rents are likely to accrue.",
   "tags": [
-   "AI credit",
-   "fiscal",
-   "tax"
+   "AI",
+   "trade",
+   "Europe"
   ],
-  "paywall": false
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "When Is Monetary Policy Transmission Strongest?",
+  "source": "San Francisco Fed Economic Letter 2026-34 (Rami Najjar, Adam Shapiro)",
+  "date": "2026-11-23",
+  "min": 8,
+  "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/when-is-monetary-policy-transmission-strongest/",
+  "why": "Using high-frequency FOMC surprises, the authors find that policy shocks pass through to longer-horizon Treasury forward rates mainly when inflation is demand-driven, consistent with the Fed responding about four times more to demand than supply inflation. With supply-driven pressures back, Fed surprises should move the long end less than in past cycles.",
+  "tags": [
+   "rates",
+   "monetary policy"
+  ],
+  "paywall": false,
+  "top": true
  },
  {
   "title": "When productivity booms, do interest rates rise?",
@@ -52,6 +54,47 @@
    "rates",
    "AI",
    "productivity"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "The return of inflation: More bank profits, more central bank losses",
+  "source": "VoxEU/CEPR (Paul De Grauwe, Yuemei Ji)",
+  "date": "2026-11-20",
+  "min": 5,
+  "url": "https://cepr.org/voxeu/columns/return-inflation-more-bank-profits-more-central-bank-losses",
+  "why": "Paying interest on about €2 trillion of reserves means each ECB hike transfers income to banks, lifting euro-area bank ROE toward 10% while the Eurosystem ran €64-69 billion of losses; a 3-4% deposit rate could restore €60-80 billion a year in transfers. The authors argue raising unremunerated minimum reserves from 1% to 2% would cut the subsidy without changing operating procedures.",
+  "tags": [
+   "rates",
+   "banks",
+   "central banks"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "From power plays to price pressures: the energy transition and inflation",
+  "source": "Bank of England, Bank Underground (Shin, Kyriakopoulou, Perers Cook)",
+  "date": "2026-11-19",
+  "min": 8,
+  "url": "https://bankunderground.co.uk/2026/11/19/from-power-plays-to-price-pressures-the-energy-transition-and-inflation/",
+  "why": "BoE staff show electricity now outweighs gas and petrol in the UK CPI basket, and that while the spot gas-power price correlation has collapsed since 2022, the futures correlation is still near 1, so gas shocks still reach bills. They flag grid supply chains (transformers, cables, critical minerals) shared with data centres as a more persistent inflation source.",
+  "tags": [
+   "energy",
+   "inflation"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "This Is The Problem With AI's Most Bullish Chart",
+  "source": "Bloomberg Odd Lots (Stanley Lee, Paul Kedrosky)",
+  "date": "2026-11-19",
+  "min": 70,
+  "url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart",
+  "why": "Liquid Compute's Stanley Lee argues rising GPU rental rates partly reflect a financing squeeze, with mid-market neoclouds unable to get cheap term loans and pushed into a thin, volatile spot market, so higher rents can signal credit stress rather than healthy demand. Paul Kedrosky then asks whether up-and-to-the-right usage charts actually prove the AI capex pays back, timely in the week of the Anthropic IPO (about 70-minute episode, free audio).",
+  "tags": [
+   "AI credit",
+   "compute",
+   "positioning"
   ],
   "paywall": false
  },
@@ -70,6 +113,34 @@
   "paywall": false
  },
  {
+  "title": "How the Midterm Results Could Affect Data Center Growth and Electricity Prices: Q&A",
+  "source": "Columbia Center on Global Energy Policy (Douglas Arent, Vivek Shastry)",
+  "date": "2026-11-19",
+  "min": 7,
+  "url": "https://www.energypolicy.columbia.edu/how-the-midterm-results-could-affect-data-center-growth-and-electricity-prices-qa/",
+  "why": "Five states that flipped governors (Texas, Georgia, Ohio, Nevada, Iowa) hold about 142 GW of announced data-center demand, and the authors estimate pauses could hit up to 50 GW over two to three years, with 46 of 47 local ballot measures favoring limits. It also explains why 'pay their own way' tariffs miss the wholesale capacity and energy price channel, and that behind-the-meter gas costs $101-107/MWh versus an $86 industrial average.",
+  "tags": [
+   "AI capex",
+   "power",
+   "policy"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
+  "source": "Epoch AI Data Insight (Josh You)",
+  "date": "2026-11-18",
+  "min": 4,
+  "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth",
+  "why": "Using Anthropic's S-1/A, Epoch shows compute and infrastructure spend rising from $433 million in 2023 to nearly $10 billion in Q3 2026 (about $40 billion annualized), versus roughly 3x a year at OpenAI. It also flags $447.5 billion of contracted compute commitments through 2030, only about another doubling from today's run rate, which suggests the 4x pace has to slow and matters for whoever is financing the capacity.",
+  "tags": [
+   "AI",
+   "compute",
+   "AI credit"
+  ],
+  "paywall": false
+ },
+ {
   "title": "Financial Stability Review, November 2026",
   "source": "European Central Bank (Financial Stability Review)",
   "date": "2026-11-18",
@@ -80,6 +151,33 @@
    "financial stability",
    "AI credit",
    "non-banks"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Clean Investment Monitor: US Q3 2026 Update",
+  "source": "Rhodium Group / MIT CEEPR",
+  "date": "2026-11-18",
+  "min": 6,
+  "url": "https://rhg.com/research/clean-investment-monitor-us-q3-2026-update/",
+  "why": "US clean energy and transport investment fell to $59 billion in Q3, down 22% year over year and the fourth straight annual decline, with battery manufacturing at its lowest since 2022 and wind down 40%. Utility-scale solar and storage held at $18 billion, so the drop is concentrated in EVs, batteries and wind rather than grid-scale power.",
+  "tags": [
+   "energy",
+   "capex"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "The tax code already has an AI policy: It pays companies to borrow",
+  "source": "Brookings, Urban-Brookings Tax Policy Center (Brosy, Patel)",
+  "date": "2026-11-17",
+  "min": 6,
+  "url": "https://www.brookings.edu/articles/the-tax-code-already-has-an-ai-policy-it-pays-companies-to-borrow/",
+  "why": "Full expensing plus interest deductibility puts the marginal effective tax rate on debt-financed computing equipment at -46% in 2026, up from -14% before OBBBA made expensing permanent, while hyperscaler long-term debt doubled from $232 billion to $486 billion between 2024 and mid-2026. It adds a policy angle to the AI-credit story: the subsidy tilts the buildout toward debt and off-balance-sheet vehicles like Meta's $27 billion Hyperion JV, and the interest cap likely does not bind for these firms.",
+  "tags": [
+   "AI credit",
+   "fiscal",
+   "tax"
   ],
   "paywall": false
  },
@@ -108,20 +206,6 @@
    "financial stability",
    "banks",
    "Fed facilities"
-  ],
-  "paywall": false
- },
- {
-  "title": "Wages Are Cooling, While Supercore Inflation Isn't",
-  "source": "Richmond Fed Macro Minute (John O'Trakoun)",
-  "date": "2026-11-17",
-  "min": 4,
-  "url": "https://www.richmondfed.org/research/national_economy/macro_minute/2026/wages_are_cooling_while_supercore_inflation_isnt",
-  "why": "The 0.88 correlation between services wage growth and supercore PCE inflation from 2015 to 2024 has broken down, and O'Trakoun traces the gap to nonlabor inputs: PPI services inputs for services producers are up 5.5% year over year versus a 2.1% average in the 2010s. Because those costs are about as volatile as food prices, he argues the Fed may be able to look through elevated supercore readings, a useful lens for the rates path.",
-  "tags": [
-   "inflation",
-   "rates",
-   "macro"
   ],
   "paywall": false
  },
@@ -182,20 +266,6 @@
   "paywall": false
  },
  {
-  "title": "The Elasticity Business",
-  "source": "The Diff (Byrne Hobart; free issue)",
-  "date": "2026-11-16",
-  "min": 15,
-  "url": "https://www.thediff.co/archive/the-elasticity-business/",
-  "why": "Hobart argues that supply and demand elasticity is not a constant, and that some of the best businesses, such as shale frackers with fast decline curves and cloud providers selling spot versus committed capacity, profit by adding elasticity to cyclical markets. The same free issue has a short section on Nvidia governance after Jensen Huang's exit, which ties the framework to the current compute cycle.",
-  "tags": [
-   "industry structure",
-   "AI",
-   "energy"
-  ],
-  "paywall": false
- },
- {
   "title": "Decapit-ai-tion",
   "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
   "date": "2026-11-14",
@@ -206,105 +276,6 @@
    "AI",
    "positioning",
    "rates"
-  ],
-  "paywall": false
- },
- {
-  "title": "Macroeconomic effects of rare earth supply disruptions",
-  "source": "VoxEU/CEPR (Bogmans, Jerez Osses, Miranda-Pinto, Natal; IMF staff)",
-  "date": "2026-11-14",
-  "min": 7,
-  "url": "https://cepr.org/voxeu/columns/macroeconomic-effects-rare-earth-supply-disruptions",
-  "why": "IMF staff build a production-network model with a rare-earth-augmented input-output table and find an 80 percent cut in rare earth imports would lower GDP by 1.8 percent in Japan, 1.5 percent in the US and 1.3 percent in Germany in the short run, with US auto output down about 9 percent. The key point is that network linkages make the US and Japan more exposed than simple value-added-at-risk measures suggest, and that the danger is concentrated in the first year before substitution kicks in.",
-  "tags": [
-   "supply chains",
-   "commodities",
-   "geopolitics"
-  ],
-  "paywall": false
- },
- {
-  "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
-  "source": "Bridgewater Associates (Hudson Attar, Arham Habib)",
-  "date": "2026-11-13",
-  "min": 10,
-  "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
-  "why": "Bridgewater says it is managing money on a one-in-three chance of an economically destabilizing cyberattack within a year, citing its own incident tracker: zero-day exploits have roughly doubled since cyber-capable open-source models shipped and time from disclosure to exploitation has fallen from a month to 11 days. A rare buy-side attempt to quantify AI-driven cyber risk as a market tail, with data on why defenders are losing the patching race.",
-  "tags": [
-   "AI",
-   "tail risk",
-   "cyber"
-  ],
-  "paywall": false
- },
- {
-  "title": "A Banker's Guide to Anthropic",
-  "source": "Net Interest (Marc Rubinstein)",
-  "date": "2026-11-13",
-  "min": 8,
-  "url": "https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
-  "why": "Rubinstein treats the Anthropic IPO, due this week, as a credit event: a listing opens the door to an investment-grade rating and the $13 trillion IG bond market, and its new $15 billion revolver drops its collateral once two agencies call it investment grade, while Broadcom has stood behind more than $70 billion of debt for hardware leased to Anthropic. The free preview lays out the rating fight (KBRA at BB+, Blackstone expecting BB); the paid section covers how roughly $1 trillion of commitments get funded and who is lending (read time estimated).",
-  "tags": [
-   "AI credit",
-   "credit ratings",
-   "IPO"
-  ],
-  "paywall": true
- },
- {
-  "title": "The return of inflation: More bank profits, more central bank losses",
-  "source": "VoxEU/CEPR (Paul De Grauwe, Yuemei Ji)",
-  "date": "2026-11-20",
-  "min": 5,
-  "url": "https://cepr.org/voxeu/columns/return-inflation-more-bank-profits-more-central-bank-losses",
-  "why": "Paying interest on about €2 trillion of reserves means each ECB hike transfers income to banks, lifting euro-area bank ROE toward 10% while the Eurosystem ran €64-69 billion of losses; a 3-4% deposit rate could restore €60-80 billion a year in transfers. The authors argue raising unremunerated minimum reserves from 1% to 2% would cut the subsidy without changing operating procedures.",
-  "tags": [
-   "rates",
-   "banks",
-   "central banks"
-  ],
-  "paywall": false,
-  "top": true
- },
- {
-  "title": "How the Midterm Results Could Affect Data Center Growth and Electricity Prices: Q&A",
-  "source": "Columbia Center on Global Energy Policy (Douglas Arent, Vivek Shastry)",
-  "date": "2026-11-19",
-  "min": 7,
-  "url": "https://www.energypolicy.columbia.edu/how-the-midterm-results-could-affect-data-center-growth-and-electricity-prices-qa/",
-  "why": "Five states that flipped governors (Texas, Georgia, Ohio, Nevada, Iowa) hold about 142 GW of announced data-center demand, and the authors estimate pauses could hit up to 50 GW over two to three years, with 46 of 47 local ballot measures favoring limits. It also explains why 'pay their own way' tariffs miss the wholesale capacity and energy price channel, and that behind-the-meter gas costs $101-107/MWh versus an $86 industrial average.",
-  "tags": [
-   "AI capex",
-   "power",
-   "policy"
-  ],
-  "paywall": false,
-  "top": true
- },
- {
-  "title": "Clean Investment Monitor: US Q3 2026 Update",
-  "source": "Rhodium Group / MIT CEEPR",
-  "date": "2026-11-18",
-  "min": 6,
-  "url": "https://rhg.com/research/clean-investment-monitor-us-q3-2026-update/",
-  "why": "US clean energy and transport investment fell to $59 billion in Q3, down 22% year over year and the fourth straight annual decline, with battery manufacturing at its lowest since 2022 and wind down 40%. Utility-scale solar and storage held at $18 billion, so the drop is concentrated in EVs, batteries and wind rather than grid-scale power.",
-  "tags": [
-   "energy",
-   "capex"
-  ],
-  "paywall": false,
-  "top": true
- },
- {
-  "title": "Can Workers Predict Job Finding and Job Loss?",
-  "source": "NY Fed Liberty Street Economics (Audoly, Chen, Guerin, Schuh)",
-  "date": "2026-11-16",
-  "min": 8,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/",
-  "why": "Matching NY Fed survey expectations to realized CPS outcomes, the authors find newly unemployed workers have underestimated their job-finding odds since COVID, even as realized finding rates averaged 58.8% from 2022, with the gap driven by younger and non-college workers. Expected job-loss odds run about double realized layoffs, partly because workers miss how sharply layoff risk falls with tenure, which matters when reading sentiment-based labor signals.",
-  "tags": [
-   "labor",
-   "macro"
   ],
   "paywall": false
  }

@@ -637,7 +637,7 @@
   "source": "Net Interest (Marc Rubinstein)",
   "date": "2026-11-13",
   "listedOn": "2026-11-15",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.kansascityfed.org/research/economic-bulletin/data-centers-are-likely-to-benefit-some-tenth-district-economies-but-the-path-for-construction-looks-uncertain/",
@@ -653,7 +653,7 @@
   "source": "VoxEU/CEPR (Bogmans, Jerez Osses, Miranda-Pinto, Natal; IMF staff)",
   "date": "2026-11-14",
   "listedOn": "2026-11-15",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://epoch.ai/publications/inference-performance-index",
@@ -733,7 +733,7 @@
   "source": "The Diff (Byrne Hobart; free issue)",
   "date": "2026-11-16",
   "listedOn": "2026-11-17",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.dallasfed.org/research/papers/2026/wp2638",
@@ -805,7 +805,7 @@
   "source": "Bridgewater Associates (Hudson Attar, Arham Habib)",
   "date": "2026-11-13",
   "listedOn": "2026-11-19",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://epoch.ai/data-insights/agentic-inference-capacity-growth",
@@ -821,7 +821,7 @@
   "source": "Richmond Fed Macro Minute (John O'Trakoun)",
   "date": "2026-11-17",
   "listedOn": "2026-11-19",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.dallasfed.org/research/economics/2026/1119",
@@ -901,7 +901,7 @@
   "source": "VoxEU/CEPR (Paul De Grauwe, Yuemei Ji)",
   "date": "2026-11-20",
   "listedOn": "2026-11-23",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.energypolicy.columbia.edu/how-the-midterm-results-could-affect-data-center-growth-and-electricity-prices-qa/",
@@ -909,7 +909,7 @@
   "source": "Columbia Center on Global Energy Policy (Douglas Arent, Vivek Shastry)",
   "date": "2026-11-19",
   "listedOn": "2026-11-23",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://rhg.com/research/clean-investment-monitor-us-q3-2026-update/",
@@ -917,7 +917,7 @@
   "source": "Rhodium Group / MIT CEEPR",
   "date": "2026-11-18",
   "listedOn": "2026-11-23",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/",
@@ -925,6 +925,38 @@
   "source": "NY Fed Liberty Street Economics (Audoly, Chen, Guerin, Schuh)",
   "date": "2026-11-16",
   "listedOn": "2026-11-23",
+  "status": "expired"
+ },
+ {
+  "url": "https://stratechery.com/2026/the-individual-exception/",
+  "title": "The Individual Exception",
+  "source": "Stratechery (Ben Thompson; free article)",
+  "date": "2026-11-24",
+  "listedOn": "2026-11-24",
+  "status": "top"
+ },
+ {
+  "url": "https://www.bruegel.org/working-paper/owning-road-not-paying-toll-how-europe-can-keep-returns-ai",
+  "title": "Owning the road, not paying the toll: how Europe can keep the returns from AI",
+  "source": "Bruegel Working Paper 32/2026 (Revoltella, Brasili, Feás)",
+  "date": "2026-11-24",
+  "listedOn": "2026-11-24",
+  "status": "top"
+ },
+ {
+  "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/when-is-monetary-policy-transmission-strongest/",
+  "title": "When Is Monetary Policy Transmission Strongest?",
+  "source": "San Francisco Fed Economic Letter 2026-34 (Rami Najjar, Adam Shapiro)",
+  "date": "2026-11-23",
+  "listedOn": "2026-11-24",
+  "status": "top"
+ },
+ {
+  "url": "https://bankunderground.co.uk/2026/11/19/from-power-plays-to-price-pressures-the-energy-transition-and-inflation/",
+  "title": "From power plays to price pressures: the energy transition and inflation",
+  "source": "Bank of England, Bank Underground (Shin, Kyriakopoulou, Perers Cook)",
+  "date": "2026-11-19",
+  "listedOn": "2026-11-24",
   "status": "listed"
  }
 ]
