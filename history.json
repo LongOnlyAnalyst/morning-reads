@@ -717,7 +717,7 @@
   "source": "San Francisco Fed Economic Letter 2026-33 (Kevin Lansing, Federico C. Nucera)",
   "date": "2026-11-16",
   "listedOn": "2026-11-17",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://pitchbook.com/news/articles/non-accrual-data-suggest-lmes-may-be-masking-bdc-stress",
@@ -749,7 +749,7 @@
   "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
   "date": "2026-11-17",
   "listedOn": "2026-11-18",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.pimco.com/us/en/insights/the-credit-market-lens-in-a-slower-ai-buildout-who-captures-the-scarcity-premium",
@@ -853,7 +853,7 @@
   "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
   "date": "2026-11-14",
   "listedOn": "2026-11-20",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm",
@@ -869,7 +869,7 @@
   "source": "Bloomberg Odd Lots (Stanley Lee, Paul Kedrosky)",
   "date": "2026-11-19",
   "listedOn": "2026-11-22",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth",
@@ -933,7 +933,7 @@
   "source": "Stratechery (Ben Thompson; free article)",
   "date": "2026-11-24",
   "listedOn": "2026-11-24",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.bruegel.org/working-paper/owning-road-not-paying-toll-how-europe-can-keep-returns-ai",
@@ -941,7 +941,7 @@
   "source": "Bruegel Working Paper 32/2026 (Revoltella, Brasili, Feás)",
   "date": "2026-11-24",
   "listedOn": "2026-11-24",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/when-is-monetary-policy-transmission-strongest/",
@@ -949,7 +949,7 @@
   "source": "San Francisco Fed Economic Letter 2026-34 (Rami Najjar, Adam Shapiro)",
   "date": "2026-11-23",
   "listedOn": "2026-11-24",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://bankunderground.co.uk/2026/11/19/from-power-plays-to-price-pressures-the-energy-transition-and-inflation/",
@@ -958,5 +958,37 @@
   "date": "2026-11-19",
   "listedOn": "2026-11-24",
   "status": "listed"
+ },
+ {
+  "url": "https://www.bis.org/publications/working-paper-1398-when-unthinkable-happens-perceptions-monetary-policy-tail-events",
+  "title": "When the unthinkable happens: perceptions of monetary policy in tail events",
+  "source": "BIS Working Paper 1398 (Baumeister, De Fiore, Xiao)",
+  "date": "2026-11-24",
+  "listedOn": "2026-11-25",
+  "status": "top"
+ },
+ {
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/as-corporate-bond-markets-grow-is-bank-lending-shrinking/",
+  "title": "As Corporate Bond Markets Grow, Is Bank Lending Shrinking?",
+  "source": "NY Fed Liberty Street Economics (Boyarchenko, Elias)",
+  "date": "2026-11-24",
+  "listedOn": "2026-11-25",
+  "status": "top"
+ },
+ {
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/why-has-global-trade-remained-resilient-despite-high-trade-policy-uncertainty-20261124.html",
+  "title": "Why Has Global Trade Remained Resilient Despite High Trade Policy Uncertainty?",
+  "source": "Federal Reserve Board FEDS Notes (Londono, Ma, Qin)",
+  "date": "2026-11-24",
+  "listedOn": "2026-11-25",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/from-agentic-to-agency-risks/",
+  "title": "From Agentic to Agency Risks",
+  "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
+  "date": "2026-11-21",
+  "listedOn": "2026-11-25",
+  "status": "top"
  }
 ]

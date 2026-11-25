@@ -1,5 +1,49 @@
 [
  {
+  "title": "When the unthinkable happens: perceptions of monetary policy in tail events",
+  "source": "BIS Working Paper 1398 (Baumeister, De Fiore, Xiao)",
+  "date": "2026-11-24",
+  "min": 3,
+  "url": "https://www.bis.org/publications/working-paper-1398-when-unthinkable-happens-perceptions-monetary-policy-tail-events",
+  "why": "The paper shows that after large, rare oil supply shocks, households and firms learning in real time underestimate how hard the central bank responds to inflation, which lifts inflation expectations and produces persistent above-target inflation plus a temporary output overshoot; small shocks barely move beliefs. US nonlinear VAR evidence backs the model, which bears directly on how markets should read a hawkish Fed after this year's Hormuz energy shock.",
+  "tags": [
+   "monetary policy",
+   "inflation",
+   "rates"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "As Corporate Bond Markets Grow, Is Bank Lending Shrinking?",
+  "source": "NY Fed Liberty Street Economics (Boyarchenko, Elias)",
+  "date": "2026-11-24",
+  "min": 9,
+  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/as-corporate-bond-markets-grow-is-bank-lending-shrinking/",
+  "why": "Boyarchenko and Elias split corporate bond market growth into firms borrowing more overall versus shifting from banks to bonds, finding that 1996-2019 US growth was mostly credit deepening (total nonfinancial corporate credit rose from 41% to 52% of GDP while the bond share only went from 57% to 63%), unlike in other advanced economies. The distinction tells you whether bond-market or bank lending conditions now govern corporate funding, which matters as private credit and bank pullback reshape the credit mix.",
+  "tags": [
+   "credit",
+   "market structure",
+   "banks"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Why Has Global Trade Remained Resilient Despite High Trade Policy Uncertainty?",
+  "source": "Federal Reserve Board FEDS Notes (Londono, Ma, Qin)",
+  "date": "2026-11-24",
+  "min": 14,
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/why-has-global-trade-remained-resilient-despite-high-trade-policy-uncertainty-20261124.html",
+  "why": "Using 26 countries back to 1960, the note separates news-based trade policy uncertainty from data-based trade flow uncertainty and finds tariff headlines only hurt trade when underlying flows are also hard to predict, which explains why trade kept growing through 2025-26. Ship-tracking data show low-flow-uncertainty countries adjusted after the March 2026 Hormuz disruption by rerouting and front-loading, a useful filter for which trade shocks deserve a macro reaction.",
+  "tags": [
+   "trade",
+   "macro",
+   "geopolitics"
+  ],
+  "paywall": false
+ },
+ {
   "title": "The Individual Exception",
   "source": "Stratechery (Ben Thompson; free article)",
   "date": "2026-11-24",
@@ -11,8 +55,7 @@
    "corporate governance",
    "valuation"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Owning the road, not paying the toll: how Europe can keep the returns from AI",
@@ -26,8 +69,7 @@
    "trade",
    "Europe"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "When Is Monetary Policy Transmission Strongest?",
@@ -39,6 +81,20 @@
   "tags": [
    "rates",
    "monetary policy"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "From Agentic to Agency Risks",
+  "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
+  "date": "2026-11-21",
+  "min": 6,
+  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/from-agentic-to-agency-risks/",
+  "why": "Shah argues the US is entering a less forgiving phase as fiscal support fades and the Fed leans toward hikes, and uses Ramp data (token spend down 6.3% from its peak while token prices fell 21% in six weeks, with 1% of businesses making up 80% of OpenAI/Anthropic spend) to question AI revenue extrapolation. He adds that political and cyber risk to AI is underpriced and stays defensive on the AI complex, expecting a flatter curve and more pressure on risk assets.",
+  "tags": [
+   "AI",
+   "macro",
+   "positioning"
   ],
   "paywall": false,
   "top": true
@@ -81,20 +137,6 @@
   "tags": [
    "energy",
    "inflation"
-  ],
-  "paywall": false
- },
- {
-  "title": "This Is The Problem With AI's Most Bullish Chart",
-  "source": "Bloomberg Odd Lots (Stanley Lee, Paul Kedrosky)",
-  "date": "2026-11-19",
-  "min": 70,
-  "url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart",
-  "why": "Liquid Compute's Stanley Lee argues rising GPU rental rates partly reflect a financing squeeze, with mid-market neoclouds unable to get cheap term loans and pushed into a thin, volatile spot market, so higher rents can signal credit stress rather than healthy demand. Paul Kedrosky then asks whether up-and-to-the-right usage charts actually prove the AI capex pays back, timely in the week of the Anthropic IPO (about 70-minute episode, free audio).",
-  "tags": [
-   "AI credit",
-   "compute",
-   "positioning"
   ],
   "paywall": false
  },
@@ -210,20 +252,6 @@
   "paywall": false
  },
  {
-  "title": "The Agents Will Trade the Bonds",
-  "source": "Matt Levine, Money Stuff (Bloomberg Opinion)",
-  "date": "2026-11-17",
-  "min": 15,
-  "url": "https://www.bloomberg.com/opinion/newsletters/2026-11-17/the-agents-will-trade-the-bonds",
-  "why": "Levine uses the BNY and Microsoft pilot, in which their AI agents haggled over the price of a Treasury bill under BNY's Agentic Negotiation Protocol while human traders approved and booked the trade, to ask what bond-market intermediation looks like when bots do the search and back-and-forth inside human-set limits. It is a short, sharp read on where dealer and buy-side market structure could go; only the opening is readable without a subscription.",
-  "tags": [
-   "market structure",
-   "AI",
-   "rates"
-  ],
-  "paywall": true
- },
- {
   "title": "Clouds of Credit: Mapping the Financial Web Behind AI Compute",
   "source": "NBER Working Paper 36032 (Van Nieuwerburgh, Su)",
   "date": "2026-11-16",
@@ -248,34 +276,6 @@
    "AI credit",
    "credit",
    "flows"
-  ],
-  "paywall": false
- },
- {
-  "title": "Connecting Stock Market to Labor Market During the AI Boom",
-  "source": "San Francisco Fed Economic Letter 2026-33 (Kevin Lansing, Federico C. Nucera)",
-  "date": "2026-11-16",
-  "min": 9,
-  "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/connecting-stock-market-to-labor-market-during-ai-boom/",
-  "why": "With the CAPE ratio at 40.5 in the third quarter, second only to the 2000 peak, the authors regress it on r-star, potential growth, the noncyclical unemployment rate and macro uncertainty and explain 89 percent of its variance since 1961. The noncyclical unemployment rate does most of the work and accounts for most of the post-2022 AI run-up, so a model without it implies much lower valuations, which is a useful frame for judging how fragile current multiples are.",
-  "tags": [
-   "AI",
-   "valuations",
-   "macro"
-  ],
-  "paywall": false
- },
- {
-  "title": "Decapit-ai-tion",
-  "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
-  "date": "2026-11-14",
-  "min": 5,
-  "url": "https://www.citadelsecurities.com/news-and-insights/macro-thoughts/decapit-ai-tion/",
-  "why": "Shah separates demand for AI from the economics of producing it: CBRE data show North American data-centre supply up 33.7% with vacancy at 1.4% and 80% of new capacity preleased, which favors hyperscalers with operating compute as permitting and power tighten. He also weighs what Jensen Huang's exit means for NVIDIA's risk appetite and customer financing, and argues hot Q3 data keep a December hike live unless AI capex stalls.",
-  "tags": [
-   "AI",
-   "positioning",
-   "rates"
   ],
   "paywall": false
  }
