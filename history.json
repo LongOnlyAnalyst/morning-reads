@@ -757,7 +757,7 @@
   "source": "PIMCO (Lotfi Karoui, The Credit Market Lens)",
   "date": "2026-11-16",
   "listedOn": "2026-11-18",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.bny.com/corporate/global/en/solutions/platforms/execution-services/iflow/special-reports/who-owns-the-risk-in-credit.html",
@@ -837,7 +837,7 @@
   "source": "PIIE RealTime Economics (Jason Furman)",
   "date": "2026-11-17",
   "listedOn": "2026-11-20",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://www.nber.org/papers/w36032",
@@ -893,7 +893,7 @@
   "source": "Federal Reserve Board FEDS Notes (Lepetit, Miller)",
   "date": "2026-11-20",
   "listedOn": "2026-11-22",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://cepr.org/voxeu/columns/return-inflation-more-bank-profits-more-central-bank-losses",
@@ -909,7 +909,7 @@
   "source": "Columbia Center on Global Energy Policy (Douglas Arent, Vivek Shastry)",
   "date": "2026-11-19",
   "listedOn": "2026-11-23",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://rhg.com/research/clean-investment-monitor-us-q3-2026-update/",
@@ -917,7 +917,7 @@
   "source": "Rhodium Group / MIT CEEPR",
   "date": "2026-11-18",
   "listedOn": "2026-11-23",
-  "status": "listed"
+  "status": "expired"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/",
@@ -965,7 +965,7 @@
   "source": "BIS Working Paper 1398 (Baumeister, De Fiore, Xiao)",
   "date": "2026-11-24",
   "listedOn": "2026-11-25",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/as-corporate-bond-markets-grow-is-bank-lending-shrinking/",
@@ -973,7 +973,7 @@
   "source": "NY Fed Liberty Street Economics (Boyarchenko, Elias)",
   "date": "2026-11-24",
   "listedOn": "2026-11-25",
-  "status": "top"
+  "status": "listed"
  },
  {
   "url": "https://www.federalreserve.gov/econres/notes/feds-notes/why-has-global-trade-remained-resilient-despite-high-trade-policy-uncertainty-20261124.html",
@@ -989,6 +989,46 @@
   "source": "Citadel Securities Some Macro Thoughts (Nohshad Shah)",
   "date": "2026-11-21",
   "listedOn": "2026-11-25",
+  "status": "listed"
+ },
+ {
+  "url": "https://bankunderground.co.uk/2026/11/26/beyond-banks-what-non-banks-do-and-dont-do-to-monetary-policy/",
+  "title": "Beyond banks: what non-banks do (and don't do) to monetary policy",
+  "source": "Bank of England, Bank Underground (Bandera, Bluwstein, Kumhof, Salgado-Moreno, Stevens)",
+  "date": "2026-11-26",
+  "listedOn": "2026-11-26",
   "status": "top"
+ },
+ {
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-surprising-stability-of-hedge-fund-repo-haircuts-20261125.html",
+  "title": "The Surprising Stability of Hedge Fund Repo Haircuts",
+  "source": "Federal Reserve Board FEDS Notes (Hempel, Kahn, Kurta, Neamtu)",
+  "date": "2026-11-25",
+  "listedOn": "2026-11-26",
+  "status": "top"
+ },
+ {
+  "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261124~6486644873.en.html",
+  "title": "Looking beyond the baseline: how scenario synthesis helps assess risks",
+  "source": "ECB Blog (Bańbura, Giannone, Durero, Sun, Zimic)",
+  "date": "2026-11-24",
+  "listedOn": "2026-11-26",
+  "status": "top"
+ },
+ {
+  "url": "https://www.netinterest.co/p/supply-and-demand",
+  "title": "Finding Equilibrium Inside the AI Economy",
+  "source": "Net Interest (Marc Rubinstein; paid post, free preview)",
+  "date": "2026-11-23",
+  "listedOn": "2026-11-26",
+  "status": "listed"
+ },
+ {
+  "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-38",
+  "title": "Relative Price Shocks and Inflation: The Role of Monetary Policy",
+  "source": "Richmond Fed Economic Brief 26-38 (Alexander L. Wolman)",
+  "date": "2026-11-18",
+  "listedOn": "2026-11-26",
+  "status": "listed"
  }
 ]

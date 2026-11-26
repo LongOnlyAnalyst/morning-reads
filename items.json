@@ -1,5 +1,77 @@
 [
  {
+  "title": "Beyond banks: what non-banks do (and don't do) to monetary policy",
+  "source": "Bank of England, Bank Underground (Bandera, Bluwstein, Kumhof, Salgado-Moreno, Stevens)",
+  "date": "2026-11-26",
+  "min": 7,
+  "url": "https://bankunderground.co.uk/2026/11/26/beyond-banks-what-non-banks-do-and-dont-do-to-monetary-policy/",
+  "why": "A DSGE model estimated on UK data (only 40% of UK corporate debt is now bank lending, down from 60% in 2008) finds that policy-rate transmission is essentially unchanged as non-banks grow, because banks pass rate moves to NBFIs through wholesale funding and NBFIs pass them on through bond markets. QE is different: its effect depends on why non-banks grew, with the output impact of QE 15.4% larger under a firm-driven NBFI expansion, which matters for how central banks read balance-sheet policy as private credit and funds take share.",
+  "tags": [
+   "monetary policy",
+   "non-banks",
+   "QE"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "The Surprising Stability of Hedge Fund Repo Haircuts",
+  "source": "Federal Reserve Board FEDS Notes (Hempel, Kahn, Kurta, Neamtu)",
+  "date": "2026-11-25",
+  "min": 17,
+  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-surprising-stability-of-hedge-fund-repo-haircuts-20261125.html",
+  "why": "Using a new transaction-level series of dealer-to-hedge-fund haircuts in sponsored Treasury repo (November 2019 to September 2026), the authors find that central clearing has not changed haircuts and that haircuts are not procyclical, even under stress. That cuts against a core rationale for the SEC clearing mandate and points stress-amplification worries toward futures margins and dealer intermediation capacity instead, which is directly relevant to basis-trade risk.",
+  "tags": [
+   "market structure",
+   "repo",
+   "hedge funds"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Looking beyond the baseline: how scenario synthesis helps assess risks",
+  "source": "ECB Blog (Bańbura, Giannone, Durero, Sun, Zimic)",
+  "date": "2026-11-24",
+  "min": 9,
+  "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261124~6486644873.en.html",
+  "why": "ECB staff show how they weight narrative scenarios (such as the June 2026 Middle East conflict scenarios) against market option-implied, forecaster, and staff risk distributions, treating the weights as relevance to the risk picture, not as probabilities. The worked example shows market-implied euro area inflation risk is far more dispersed and skewed higher than the Survey of Professional Forecasters, a useful window into how the Governing Council reads tail risk around its baseline.",
+  "tags": [
+   "monetary policy",
+   "inflation",
+   "risk"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Finding Equilibrium Inside the AI Economy",
+  "source": "Net Interest (Marc Rubinstein; paid post, free preview)",
+  "date": "2026-11-23",
+  "min": 10,
+  "url": "https://www.netinterest.co/p/supply-and-demand",
+  "why": "From the TomorrowX conference, Rubinstein sets enterprise AI usage claims against Ramp data showing token volume up 27% in four weeks but spending up only 8%, and estimates the US data center buildout (about $9 trillion through 2032) needs roughly $2.7 to $3.5 trillion of annual revenue versus about $108 billion annualized at Anthropic and OpenAI. The paid section argues that lenders rather than demand are now setting the pace of the buildout; the free preview carries the core numbers.",
+  "tags": [
+   "AI credit",
+   "AI capex"
+  ],
+  "paywall": true
+ },
+ {
+  "title": "Relative Price Shocks and Inflation: The Role of Monetary Policy",
+  "source": "Richmond Fed Economic Brief 26-38 (Alexander L. Wolman)",
+  "date": "2026-11-18",
+  "min": 9,
+  "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-38",
+  "why": "Using an estimated 15-sector New Keynesian model, Wolman shows that whether a relative price shock, such as AI demand pushing up prices of consumer-electronics components, raises overall inflation depends on how the Fed responds, not on the shock itself. It is a clean framework for judging claims that AI or energy shocks are inflationary, because any such claim carries an implicit assumption about the policy reaction.",
+  "tags": [
+   "inflation",
+   "monetary policy",
+   "AI"
+  ],
+  "paywall": false
+ },
+ {
   "title": "When the unthinkable happens: perceptions of monetary policy in tail events",
   "source": "BIS Working Paper 1398 (Baumeister, De Fiore, Xiao)",
   "date": "2026-11-24",
@@ -11,8 +83,7 @@
    "inflation",
    "rates"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "As Corporate Bond Markets Grow, Is Bank Lending Shrinking?",
@@ -26,8 +97,7 @@
    "market structure",
    "banks"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Why Has Global Trade Remained Resilient Despite High Trade Policy Uncertainty?",
@@ -96,21 +166,6 @@
    "macro",
    "positioning"
   ],
-  "paywall": false,
-  "top": true
- },
- {
-  "title": "When productivity booms, do interest rates rise?",
-  "source": "Federal Reserve Board FEDS Notes (Lepetit, Miller)",
-  "date": "2026-11-20",
-  "min": 12,
-  "url": "https://www.federalreserve.gov/econres/notes/feds-notes/when-productivity-booms-do-interest-rates-rise-20261120.html",
-  "why": "Against textbook theory, a VAR with anticipated TFP-growth shocks finds that expected productivity booms lower both the 10-year Treasury yield and a common r* proxy, mainly because the term premium falls by more than short rates rise. Applied to the post-2022 period, the authors conclude AI-driven productivity optimism cannot explain the surge in long yields, pushing the explanation toward other factors such as term premium and fiscal supply.",
-  "tags": [
-   "rates",
-   "AI",
-   "productivity"
-  ],
   "paywall": false
  },
  {
@@ -155,20 +210,6 @@
   "paywall": false
  },
  {
-  "title": "How the Midterm Results Could Affect Data Center Growth and Electricity Prices: Q&A",
-  "source": "Columbia Center on Global Energy Policy (Douglas Arent, Vivek Shastry)",
-  "date": "2026-11-19",
-  "min": 7,
-  "url": "https://www.energypolicy.columbia.edu/how-the-midterm-results-could-affect-data-center-growth-and-electricity-prices-qa/",
-  "why": "Five states that flipped governors (Texas, Georgia, Ohio, Nevada, Iowa) hold about 142 GW of announced data-center demand, and the authors estimate pauses could hit up to 50 GW over two to three years, with 46 of 47 local ballot measures favoring limits. It also explains why 'pay their own way' tariffs miss the wholesale capacity and energy price channel, and that behind-the-meter gas costs $101-107/MWh versus an $86 industrial average.",
-  "tags": [
-   "AI capex",
-   "power",
-   "policy"
-  ],
-  "paywall": false
- },
- {
   "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
   "source": "Epoch AI Data Insight (Josh You)",
   "date": "2026-11-18",
@@ -197,19 +238,6 @@
   "paywall": false
  },
  {
-  "title": "Clean Investment Monitor: US Q3 2026 Update",
-  "source": "Rhodium Group / MIT CEEPR",
-  "date": "2026-11-18",
-  "min": 6,
-  "url": "https://rhg.com/research/clean-investment-monitor-us-q3-2026-update/",
-  "why": "US clean energy and transport investment fell to $59 billion in Q3, down 22% year over year and the fourth straight annual decline, with battery manufacturing at its lowest since 2022 and wind down 40%. Utility-scale solar and storage held at $18 billion, so the drop is concentrated in EVs, batteries and wind rather than grid-scale power.",
-  "tags": [
-   "energy",
-   "capex"
-  ],
-  "paywall": false
- },
- {
   "title": "The tax code already has an AI policy: It pays companies to borrow",
   "source": "Brookings, Urban-Brookings Tax Policy Center (Brosy, Patel)",
   "date": "2026-11-17",
@@ -220,20 +248,6 @@
    "AI credit",
    "fiscal",
    "tax"
-  ],
-  "paywall": false
- },
- {
-  "title": "Consumers Can Handle a Stock Crash",
-  "source": "PIIE RealTime Economics (Jason Furman)",
-  "date": "2026-11-17",
-  "min": 13,
-  "url": "https://www.piie.com/blogs/realtime-economics/2026/consumers-can-handle-stock-crash",
-  "why": "Third in Furman's series on what an AI-bubble burst would do to the economy: households have spent only about 1 cent per dollar of recent stock gains, so a 25% market fall would cut consumption about 0.8% and GDP growth about 0.6 point over a year in his FRB/US runs. He also shows 2001 was the least consumer-driven postwar recession, which argues the wealth-effect channel is smaller than the market narrative assumes.",
-  "tags": [
-   "AI bubble",
-   "macro",
-   "financial stability"
   ],
   "paywall": false
  },
@@ -262,20 +276,6 @@
    "AI credit",
    "financial stability",
    "private credit"
-  ],
-  "paywall": false
- },
- {
-  "title": "The Credit Market Lens: In a Slower AI Buildout, Who Captures the Scarcity Premium?",
-  "source": "PIMCO (Lotfi Karoui, The Credit Market Lens)",
-  "date": "2026-11-16",
-  "min": 6,
-  "url": "https://www.pimco.com/us/en/insights/the-credit-market-lens-in-a-slower-ai-buildout-who-captures-the-scarcity-premium",
-  "why": "Karoui argues post-midterm permitting friction (about 45% of planned US data center capacity sits in states where restrictions could emerge, Texas a quarter of it) stretches the AI buildout rather than shrinking it, which slows issuance and should help existing hyperscaler-tenanted data center bonds tighten versus their tenants' senior debt. For leveraged infrastructure providers he says the scarcity premium may be outweighed by recontracting risk and GPU residual values, a useful split for anyone sizing AI credit exposure.",
-  "tags": [
-   "AI credit",
-   "credit",
-   "flows"
   ],
   "paywall": false
  }
