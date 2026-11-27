@@ -11,8 +11,7 @@
    "non-banks",
    "QE"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "The Surprising Stability of Hedge Fund Repo Haircuts",
@@ -26,8 +25,7 @@
    "repo",
    "hedge funds"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Looking beyond the baseline: how scenario synthesis helps assess risks",
@@ -41,8 +39,7 @@
    "inflation",
    "risk"
   ],
-  "paywall": false,
-  "top": true
+  "paywall": false
  },
  {
   "title": "Finding Equilibrium Inside the AI Economy",
@@ -56,20 +53,6 @@
    "AI capex"
   ],
   "paywall": true
- },
- {
-  "title": "Relative Price Shocks and Inflation: The Role of Monetary Policy",
-  "source": "Richmond Fed Economic Brief 26-38 (Alexander L. Wolman)",
-  "date": "2026-11-18",
-  "min": 9,
-  "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-38",
-  "why": "Using an estimated 15-sector New Keynesian model, Wolman shows that whether a relative price shock, such as AI demand pushing up prices of consumer-electronics components, raises overall inflation depends on how the Fed responds, not on the shock itself. It is a clean framework for judging claims that AI or energy shocks are inflationary, because any such claim carries an implicit assumption about the policy reaction.",
-  "tags": [
-   "inflation",
-   "monetary policy",
-   "AI"
-  ],
-  "paywall": false
  },
  {
   "title": "When the unthinkable happens: perceptions of monetary policy in tail events",
@@ -183,19 +166,6 @@
   "paywall": false
  },
  {
-  "title": "From power plays to price pressures: the energy transition and inflation",
-  "source": "Bank of England, Bank Underground (Shin, Kyriakopoulou, Perers Cook)",
-  "date": "2026-11-19",
-  "min": 8,
-  "url": "https://bankunderground.co.uk/2026/11/19/from-power-plays-to-price-pressures-the-energy-transition-and-inflation/",
-  "why": "BoE staff show electricity now outweighs gas and petrol in the UK CPI basket, and that while the spot gas-power price correlation has collapsed since 2022, the futures correlation is still near 1, so gas shocks still reach bills. They flag grid supply chains (transformers, cables, critical minerals) shared with data centres as a more persistent inflation source.",
-  "tags": [
-   "energy",
-   "inflation"
-  ],
-  "paywall": false
- },
- {
   "title": "Higher fuel prices seep into core inflation",
   "source": "Dallas Fed Economics (Chudik, Kilian, Zhou)",
   "date": "2026-11-19",
@@ -238,34 +208,6 @@
   "paywall": false
  },
  {
-  "title": "The tax code already has an AI policy: It pays companies to borrow",
-  "source": "Brookings, Urban-Brookings Tax Policy Center (Brosy, Patel)",
-  "date": "2026-11-17",
-  "min": 6,
-  "url": "https://www.brookings.edu/articles/the-tax-code-already-has-an-ai-policy-it-pays-companies-to-borrow/",
-  "why": "Full expensing plus interest deductibility puts the marginal effective tax rate on debt-financed computing equipment at -46% in 2026, up from -14% before OBBBA made expensing permanent, while hyperscaler long-term debt doubled from $232 billion to $486 billion between 2024 and mid-2026. It adds a policy angle to the AI-credit story: the subsidy tilts the buildout toward debt and off-balance-sheet vehicles like Meta's $27 billion Hyperion JV, and the interest cap likely does not bind for these firms.",
-  "tags": [
-   "AI credit",
-   "fiscal",
-   "tax"
-  ],
-  "paywall": false
- },
- {
-  "title": "Does the Stock Market Stigmatize Banks that Borrow from the Fed?",
-  "source": "NY Fed Liberty Street Economics (Fischl-Lanzoni, Hiti, Sarkar)",
-  "date": "2026-11-17",
-  "min": 6,
-  "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/does-the-stock-market-stigmatize-banks-that-borrow-from-the-fed/",
-  "why": "Using bank stock betas to uninsured deposits, unrealized losses, cash and capital during March 2023, the authors find investors grew more sensitive to a bank's weaknesses after its first Discount Window loan but not after its first BTFP loan. It is direct evidence on why lender-of-last-resort design (face-value collateral, a new facility with no history) decides whether banks actually use the backstop in a run.",
-  "tags": [
-   "financial stability",
-   "banks",
-   "Fed facilities"
-  ],
-  "paywall": false
- },
- {
   "title": "Clouds of Credit: Mapping the Financial Web Behind AI Compute",
   "source": "NBER Working Paper 36032 (Van Nieuwerburgh, Su)",
   "date": "2026-11-16",
@@ -276,6 +218,79 @@
    "AI credit",
    "financial stability",
    "private credit"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Explaining the stock market: Why is it still so hard?",
+  "source": "VoxEU/CEPR (Bryan Kelly, Yinan Su, Chao Zhang)",
+  "date": "2026-11-26",
+  "min": 6,
+  "url": "https://cepr.org/voxeu/columns/explaining-stock-market-why-it-still-so-hard",
+  "why": "Using an LLM to pull the stated reasons out of one Wall Street Journal market recap per trading day (2002 to 2024), the authors explain about 30% of daily and 40% of monthly S&P 500 return variation out of sample, against roughly 10% at best for macro, cash-flow, expectations and flow benchmarks. Corporate news, macro activity and sentiment each explain 6 to 9% of daily variation, and anticipated reasons outperform random subsets, which cuts against the idea that the recaps are just after-the-fact storytelling.",
+  "tags": [
+   "market structure",
+   "asset pricing",
+   "AI"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "How Hedge Funds Are Navigating Stock Market Volatility",
+  "source": "Goldman Sachs, The Markets (Vincent Lin, Prime Insights and Analytics)",
+  "date": "2026-11-25",
+  "min": 10,
+  "url": "https://www.goldmansachs.com/insights/the-markets/how-hedge-funds-are-navigating-stock-market-volatility",
+  "why": "Goldman prime book data show five straight weeks of hedge fund degrossing, then a shift to adding hedges last week, with ETF shorts up about 19 percentage points, the third-largest weekly increase in a decade; fast money (hedge funds, CTAs) sits near multi-year-low positioning while ETFs and mutual funds took in about $150 billion during the drawdown. Fundamental long/short funds are still up about 7% after peaking near 17% at midyear, and the desk reads the market as \"buyers live higher\" into year-end; the closing trade ideas are opinion, the flow numbers are the reason to read it.",
+  "tags": [
+   "positioning",
+   "flows",
+   "hedge funds"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Canada's monetary policy framework: A trusted anchor in uncertain waters",
+  "source": "Bank of Canada (Governor Tiff Macklem, speech)",
+  "date": "2026-11-24",
+  "min": 14,
+  "url": "https://www.bankofcanada.ca/2026/11/canadas-monetary-policy-framework-a-trusted-anchor-in-uncertain-waters/",
+  "why": "Macklem lays out the conclusions of the 2027 to 2031 framework renewal: total CPI stays the target, the Bank will lean on CPI-trim and CPIX as its two main core gauges, and it admits it was too slow to see how persistent and broad post-pandemic inflation was. He frames today as a live supply-shock test, with inflation near 3% since April, businesses so far absorbing energy costs but more pass-through expected, which is why the Bank hiked 25 basis points to 2.5% in October.",
+  "tags": [
+   "monetary policy",
+   "inflation",
+   "energy"
+  ],
+  "paywall": false,
+  "top": true
+ },
+ {
+  "title": "Policy driven trade imbalances: The case of sovereign wealth funds",
+  "source": "PIIE RealTime Economics (Joseph E. Gagnon, Nishtha Agrawal)",
+  "date": "2026-11-24",
+  "min": 3,
+  "url": "https://www.piie.com/blogs/realtime-economics/2026/policy-driven-trade-imbalances-case-sovereign-wealth-funds",
+  "why": "Their estimates say each $1 of fiscal surplus raises the trade balance by about $0.30 and each $1 of official foreign-asset purchases by about $0.50, or $0.80 or more when combined. Across 12 major oil exporters, persistent surpluses show up only where governments park oil revenue abroad through sovereign wealth funds (Norway, Kuwait, Saudi Arabia), which makes official flows, not commodity luck, the variable to watch for global imbalances.",
+  "tags": [
+   "trade",
+   "macro",
+   "capital flows"
+  ],
+  "paywall": false
+ },
+ {
+  "title": "Five Facts About Stablecoins",
+  "source": "NBER Working Paper 36038 (Cong, Liao, Prasad, Zhang)",
+  "date": "2026-11-23",
+  "min": 145,
+  "url": "https://www.nber.org/papers/w36038",
+  "why": "Wallet-level blockchain data for 2020 to 2025 show stablecoins working as a transaction currency, with on-chain volume above Bitcoin, rising velocity and a shift toward small transfers, plus falling wallet access costs since 2023 and growing use as the settlement asset of on-chain credit that seems to reallocate rather than destroy credit. Smart contracts touch about a third of Ethereum stablecoin transactions and over two thirds of volume; note that co-author Gordon Liao is Circle's chief economist, and the abstract plus the five fact sections are the efficient read.",
+  "tags": [
+   "stablecoins",
+   "market structure",
+   "payments"
   ],
   "paywall": false
  }
